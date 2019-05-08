@@ -1,0 +1,72 @@
+GPUName
+Juniper
+GPUVariant
+Juniper XT(215-0754013)
+Architecture
+TeraScale 2
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+1,040 million
+DieSize
+166 mm^2
+ReleaseDate
+Oct 13th, 2009
+Generation
+Evergreen(HD 5700)
+Production
+End-of-life
+LaunchPrice
+159 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+850 MHz
+MemoryClock
+1200 MHz4800 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+76.80 GB/s
+ShadingUnits
+800
+TMUs
+40
+ROPs
+16
+ComputeUnits
+10
+PixelRate
+13.60 GPixel/s
+TextureRate
+34.00 GTexel/s
+FP32(float)performance
+1,360 GFLOPS
+SlotWidth
+Dual-slot
+Length
+8.19 inches208 mm
+TDP
+108 W
+Outputs
+2x DVI1x HDMI1x DisplayPort
+PowerConnectors
+1x 6-pin
+BoardNumber
+C010
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

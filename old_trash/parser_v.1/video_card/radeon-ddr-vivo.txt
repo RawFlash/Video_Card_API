@@ -1,0 +1,66 @@
+GPUName
+Rage 6
+GPUVariant
+215R6EBGA13
+Architecture
+Rage 6
+Foundry
+TSMC
+ProcessSize
+180 nm
+Transistors
+30 million
+DieSize
+115 mm^2
+ReleaseDate
+Aug 14th, 2001
+Generation
+Rage 6
+Production
+End-of-life
+BusInterface
+AGP 4x
+GPUClock
+183 MHz
+MemoryClock
+183 MHz366 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+5.856 GB/s
+PixelShaders
+2
+VertexShaders
+1
+TMUs
+6
+ROPs
+2
+PixelRate
+366.0 MPixel/s
+VertexRate
+45.75 MVertices/s
+TextureRate
+1.098 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x VGA2x S-Video
+DirectX
+7.0 
+OpenGL
+1.3
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+1.4
+VertexShader
+1.1

@@ -1,0 +1,76 @@
+GPUName
+Polaris 21
+GPUVariant
+Polaris 21 XL
+Architecture
+GCN 4.0
+Foundry
+GlobalFoundries
+ProcessSize
+14 nm
+Transistors
+3,000 million
+DieSize
+123 mm^2
+ReleaseDate
+Jul 4th, 2017
+Generation
+Polaris(RX 500)
+Production
+Active
+BusInterface
+PCIe 3.0 x8
+GPUClock
+1090 MHz
+BoostClock
+1175 MHz
+MemoryClock
+1500 MHz6000 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+96.00 GB/s
+ShadingUnits
+896
+TMUs
+56
+ROPs
+16
+ComputeUnits
+14
+PixelRate
+18.80 GPixel/s
+TextureRate
+65.80 GTexel/s
+FP16(half)performance
+2,106 GFLOPS (1:1)
+FP32(float)performance
+2,106 GFLOPS
+FP64(double)performance
+131.6 GFLOPS (1:16)
+SlotWidth
+Dual-slot
+Length
+6.7 inches170 mm
+TDP
+65 W
+Outputs
+1x DVI1x HDMI1x DisplayPort
+PowerConnectors
+None
+BoardNumber
+C994-57 C994-71
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

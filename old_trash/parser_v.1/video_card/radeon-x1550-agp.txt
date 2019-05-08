@@ -1,0 +1,64 @@
+GPUName
+RV505
+Architecture
+R500
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+107 million
+DieSize
+100 mm^2
+ReleaseDate
+2007
+Generation
+Radeon R500(X1550)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+600 MHz
+MemoryClock
+330 MHz660 MHz effective
+MemorySize
+256 MB
+MemoryType
+DDR2
+MemoryBus
+64 bit
+Bandwidth
+5.280 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+2.400 GPixel/s
+VertexRate
+300.0 MVertices/s
+TextureRate
+2.400 GTexel/s
+SlotWidth
+Single-slot
+TDP
+27 W
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

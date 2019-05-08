@@ -1,0 +1,64 @@
+GPUName
+NV34 B1
+GPUVariant
+Go5200
+Architecture
+Rankine
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+45 million
+DieSize
+91 mm^2
+ReleaseDate
+Mar 1st, 2003
+Generation
+GeForce FX Go 5(Go 5000)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+200 MHz
+MemoryClock
+200 MHz400 MHz effective
+MemorySize
+32 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+6.400 GB/s
+PixelShaders
+4
+VertexShaders
+3
+TMUs
+4
+ROPs
+4
+PixelRate
+800.0 MPixel/s
+VertexRate
+150.0 MVertices/s
+TextureRate
+800.0 MTexel/s
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+9.0a 
+OpenGL
+1.5 (2.1)
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0a
+VertexShader
+2.0a

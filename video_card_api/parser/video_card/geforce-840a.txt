@@ -1,0 +1,68 @@
+GPUName
+GM108
+Architecture
+Maxwell
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+unknown
+DieSize
+unknown
+ReleaseDate
+Mar 17th, 2014
+Generation
+GeForce 800A
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x8
+GPUClock
+1029 MHz
+BoostClock
+1124 MHz
+MemoryClock
+1001 MHz2002 MHz effective
+MemorySize
+1024 MB
+MemoryType
+DDR3
+MemoryBus
+64 bit
+Bandwidth
+16.02 GB/s
+ShadingUnits
+384
+TMUs
+16
+ROPs
+8
+SMMCount
+3
+PixelRate
+8.992 GPixel/s
+TextureRate
+17.98 GTexel/s
+FP32(float)performance
+863.2 GFLOPS
+FP64(double)performance
+26.98 GFLOPS (1:32)
+SlotWidth
+IGP
+TDP
+33 W
+Outputs
+No outputs
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.92
+CUDA
+5.0
+ShaderModel
+5.1

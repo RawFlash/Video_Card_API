@@ -1,0 +1,70 @@
+GPUName
+R520
+GPUVariant
+R520 XT(215RFNBKA15FG)
+Architecture
+R500
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+321 million
+DieSize
+288 mm^2
+ReleaseDate
+Oct 1st, 2005
+Generation
+Radeon R500(X1800)
+Production
+End-of-life
+LaunchPrice
+549 USD
+BusInterface
+PCIe 1.0 x16
+GPUClock
+600 MHz
+MemoryClock
+700 MHz1400 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+44.80 GB/s
+PixelShaders
+16
+VertexShaders
+8
+TMUs
+16
+ROPs
+16
+PixelRate
+9.600 GPixel/s
+VertexRate
+1.200 GVertices/s
+TextureRate
+9.600 GTexel/s
+SlotWidth
+Dual-slot
+TDP
+113 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+1x 6-pin
+BoardNumber
+A520
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

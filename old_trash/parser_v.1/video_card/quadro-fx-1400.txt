@@ -1,0 +1,70 @@
+GPUName
+NV41
+GPUVariant
+NV41 GL
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+222 million
+DieSize
+225 mm^2
+ReleaseDate
+Aug 9th, 2004
+Generation
+Quadro FX(x400)
+Production
+End-of-life
+LaunchPrice
+799 USD
+BusInterface
+PCIe 1.0 x16
+GPUClock
+350 MHz
+MemoryClock
+300 MHz600 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+9.600 GB/s
+PixelShaders
+12
+VertexShaders
+5
+TMUs
+12
+ROPs
+8
+PixelRate
+2.800 GPixel/s
+VertexRate
+437.5 MVertices/s
+TextureRate
+4.200 GTexel/s
+SlotWidth
+Single-slot
+TDP
+55 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+None
+BoardNumber
+P260
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

@@ -1,0 +1,72 @@
+GPUName
+Curacao
+GPUVariant
+Curacao PRO(215-0848000)
+Architecture
+GCN 1.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+2,800 million
+DieSize
+212 mm^2
+ReleaseDate
+Aug 12th, 2014
+Generation
+Volcanic Islands(R7 200)
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x16
+GPUClock
+900 MHz
+BoostClock
+925 MHz
+MemoryClock
+1400 MHz5600 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+179.2 GB/s
+ShadingUnits
+1280
+TMUs
+80
+ROPs
+32
+ComputeUnits
+20
+PixelRate
+29.60 GPixel/s
+TextureRate
+74.00 GTexel/s
+FP32(float)performance
+2,368 GFLOPS
+FP64(double)performance
+148.0 GFLOPS (1:16)
+SlotWidth
+Dual-slot
+Length
+8.28 inches210 mm
+TDP
+150 W
+Outputs
+2x DVI1x HDMI1x DisplayPort
+PowerConnectors
+1x 6-pin
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.86
+ShaderModel
+5.1

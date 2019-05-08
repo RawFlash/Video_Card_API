@@ -1,0 +1,70 @@
+GPUName
+Tonga
+GPUVariant
+Tonga XT
+Architecture
+GCN 3.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+5,000 million
+DieSize
+366 mm^2
+ReleaseDate
+Never Released
+Generation
+Volcanic Islands(R9 200)
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1002 MHz
+MemoryClock
+1375 MHz5500 MHz effective
+MemorySize
+3 GB
+MemoryType
+GDDR5
+MemoryBus
+384 bit
+Bandwidth
+264.0 GB/s
+ShadingUnits
+2048
+TMUs
+128
+ROPs
+32
+ComputeUnits
+32
+PixelRate
+32.06 GPixel/s
+TextureRate
+128.3 GTexel/s
+FP32(float)performance
+4,104 GFLOPS
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+200 W
+Outputs
+2x DVI1x HDMI1x DisplayPort
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+C765
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

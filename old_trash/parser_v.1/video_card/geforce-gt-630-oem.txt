@@ -1,0 +1,74 @@
+GPUName
+GK107
+GPUVariant
+GK107-301-A2
+Architecture
+Kepler
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+1,270 million
+DieSize
+118 mm^2
+ReleaseDate
+Apr 24th, 2012
+Generation
+GeForce 600
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x16
+GPUClock
+875 MHz
+MemoryClock
+891 MHz1782 MHz effective
+MemorySize
+1024 MB
+MemoryType
+DDR3
+MemoryBus
+128 bit
+Bandwidth
+28.51 GB/s
+ShadingUnits
+192
+TMUs
+16
+ROPs
+16
+SMXCount
+1
+PixelRate
+3.500 GPixel/s
+TextureRate
+14.00 GTexel/s
+FP32(float)performance
+336.0 GFLOPS
+FP64(double)performance
+14.00 GFLOPS (1:24)
+SlotWidth
+Single-slot
+Length
+5.7 inches145 mm
+TDP
+50 W
+Outputs
+1x DVI1x HDMI1x VGA
+PowerConnectors
+None
+BoardNumber
+P2011
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+3.0
+ShaderModel
+5.1

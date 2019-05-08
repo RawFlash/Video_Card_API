@@ -1,0 +1,66 @@
+GPUName
+RV730
+GPUVariant
+RV730 XT(215-0719047)
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+514 million
+DieSize
+146 mm^2
+ReleaseDate
+Jul 17th, 2007
+Generation
+Radeon R700(HD 4600)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+750 MHz
+MemoryClock
+800 MHz1600 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+25.60 GB/s
+ShadingUnits
+320
+TMUs
+32
+ROPs
+8
+ComputeUnits
+4
+PixelRate
+6.000 GPixel/s
+TextureRate
+24.00 GTexel/s
+FP32(float)performance
+480.0 GFLOPS
+SlotWidth
+Dual-slot
+Length
+7.6 inches193 mm
+TDP
+59 W
+Outputs
+1x DVI1x HDMI1x VGA
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+ShaderModel
+4.1

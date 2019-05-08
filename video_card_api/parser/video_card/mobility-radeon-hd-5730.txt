@@ -1,0 +1,62 @@
+GPUName
+Madison
+GPUVariant
+Madison XT(216-0772003)
+Architecture
+TeraScale 2
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+627 million
+DieSize
+104 mm^2
+ReleaseDate
+Jan 7th, 2010
+Generation
+Manhattan(Mobility HD 5700)
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+650 MHz
+MemoryClock
+800 MHz1600 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+25.60 GB/s
+ShadingUnits
+400
+TMUs
+20
+ROPs
+8
+ComputeUnits
+5
+PixelRate
+5.200 GPixel/s
+TextureRate
+13.00 GTexel/s
+FP32(float)performance
+520.0 GFLOPS
+TDP
+26 W
+Outputs
+No outputs
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

@@ -1,0 +1,76 @@
+GPUName
+GK107
+GPUVariant
+GK107-450-A2
+Architecture
+Kepler
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+1,270 million
+DieSize
+118 mm^2
+ReleaseDate
+Sep 6th, 2012
+Generation
+GeForce 600
+Production
+End-of-life
+LaunchPrice
+109 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1058 MHz
+MemoryClock
+1250 MHz5000 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+80.00 GB/s
+ShadingUnits
+384
+TMUs
+32
+ROPs
+16
+SMXCount
+2
+PixelRate
+8.464 GPixel/s
+TextureRate
+33.86 GTexel/s
+FP32(float)performance
+812.5 GFLOPS
+FP64(double)performance
+33.86 GFLOPS (1:24)
+SlotWidth
+Single-slot
+Length
+5.78 inches147 mm
+TDP
+65 W
+Outputs
+2x DVI1x mini-HDMI
+PowerConnectors
+1x 6-pin
+BoardNumber
+P2010
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+3.0
+ShaderModel
+5.1

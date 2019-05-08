@@ -1,0 +1,72 @@
+GPUName
+Ellesmere
+GPUVariant
+Ellesmere XT
+Architecture
+GCN 4.0
+Foundry
+TSMC
+ProcessSize
+14 nm
+Transistors
+5,700 million
+DieSize
+232 mm^2
+ReleaseDate
+Sep 27th, 2016
+Generation
+Embedded(9000)
+Production
+Active
+BusInterface
+MXM-B (3.0)
+GPUClock
+1120 MHz
+BoostClock
+1266 MHz
+MemoryClock
+1250 MHz5000 MHz effective
+MemorySize
+8 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+160.0 GB/s
+ShadingUnits
+2304
+TMUs
+144
+ROPs
+32
+ComputeUnits
+36
+PixelRate
+40.51 GPixel/s
+TextureRate
+182.3 GTexel/s
+FP16(half)performance
+5,834 GFLOPS (1:1)
+FP32(float)performance
+5,834 GFLOPS
+FP64(double)performance
+364.6 GFLOPS (1:16)
+SlotWidth
+MXM Module
+TDP
+95 W
+Outputs
+1x HDMI3x DisplayPort
+PowerConnectors
+None
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

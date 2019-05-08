@@ -1,0 +1,62 @@
+GPUName
+ION
+Architecture
+Tesla
+ProcessSize
+65 nm
+Transistors
+282 million
+DieSize
+162 mm^2
+ReleaseDate
+Jun 3rd, 2008
+Generation
+ION
+Production
+End-of-life
+BusInterface
+PCI
+GPUClock
+575 MHz
+ShaderClock
+1500 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+16
+TMUs
+8
+ROPs
+4
+SMCount
+1
+PixelRate
+2.300 GPixel/s
+TextureRate
+4.600 GTexel/s
+FP32(float)performance
+48.00 GFLOPS
+SlotWidth
+IGP
+TDP
+20 W
+Outputs
+No outputs
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.0

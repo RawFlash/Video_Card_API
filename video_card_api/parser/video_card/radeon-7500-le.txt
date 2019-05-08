@@ -1,0 +1,68 @@
+GPUName
+RV200
+GPUVariant
+215R7TSAGA12
+Architecture
+Rage 7
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+60 million
+DieSize
+84 mm^2
+ReleaseDate
+Aug 14th, 2001
+Generation
+Radeon R200(7500)
+Production
+End-of-life
+BusInterface
+AGP 4x
+GPUClock
+250 MHz
+MemoryClock
+175 MHz350 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+5.600 GB/s
+PixelShaders
+2
+VertexShaders
+1
+TMUs
+6
+ROPs
+2
+PixelRate
+500.0 MPixel/s
+VertexRate
+62.50 MVertices/s
+TextureRate
+1.500 GTexel/s
+SlotWidth
+Single-slot
+TDP
+23 W
+Outputs
+1x VGA1x S-Video
+PowerConnectors
+None
+DirectX
+8.1 
+OpenGL
+1.3
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+1.4
+VertexShader
+1.1

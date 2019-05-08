@@ -1,0 +1,74 @@
+GPUName
+RV790
+GPUVariant
+RV790 XT(215-0758016)
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+959 million
+DieSize
+282 mm^2
+ReleaseDate
+Apr 2nd, 2009
+Generation
+Radeon R700(HD 4800)
+Production
+End-of-life
+LaunchPrice
+249 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+850 MHz
+MemoryClock
+975 MHz3900 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+124.8 GB/s
+ShadingUnits
+800
+TMUs
+40
+ROPs
+16
+ComputeUnits
+10
+PixelRate
+13.60 GPixel/s
+TextureRate
+34.00 GTexel/s
+FP32(float)performance
+1,360 GFLOPS
+FP64(double)performance
+272.0 GFLOPS (1:5)
+SlotWidth
+Dual-slot
+Length
+9.49 inches241 mm
+TDP
+190 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+2x 6-pin
+BoardNumber
+B790-31
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+ShaderModel
+4.1

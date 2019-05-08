@@ -1,0 +1,64 @@
+GPUName
+RS400
+Architecture
+Rage 8
+ProcessSize
+130 nm
+Transistors
+unknown
+DieSize
+73 mm^2
+ReleaseDate
+2005
+Generation
+Radeon IGP(Xpress)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+301 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+PixelShaders
+2
+VertexShaders
+2
+TMUs
+2
+ROPs
+2
+PixelRate
+602.0 MPixel/s
+VertexRate
+150.5 MVertices/s
+TextureRate
+602.0 MTexel/s
+SlotWidth
+IGP
+TDP
+unknown
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+9.0 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0
+VertexShader
+2.0

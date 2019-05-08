@@ -1,0 +1,66 @@
+GPUName
+NV35
+Architecture
+Rankine
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+135 million
+DieSize
+207 mm^2
+ReleaseDate
+May 12th, 2003
+Generation
+GeForce FX(5900)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+400 MHz
+MemoryClock
+350 MHz700 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+256 bit
+Bandwidth
+22.40 GB/s
+PixelShaders
+4
+VertexShaders
+3
+TMUs
+8
+ROPs
+4
+PixelRate
+1.600 GPixel/s
+VertexRate
+300.0 MVertices/s
+TextureRate
+3.200 GTexel/s
+SlotWidth
+Single-slot
+TDP
+35 W
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+1x Molex
+DirectX
+9.0a 
+OpenGL
+1.5 (2.1)
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0a
+VertexShader
+2.0a

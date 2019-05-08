@@ -1,0 +1,70 @@
+GPUName
+R200
+GPUVariant
+215R7AAGA13H
+Architecture
+Rage 7
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+60 million
+DieSize
+68 mm^2
+ReleaseDate
+Aug 14th, 2001
+Generation
+Radeon R200(8500)
+Production
+End-of-life
+BusInterface
+AGP 4x
+GPUClock
+275 MHz
+MemoryClock
+275 MHz550 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+8.800 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+8
+ROPs
+4
+PixelRate
+1.100 GPixel/s
+VertexRate
+137.5 MVertices/s
+TextureRate
+2.200 GTexel/s
+SlotWidth
+Single-slot
+TDP
+23 W
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+BoardNumber
+857
+DirectX
+8.1 
+OpenGL
+1.4
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+1.4
+VertexShader
+1.1

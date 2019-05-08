@@ -1,0 +1,70 @@
+GPUName
+NV44 A2
+GPUVariant
+QD-NVS285-N-A2
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+110 nm
+Transistors
+75 million
+DieSize
+110 mm^2
+ReleaseDate
+Jun 6th, 2006
+Generation
+Quadro NVS
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+275 MHz
+MemoryClock
+250 MHz500 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+8.000 GB/s
+PixelShaders
+4
+VertexShaders
+3
+TMUs
+4
+ROPs
+2
+PixelRate
+550.0 MPixel/s
+VertexRate
+206.3 MVertices/s
+TextureRate
+1.100 GTexel/s
+SlotWidth
+Single-slot
+Length
+6.6 inches168 mm
+TDP
+18 W
+Outputs
+1x DMS-59
+PowerConnectors
+None
+BoardNumber
+P283, P383
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

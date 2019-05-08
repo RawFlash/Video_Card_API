@@ -1,0 +1,76 @@
+GPUName
+GM206
+GPUVariant
+GM206-250-A1
+Architecture
+Maxwell 2.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+2,940 million
+DieSize
+228 mm^2
+ReleaseDate
+Aug 20th, 2015
+Generation
+GeForce 900
+Production
+Active
+LaunchPrice
+159 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1024 MHz
+BoostClock
+1188 MHz
+MemoryClock
+1653 MHz6612 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+105.8 GB/s
+ShadingUnits
+768
+TMUs
+48
+ROPs
+32
+SMMCount
+6
+PixelRate
+38.02 GPixel/s
+TextureRate
+57.02 GTexel/s
+FP32(float)performance
+1,825 GFLOPS
+FP64(double)performance
+57.02 GFLOPS (1:32)
+SlotWidth
+Dual-slot
+Length
+7.94 inches202 mm
+TDP
+90 W
+Outputs
+1x DVI1x HDMI3x DisplayPort
+PowerConnectors
+1x 6-pin
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+5.2
+ShaderModel
+6.2

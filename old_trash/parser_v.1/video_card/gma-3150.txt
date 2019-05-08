@@ -1,0 +1,60 @@
+GPUName
+Pineview
+Architecture
+Generation 4.0
+Foundry
+Intel
+ProcessSize
+45 nm
+Transistors
+unknown
+DieSize
+66 mm^2
+ReleaseDate
+May 9th, 2007
+Generation
+GMA 3100(Mobile IGP)
+Production
+End-of-life
+BusInterface
+PCI
+GPUClock
+400 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+16
+TMUs
+2
+ROPs
+1
+PixelRate
+400.0 MPixel/s
+TextureRate
+800.0 MTexel/s
+FP32(float)performance
+12.80 GFLOPS
+SlotWidth
+IGP
+TDP
+13 W
+Outputs
+No outputs
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

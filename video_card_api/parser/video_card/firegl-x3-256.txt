@@ -1,0 +1,72 @@
+GPUName
+R420
+GPUVariant
+R420 GL
+Architecture
+R400
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+160 million
+DieSize
+281 mm^2
+ReleaseDate
+Aug 3rd, 2004
+Generation
+FireGL(X)
+Production
+End-of-life
+LaunchPrice
+1,099 USD
+BusInterface
+AGP 8x
+GPUClock
+491 MHz
+MemoryClock
+454 MHz908 MHz effective
+MemorySize
+256 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+29.06 GB/s
+PixelShaders
+12
+VertexShaders
+6
+TMUs
+12
+ROPs
+12
+PixelRate
+5.892 GPixel/s
+VertexRate
+736.5 MVertices/s
+TextureRate
+5.892 GTexel/s
+SlotWidth
+Single-slot
+TDP
+57 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+1x Molex
+BoardNumber
+A301
+DirectX
+9.0b 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0b
+VertexShader
+2.0b

@@ -1,0 +1,80 @@
+GPUName
+GV100
+Architecture
+Volta
+Foundry
+TSMC
+ProcessSize
+12 nm
+Transistors
+21,100 million
+DieSize
+815 mm^2
+ReleaseDate
+Mar 27th, 2018
+Generation
+Quadro(Vx000)
+Production
+Active
+LaunchPrice
+8,999 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1132 MHz
+BoostClock
+1627 MHz
+MemoryClock
+848 MHz1696 MHz effective
+MemorySize
+32 GB
+MemoryType
+HBM2
+MemoryBus
+4096 bit
+Bandwidth
+868.4 GB/s
+ShadingUnits
+5120
+TMUs
+320
+ROPs
+128
+SMCount
+80
+TensorCores
+640
+PixelRate
+208.3 GPixel/s
+TextureRate
+520.6 GTexel/s
+FP16(half)performance
+33,321 GFLOPS (2:1)
+FP32(float)performance
+16,660 GFLOPS
+FP64(double)performance
+8,330 GFLOPS (1:2)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+250 W
+Outputs
+4x DisplayPort
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+PG500 SKU 500
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+7.0
+ShaderModel
+6.3

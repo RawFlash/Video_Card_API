@@ -1,0 +1,62 @@
+GPUName
+Granville
+GPUVariant
+Granville LP
+Architecture
+TeraScale 2
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+1,040 million
+DieSize
+166 mm^2
+ReleaseDate
+Jan 4th, 2011
+Generation
+Vancouver(HD 6800M)
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+575 MHz
+MemoryClock
+800 MHz1600 MHz effective
+MemorySize
+1024 MB
+MemoryType
+DDR3
+MemoryBus
+128 bit
+Bandwidth
+25.60 GB/s
+ShadingUnits
+800
+TMUs
+40
+ROPs
+16
+ComputeUnits
+10
+PixelRate
+9.200 GPixel/s
+TextureRate
+23.00 GTexel/s
+FP32(float)performance
+920.0 GFLOPS
+TDP
+39 W
+Outputs
+No outputs
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

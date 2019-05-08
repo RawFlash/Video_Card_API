@@ -1,0 +1,70 @@
+GPUName
+Polaris 21
+GPUVariant
+Polaris 21 XT(215-0908004)
+Architecture
+GCN 4.0
+Foundry
+GlobalFoundries
+ProcessSize
+14 nm
+Transistors
+3,000 million
+DieSize
+123 mm^2
+ReleaseDate
+Jul 16th, 2018
+Generation
+Radeon Pro(500X)
+Production
+Active
+BusInterface
+PCIe 3.0 x8
+GPUClock
+1004 MHz
+MemoryClock
+1270 MHz5080 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+81.28 GB/s
+ShadingUnits
+1024
+TMUs
+64
+ROPs
+16
+ComputeUnits
+16
+PixelRate
+16.06 GPixel/s
+TextureRate
+64.26 GTexel/s
+FP16(half)performance
+2,056 GFLOPS (1:1)
+FP32(float)performance
+2,056 GFLOPS
+FP64(double)performance
+128.5 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+75 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

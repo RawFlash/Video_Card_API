@@ -1,0 +1,72 @@
+GPUName
+GF100
+GPUVariant
+GF100-375-A3
+Architecture
+Fermi
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+3,100 million
+DieSize
+529 mm^2
+ReleaseDate
+Never Released
+Generation
+GeForce 400
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+801 MHz
+ShaderClock
+1601 MHz
+MemoryClock
+950 MHz3800 MHz effective
+MemorySize
+1536 MB
+MemoryType
+GDDR5
+MemoryBus
+384 bit
+Bandwidth
+182.4 GB/s
+ShadingUnits
+512
+TMUs
+64
+ROPs
+48
+SMCount
+16
+PixelRate
+25.63 GPixel/s
+TextureRate
+51.26 GTexel/s
+FP32(float)performance
+1,639 GFLOPS
+SlotWidth
+Dual-slot
+Length
+11.5 inches292 mm
+TDP
+375 W
+Outputs
+2x DVI1x mini-HDMI
+PowerConnectors
+2x 8-pin
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+2.0
+ShaderModel
+5.1

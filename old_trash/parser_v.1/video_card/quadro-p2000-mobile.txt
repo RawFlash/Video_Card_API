@@ -1,0 +1,70 @@
+GPUName
+GP107
+Architecture
+Pascal
+Foundry
+Samsung
+ProcessSize
+14 nm
+Transistors
+3,300 million
+DieSize
+132 mm^2
+ReleaseDate
+Feb 6th, 2017
+Generation
+Quadro(Px000 Mobile)
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1557 MHz
+BoostClock
+1607 MHz
+MemoryClock
+1502 MHz6008 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+96.13 GB/s
+ShadingUnits
+768
+TMUs
+64
+ROPs
+32
+SMCount
+6
+PixelRate
+51.42 GPixel/s
+TextureRate
+102.8 GTexel/s
+FP16(half)performance
+38.57 GFLOPS (1:64)
+FP32(float)performance
+2,468 GFLOPS
+FP64(double)performance
+77.14 GFLOPS (1:32)
+TDP
+50 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.1
+ShaderModel
+6.2

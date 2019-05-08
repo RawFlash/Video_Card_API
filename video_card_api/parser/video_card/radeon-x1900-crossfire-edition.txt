@@ -1,0 +1,68 @@
+GPUName
+R580
+GPUVariant
+R580 CF
+Architecture
+R500
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+384 million
+DieSize
+352 mm^2
+ReleaseDate
+Jan 24th, 2006
+Generation
+Radeon R500(X1900)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+625 MHz
+MemoryClock
+725 MHz1450 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+46.40 GB/s
+PixelShaders
+48
+VertexShaders
+8
+TMUs
+16
+ROPs
+16
+PixelRate
+10.00 GPixel/s
+VertexRate
+1.250 GVertices/s
+TextureRate
+10.00 GTexel/s
+SlotWidth
+Dual-slot
+TDP
+100 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+1x 6-pin
+BoardNumber
+A721
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

@@ -1,0 +1,66 @@
+GPUName
+RV530
+GPUVariant
+RV530 LE
+Architecture
+R500
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+157 million
+DieSize
+150 mm^2
+ReleaseDate
+Dec 2nd, 2007
+Generation
+Radeon R500(X1650)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+587 MHz
+MemoryClock
+392 MHz784 MHz effective
+MemorySize
+256 MB
+MemoryType
+DDR2
+MemoryBus
+128 bit
+Bandwidth
+12.54 GB/s
+PixelShaders
+12
+VertexShaders
+5
+TMUs
+4
+ROPs
+4
+PixelRate
+2.348 GPixel/s
+VertexRate
+733.8 MVertices/s
+TextureRate
+2.348 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x HDMI1x VGA
+PowerConnectors
+None
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

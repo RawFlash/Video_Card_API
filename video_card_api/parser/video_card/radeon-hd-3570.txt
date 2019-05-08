@@ -1,0 +1,66 @@
+GPUName
+RV620
+GPUVariant
+RV620 PRO
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+181 million
+DieSize
+67 mm^2
+ReleaseDate
+Jul 5th, 2010
+Generation
+Radeon R600(HD 3500)
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+796 MHz
+MemoryClock
+495 MHz990 MHz effective
+MemorySize
+512 MB
+MemoryType
+DDR2
+MemoryBus
+64 bit
+Bandwidth
+7.920 GB/s
+ShadingUnits
+40
+TMUs
+4
+ROPs
+4
+ComputeUnits
+2
+PixelRate
+3.184 GPixel/s
+TextureRate
+3.184 GTexel/s
+FP32(float)performance
+63.68 GFLOPS
+SlotWidth
+Single-slot
+TDP
+30 W
+Outputs
+2x DisplayPort
+PowerConnectors
+None
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.1

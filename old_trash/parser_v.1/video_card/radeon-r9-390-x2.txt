@@ -1,0 +1,72 @@
+GPUName
+Grenada
+GPUVariant
+Grenada PRO(215-0880030)
+Architecture
+GCN 2.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+6,200 million
+DieSize
+438 mm^2
+ReleaseDate
+Sep 3rd, 2015
+Generation
+Pirate Islands(R9 300)
+Production
+Active
+LaunchPrice
+1,399 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1000 MHz
+MemoryClock
+1350 MHz5400 MHz effective
+MemorySize
+8 GB
+MemoryType
+GDDR5
+MemoryBus
+512 bit
+Bandwidth
+345.6 GB/s
+ShadingUnits
+2560
+TMUs
+160
+ROPs
+64
+ComputeUnits
+40
+PixelRate
+64.00 GPixel/s
+TextureRate
+160.0 GTexel/s
+FP32(float)performance
+5,120 GFLOPS
+FP64(double)performance
+640.0 GFLOPS (1:8)
+SlotWidth
+Triple-slot
+TDP
+580 W
+Outputs
+2x DVI1x HDMI1x DisplayPort
+PowerConnectors
+4x 8-pin
+BoardNumber
+C671
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

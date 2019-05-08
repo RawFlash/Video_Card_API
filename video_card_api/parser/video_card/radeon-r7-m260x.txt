@@ -1,0 +1,66 @@
+GPUName
+Opal
+GPUVariant
+Opal PRO
+Architecture
+GCN 1.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+1,040 million
+DieSize
+77 mm^2
+ReleaseDate
+Dec 6th, 2015
+Generation
+Crystal System(R7 M200)
+Production
+Active
+BusInterface
+PCIe 3.0 x8
+GPUClock
+620 MHz
+BoostClock
+715 MHz
+MemoryClock
+1000 MHz4000 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+64.00 GB/s
+ShadingUnits
+384
+TMUs
+24
+ROPs
+8
+ComputeUnits
+6
+PixelRate
+5.720 GPixel/s
+TextureRate
+17.16 GTexel/s
+FP32(float)performance
+549.1 GFLOPS
+TDP
+unknown
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.86
+ShaderModel
+5.1

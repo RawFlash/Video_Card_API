@@ -1,0 +1,70 @@
+GPUName
+RV350
+GPUVariant
+RV350 LE(215RCKALA11F)
+Architecture
+Rage 8
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+60 million
+DieSize
+76 mm^2
+ReleaseDate
+Oct 1st, 2003
+Generation
+Radeon R300(9600)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+324 MHz
+MemoryClock
+189 MHz378 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+6.048 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+1.296 GPixel/s
+VertexRate
+162.0 MVertices/s
+TextureRate
+1.296 GTexel/s
+SlotWidth
+Single-slot
+TDP
+12 W
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+BoardNumber
+A035
+DirectX
+9.0 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0
+VertexShader
+2.0

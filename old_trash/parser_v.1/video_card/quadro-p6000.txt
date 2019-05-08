@@ -1,0 +1,78 @@
+GPUName
+GP102
+Architecture
+Pascal
+Foundry
+TSMC
+ProcessSize
+16 nm
+Transistors
+11,800 million
+DieSize
+471 mm^2
+ReleaseDate
+Oct 1st, 2016
+Generation
+Quadro(Px000)
+Production
+Active
+LaunchPrice
+5,999 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1506 MHz
+BoostClock
+1645 MHz
+MemoryClock
+1127 MHz9016 MHz effective
+MemorySize
+24 GB
+MemoryType
+GDDR5X
+MemoryBus
+384 bit
+Bandwidth
+432.8 GB/s
+ShadingUnits
+3840
+TMUs
+240
+ROPs
+96
+SMCount
+30
+PixelRate
+157.9 GPixel/s
+TextureRate
+394.8 GTexel/s
+FP16(half)performance
+197.4 GFLOPS (1:64)
+FP32(float)performance
+12,634 GFLOPS
+FP64(double)performance
+394.8 GFLOPS (1:32)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+250 W
+Outputs
+1x DVI4x DisplayPort
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+PG611 SKU 500
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.1
+ShaderModel
+6.2

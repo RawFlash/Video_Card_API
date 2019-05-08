@@ -1,0 +1,82 @@
+GPUName
+GV100
+GPUVariant
+GV100-400-A1
+Architecture
+Volta
+Foundry
+TSMC
+ProcessSize
+12 nm
+Transistors
+21,100 million
+DieSize
+815 mm^2
+ReleaseDate
+Dec 7th, 2017
+Generation
+GeForce 1000
+Production
+Active
+LaunchPrice
+2,999 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1200 MHz
+BoostClock
+1455 MHz
+MemoryClock
+850 MHz1700 MHz effective
+MemorySize
+12 GB
+MemoryType
+HBM2
+MemoryBus
+3072 bit
+Bandwidth
+652.8 GB/s
+ShadingUnits
+5120
+TMUs
+320
+ROPs
+96
+SMCount
+80
+TensorCores
+640
+PixelRate
+139.7 GPixel/s
+TextureRate
+465.6 GTexel/s
+FP16(half)performance
+29,798 GFLOPS (2:1)
+FP32(float)performance
+14,899 GFLOPS
+FP64(double)performance
+7,450 GFLOPS (1:2)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+250 W
+Outputs
+1x HDMI3x DisplayPort
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+PG500 SKU 0
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+7.0
+ShaderModel
+6.3

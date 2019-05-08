@@ -1,0 +1,68 @@
+GPUName
+RV360
+Architecture
+Rage 9
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+60 million
+DieSize
+76 mm^2
+ReleaseDate
+Feb 6th, 2004
+Generation
+All-In-Wonder(9000)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+527 MHz
+MemoryClock
+324 MHz648 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+10.37 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+2.108 GPixel/s
+VertexRate
+263.5 MVertices/s
+TextureRate
+2.108 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x VGA1x S-Video
+PowerConnectors
+None
+BoardNumber
+A090
+DirectX
+9.0 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0
+VertexShader
+2.0

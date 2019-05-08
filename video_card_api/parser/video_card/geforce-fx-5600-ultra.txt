@@ -1,0 +1,72 @@
+GPUName
+NV31
+GPUVariant
+5600 Ultra
+Architecture
+Rankine
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+80 million
+DieSize
+135 mm^2
+ReleaseDate
+Mar 17th, 2003
+Generation
+GeForce FX(5600)
+Production
+End-of-life
+LaunchPrice
+199 USD
+BusInterface
+AGP 8x
+GPUClock
+350 MHz
+MemoryClock
+350 MHz700 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+11.20 GB/s
+PixelShaders
+4
+VertexShaders
+1
+TMUs
+4
+ROPs
+4
+PixelRate
+1.400 GPixel/s
+VertexRate
+87.50 MVertices/s
+TextureRate
+1.400 GTexel/s
+SlotWidth
+Single-slot
+Length
+7.5 inches191 mm
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+1x Molex
+DirectX
+9.0a 
+OpenGL
+1.5 (2.1)
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0a
+VertexShader
+2.0a

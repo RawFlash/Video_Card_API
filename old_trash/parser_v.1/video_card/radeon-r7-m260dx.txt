@@ -1,0 +1,70 @@
+GPUName
+Topaz
+GPUVariant
+Topaz PRO(216-0864032)
+Architecture
+GCN 3.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+3,100 million
+DieSize
+125 mm^2
+ReleaseDate
+Oct 12th, 2014
+Generation
+Crystal System(Rx M200)
+Production
+End-of-life
+BusInterface
+IGP
+GPUClock
+925 MHz
+BoostClock
+940 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+384
+TMUs
+24
+ROPs
+8
+ComputeUnits
+6
+PixelRate
+7.520 GPixel/s
+TextureRate
+22.56 GTexel/s
+FP16(half)performance
+721.9 GFLOPS (1:1)
+FP32(float)performance
+721.9 GFLOPS
+FP64(double)performance
+45.12 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

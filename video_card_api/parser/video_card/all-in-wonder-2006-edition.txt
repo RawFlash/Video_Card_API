@@ -1,0 +1,68 @@
+GPUName
+RV515
+Architecture
+R500
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+107 million
+DieSize
+100 mm^2
+ReleaseDate
+Dec 22nd, 2005
+Generation
+All-In-Wonder(2006 Edition)
+Production
+End-of-life
+LaunchPrice
+199 USD
+BusInterface
+PCIe 1.0 x16
+GPUClock
+450 MHz
+MemoryClock
+400 MHz800 MHz effective
+MemorySize
+256 MB
+MemoryType
+DDR2
+MemoryBus
+128 bit
+Bandwidth
+12.80 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+1.800 GPixel/s
+VertexRate
+225.0 MVertices/s
+TextureRate
+1.800 GTexel/s
+SlotWidth
+Single-slot
+Length
+9.8 inches249 mm
+TDP
+unknown
+Outputs
+1x DVI
+PowerConnectors
+None
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

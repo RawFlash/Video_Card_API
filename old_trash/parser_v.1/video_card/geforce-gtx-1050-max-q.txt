@@ -1,0 +1,72 @@
+GPUName
+GP107
+GPUVariant
+N17P-G0-A1
+Architecture
+Pascal
+Foundry
+Samsung
+ProcessSize
+14 nm
+Transistors
+3,300 million
+DieSize
+132 mm^2
+ReleaseDate
+Jan 3rd, 2018
+Generation
+GeForce 1000M
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+999 MHz
+BoostClock
+1328 MHz
+MemoryClock
+1752 MHz7008 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+112.1 GB/s
+ShadingUnits
+640
+TMUs
+40
+ROPs
+16
+SMCount
+5
+PixelRate
+21.25 GPixel/s
+TextureRate
+53.12 GTexel/s
+FP16(half)performance
+26.56 GFLOPS (1:64)
+FP32(float)performance
+1,700 GFLOPS
+FP64(double)performance
+53.12 GFLOPS (1:32)
+TDP
+75 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.1
+ShaderModel
+6.2

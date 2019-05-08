@@ -1,0 +1,68 @@
+GPUName
+G71
+GPUVariant
+G71-U-N-A2
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+278 million
+DieSize
+196 mm^2
+ReleaseDate
+Oct 1st, 2006
+Generation
+GeForce 7 PCIe(7900)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+650 MHz
+MemoryClock
+660 MHz1320 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+42.24 GB/s
+PixelShaders
+24
+VertexShaders
+8
+TMUs
+24
+ROPs
+16
+PixelRate
+10.40 GPixel/s
+VertexRate
+1.300 GVertices/s
+TextureRate
+15.60 GTexel/s
+SlotWidth
+Single-slot
+TDP
+81 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+1x 6-pin
+BoardNumber
+P348
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

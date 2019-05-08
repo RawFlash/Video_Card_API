@@ -1,0 +1,70 @@
+GPUName
+Amethyst
+GPUVariant
+Amethyst XT
+Architecture
+GCN 3.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+5,000 million
+DieSize
+366 mm^2
+ReleaseDate
+May 5th, 2015
+Generation
+Crystal System(R9 M300)
+Production
+Active
+BusInterface
+MXM-B (3.0)
+GPUClock
+723 MHz
+MemoryClock
+1250 MHz5000 MHz effective
+MemorySize
+8 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+160.0 GB/s
+ShadingUnits
+2048
+TMUs
+128
+ROPs
+32
+ComputeUnits
+32
+PixelRate
+23.14 GPixel/s
+TextureRate
+92.54 GTexel/s
+FP16(half)performance
+2,961 GFLOPS (1:1)
+FP32(float)performance
+2,961 GFLOPS
+FP64(double)performance
+185.1 GFLOPS (1:16)
+SlotWidth
+MXM Module
+TDP
+250 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

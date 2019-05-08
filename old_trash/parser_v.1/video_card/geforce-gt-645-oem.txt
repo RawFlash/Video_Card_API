@@ -1,0 +1,70 @@
+GPUName
+GF114
+Architecture
+Fermi 2.0
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+1,950 million
+DieSize
+332 mm^2
+ReleaseDate
+Apr 24th, 2012
+Generation
+GeForce 600
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+776 MHz
+ShaderClock
+1552 MHz
+MemoryClock
+957 MHz3828 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR5
+MemoryBus
+192 bit
+Bandwidth
+91.87 GB/s
+ShadingUnits
+288
+TMUs
+48
+ROPs
+24
+SMCount
+6
+PixelRate
+9.312 GPixel/s
+TextureRate
+37.25 GTexel/s
+FP32(float)performance
+894.0 GFLOPS
+FP64(double)performance
+74.50 GFLOPS (1:12)
+SlotWidth
+Dual-slot
+Length
+8.25 inches210 mm
+TDP
+102 W
+Outputs
+2x DVI1x mini-HDMI
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+2.1
+ShaderModel
+5.1

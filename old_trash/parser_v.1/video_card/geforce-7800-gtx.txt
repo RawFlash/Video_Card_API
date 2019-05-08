@@ -1,0 +1,68 @@
+GPUName
+G70
+GPUVariant
+GF-7800-GTX-A2
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+110 nm
+Transistors
+302 million
+DieSize
+333 mm^2
+ReleaseDate
+Jun 22nd, 2005
+Generation
+GeForce 7 PCIe(7800)
+Production
+End-of-life
+LaunchPrice
+599 USD
+BusInterface
+PCIe 1.0 x16
+GPUClock
+430 MHz
+MemoryClock
+600 MHz1200 MHz effective
+MemorySize
+256 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+38.40 GB/s
+PixelShaders
+24
+VertexShaders
+8
+TMUs
+24
+ROPs
+16
+PixelRate
+6.880 GPixel/s
+VertexRate
+860.0 MVertices/s
+TextureRate
+10.32 GTexel/s
+SlotWidth
+Single-slot
+Length
+8.976 inches228 mm
+TDP
+86 W
+Outputs
+2x DVI1x S-Video
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

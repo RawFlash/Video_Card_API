@@ -1,0 +1,74 @@
+GPUName
+R700
+GPUVariant
+R700 PRO(215-0669065)
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+956 million
+DieSize
+256 mm^2
+ReleaseDate
+Nov 7th, 2008
+Generation
+Radeon R700(HD 4800)
+Production
+End-of-life
+LaunchPrice
+420 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+625 MHz
+MemoryClock
+995 MHz1990 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+63.68 GB/s
+ShadingUnits
+800
+TMUs
+40
+ROPs
+16
+ComputeUnits
+10
+PixelRate
+10.00 GPixel/s
+TextureRate
+25.00 GTexel/s
+FP32(float)performance
+1,000 GFLOPS
+FP64(double)performance
+200.0 GFLOPS (1:5)
+SlotWidth
+Dual-slot
+Length
+10.51 inches267 mm
+TDP
+250 W
+Outputs
+4x DVI1x S-Video
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+B501
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+ShaderModel
+4.1

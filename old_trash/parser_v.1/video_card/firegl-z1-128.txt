@@ -1,0 +1,68 @@
+GPUName
+R300
+GPUVariant
+R300 GL
+Architecture
+Rage 8
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+110 million
+DieSize
+218 mm^2
+ReleaseDate
+Oct 1st, 2002
+Generation
+FireGL(Z)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+325 MHz
+MemoryClock
+310 MHz620 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+256 bit
+Bandwidth
+19.84 GB/s
+PixelShaders
+4
+VertexShaders
+4
+TMUs
+4
+ROPs
+4
+PixelRate
+1.300 GPixel/s
+VertexRate
+325.0 MVertices/s
+TextureRate
+1.300 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+None
+DirectX
+9.0 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0
+VertexShader
+2.0

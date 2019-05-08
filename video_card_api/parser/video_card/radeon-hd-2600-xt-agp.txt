@@ -1,0 +1,64 @@
+GPUName
+RV635
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+378 million
+DieSize
+135 mm^2
+ReleaseDate
+Jun 28th, 2007
+Generation
+Radeon R600(HD 2600)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+722 MHz
+MemoryClock
+405 MHz810 MHz effective
+MemorySize
+256 MB
+MemoryType
+DDR2
+MemoryBus
+128 bit
+Bandwidth
+12.96 GB/s
+ShadingUnits
+120
+TMUs
+8
+ROPs
+4
+ComputeUnits
+3
+PixelRate
+2.888 GPixel/s
+TextureRate
+5.776 GTexel/s
+FP32(float)performance
+173.3 GFLOPS
+SlotWidth
+Single-slot
+TDP
+45 W
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+1x 6-pin
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.1

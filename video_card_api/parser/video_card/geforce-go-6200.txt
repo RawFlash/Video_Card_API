@@ -1,0 +1,62 @@
+GPUName
+NV44 A2
+GPUVariant
+GF-GO6200-N-A2
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+110 nm
+Transistors
+75 million
+DieSize
+110 mm^2
+ReleaseDate
+Feb 1st, 2006
+Generation
+GeForce Go 6(Go 6000)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+300 MHz
+MemoryClock
+300 MHz600 MHz effective
+MemorySize
+32 MB
+MemoryType
+DDR
+MemoryBus
+64 bit
+Bandwidth
+4.800 GB/s
+PixelShaders
+4
+VertexShaders
+3
+TMUs
+4
+ROPs
+2
+PixelRate
+600.0 MPixel/s
+VertexRate
+225.0 MVertices/s
+TextureRate
+1.200 GTexel/s
+TDP
+16 W
+Outputs
+No outputs
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

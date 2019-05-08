@@ -1,0 +1,68 @@
+GPUName
+G94
+GPUVariant
+NB9E-GLM2
+Architecture
+Tesla
+Foundry
+TSMC
+ProcessSize
+65 nm
+Transistors
+505 million
+DieSize
+240 mm^2
+ReleaseDate
+Aug 14th, 2008
+Generation
+Quadro FX(x700M)
+Production
+End-of-life
+BusInterface
+MXM-HE
+GPUClock
+530 MHz
+ShaderClock
+1325 MHz
+MemoryClock
+799 MHz1598 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+51.14 GB/s
+ShadingUnits
+48
+TMUs
+24
+ROPs
+16
+SMCount
+3
+PixelRate
+8.480 GPixel/s
+TextureRate
+12.72 GTexel/s
+FP32(float)performance
+127.2 GFLOPS
+SlotWidth
+MXM Module
+TDP
+65 W
+Outputs
+No outputs
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+1.1
+ShaderModel
+4.0

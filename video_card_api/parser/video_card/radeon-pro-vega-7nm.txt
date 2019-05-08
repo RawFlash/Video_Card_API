@@ -1,0 +1,72 @@
+GPUName
+Vega 20
+GPUVariant
+Vega 20 XT
+Architecture
+GCN 5.1
+Foundry
+TSMC
+ProcessSize
+7 nm
+Transistors
+13,230 million
+DieSize
+331 mm^2
+ReleaseDate
+Unknown
+Generation
+Radeon Pro(Vega)
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1200 MHz
+BoostClock
+1500 MHz
+MemoryClock
+1200 MHz2400 MHz effective
+MemorySize
+16 GB
+MemoryType
+HBM2
+MemoryBus
+4096 bit
+Bandwidth
+1,229 GB/s
+ShadingUnits
+4096
+TMUs
+256
+ROPs
+64
+ComputeUnits
+64
+PixelRate
+96.00 GPixel/s
+TextureRate
+384.0 GTexel/s
+FP16(half)performance
+24,576 GFLOPS (2:1)
+FP32(float)performance
+12,288 GFLOPS
+FP64(double)performance
+768.0 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+230 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.2

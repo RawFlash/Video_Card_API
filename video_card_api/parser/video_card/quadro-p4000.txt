@@ -1,0 +1,78 @@
+GPUName
+GP104
+Architecture
+Pascal
+Foundry
+TSMC
+ProcessSize
+16 nm
+Transistors
+7,200 million
+DieSize
+314 mm^2
+ReleaseDate
+Feb 6th, 2017
+Generation
+Quadro(Px000)
+Production
+Active
+LaunchPrice
+815 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1202 MHz
+BoostClock
+1480 MHz
+MemoryClock
+1901 MHz7604 MHz effective
+MemorySize
+8 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+243.3 GB/s
+ShadingUnits
+1792
+TMUs
+112
+ROPs
+64
+SMCount
+14
+PixelRate
+94.72 GPixel/s
+TextureRate
+165.8 GTexel/s
+FP16(half)performance
+82.88 GFLOPS (1:64)
+FP32(float)performance
+5,304 GFLOPS
+FP64(double)performance
+165.8 GFLOPS (1:32)
+SlotWidth
+Single-slot
+Length
+9.5 inches241 mm
+TDP
+105 W
+Outputs
+4x DisplayPort
+PowerConnectors
+1x 6-pin
+BoardNumber
+PG410 SKU 501
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.1
+ShaderModel
+6.2

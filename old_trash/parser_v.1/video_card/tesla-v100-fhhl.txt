@@ -1,0 +1,74 @@
+GPUName
+GV100
+Architecture
+Volta
+Foundry
+TSMC
+ProcessSize
+12 nm
+Transistors
+21,100 million
+DieSize
+815 mm^2
+ReleaseDate
+Mar 27th, 2018
+Generation
+Tesla(Vxx)
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1200 MHz
+BoostClock
+1447 MHz
+MemoryClock
+876 MHz1752 MHz effective
+MemorySize
+16 GB
+MemoryType
+HBM2
+MemoryBus
+4096 bit
+Bandwidth
+897.0 GB/s
+ShadingUnits
+5120
+TMUs
+320
+ROPs
+128
+SMCount
+80
+TensorCores
+640
+PixelRate
+185.2 GPixel/s
+TextureRate
+463.0 GTexel/s
+FP16(half)performance
+29,635 GFLOPS (2:1)
+FP32(float)performance
+14,817 GFLOPS
+FP64(double)performance
+7,409 GFLOPS (1:2)
+SlotWidth
+Single-slot
+TDP
+250 W
+Outputs
+No outputs
+PowerConnectors
+1x 8-pin
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+7.0
+ShaderModel
+6.3

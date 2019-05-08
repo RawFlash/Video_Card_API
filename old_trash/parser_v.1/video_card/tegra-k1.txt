@@ -1,0 +1,68 @@
+GPUName
+GK20A
+Architecture
+Kepler 2.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+unknown
+DieSize
+unknown
+ReleaseDate
+2014
+Generation
+Tegra
+Production
+End-of-life
+BusInterface
+IGP
+GPUClock
+756 MHz
+BoostClock
+951 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+192
+TMUs
+8
+ROPs
+4
+SMXCount
+1
+PixelRate
+3.804 GPixel/s
+TextureRate
+7.608 GTexel/s
+FP32(float)performance
+365.2 GFLOPS
+FP64(double)performance
+11.41 GFLOPS (1:32)
+SlotWidth
+IGP
+TDP
+8 W
+Outputs
+No outputs
+DirectX
+12.0 (11_0)
+OpenGL
+ES 3.1
+OpenCL
+N/A
+Vulkan
+1.1.95
+CUDA
+3.2
+ShaderModel
+5.1

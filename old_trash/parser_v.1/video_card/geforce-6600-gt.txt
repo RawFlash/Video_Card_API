@@ -1,0 +1,66 @@
+GPUName
+NV43 A2
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+110 nm
+Transistors
+146 million
+DieSize
+150 mm^2
+ReleaseDate
+Aug 12th, 2004
+Generation
+GeForce 6 PCIe(6600)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+500 MHz
+MemoryClock
+500 MHz1000 MHz effective
+MemorySize
+256 MB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+16.00 GB/s
+PixelShaders
+8
+VertexShaders
+3
+TMUs
+8
+ROPs
+4
+PixelRate
+2.000 GPixel/s
+VertexRate
+375.0 MVertices/s
+TextureRate
+4.000 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+BoardNumber
+P216
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

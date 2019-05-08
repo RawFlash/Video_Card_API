@@ -1,0 +1,66 @@
+GPUName
+Skylake GT3e
+Architecture
+Generation 9.0
+Foundry
+Intel
+ProcessSize
+14 nm
+Transistors
+189 million
+DieSize
+49 mm^2
+ReleaseDate
+Sep 1st, 2015
+Generation
+HD Graphics(Skylake Workstation)
+Production
+Active
+BusInterface
+PCIe 3.0 x1
+GPUClock
+300 MHz
+BoostClock
+1000 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+384
+TMUs
+48
+ROPs
+6
+PixelRate
+6.000 GPixel/s
+TextureRate
+48.00 GTexel/s
+FP16(half)performance
+1,536 GFLOPS (2:1)
+FP32(float)performance
+768.0 GFLOPS
+FP64(double)performance
+192.0 GFLOPS (1:4)
+SlotWidth
+IGP
+TDP
+15 W
+Outputs
+No outputs
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+2.1
+Vulkan
+1.1.93
+ShaderModel
+6.4

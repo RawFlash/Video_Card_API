@@ -1,0 +1,66 @@
+GPUName
+NV44 A1
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+110 nm
+Transistors
+75 million
+DieSize
+110 mm^2
+ReleaseDate
+Oct 11th, 2004
+Generation
+GeForce 6 AGP(6200)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+300 MHz
+MemoryClock
+275 MHz550 MHz effective
+MemorySize
+512 MB
+MemoryType
+DDR2
+MemoryBus
+128 bit
+Bandwidth
+8.800 GB/s
+PixelShaders
+4
+VertexShaders
+3
+TMUs
+4
+ROPs
+2
+PixelRate
+600.0 MPixel/s
+VertexRate
+225.0 MVertices/s
+TextureRate
+1.200 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+BoardNumber
+P382
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

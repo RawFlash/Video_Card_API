@@ -1,0 +1,66 @@
+GPUName
+Venus
+GPUVariant
+Venus PRO
+Architecture
+GCN 1.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+1,500 million
+DieSize
+123 mm^2
+ReleaseDate
+Apr 1st, 2013
+Generation
+Solar System(HD 8800M)
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x16
+GPUClock
+575 MHz
+BoostClock
+625 MHz
+MemoryClock
+1000 MHz2000 MHz effective
+MemorySize
+2 GB
+MemoryType
+DDR3
+MemoryBus
+128 bit
+Bandwidth
+32.00 GB/s
+ShadingUnits
+640
+TMUs
+40
+ROPs
+16
+ComputeUnits
+10
+PixelRate
+10.00 GPixel/s
+TextureRate
+25.00 GTexel/s
+FP32(float)performance
+800.0 GFLOPS
+FP64(double)performance
+50.00 GFLOPS (1:16)
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.86
+ShaderModel
+5.1

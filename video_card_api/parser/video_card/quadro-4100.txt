@@ -1,0 +1,68 @@
+GPUName
+GK104
+Architecture
+Kepler
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+3,540 million
+DieSize
+294 mm^2
+ReleaseDate
+Unknown
+Generation
+Quadro(x10)
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x16
+GPUClock
+797 MHz
+MemoryClock
+891 MHz1782 MHz effective
+MemorySize
+2 GB
+MemoryType
+DDR3
+MemoryBus
+256 bit
+Bandwidth
+57.02 GB/s
+ShadingUnits
+1344
+TMUs
+112
+ROPs
+32
+SMXCount
+7
+PixelRate
+22.32 GPixel/s
+TextureRate
+89.26 GTexel/s
+FP32(float)performance
+2,142 GFLOPS
+FP64(double)performance
+89.26 GFLOPS (1:24)
+SlotWidth
+Single-slot
+Length
+6.3 inches160 mm
+TDP
+35 W
+Outputs
+4x mini-DisplayPort
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+3.0
+ShaderModel
+5.1

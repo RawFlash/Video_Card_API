@@ -1,0 +1,62 @@
+GPUName
+Sandy Bridge GT1
+Architecture
+Generation 6.0
+Foundry
+Intel
+ProcessSize
+32 nm
+Transistors
+189 million
+DieSize
+131 mm^2
+ReleaseDate
+Jan 5th, 2011
+Generation
+HD Graphics(Sandy Bridge)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+850 MHz
+BoostClock
+1150 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+48
+TMUs
+6
+ROPs
+1
+PixelRate
+1.150 GPixel/s
+TextureRate
+6.900 GTexel/s
+FP32(float)performance
+110.4 GFLOPS
+SlotWidth
+IGP
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+10.1 
+OpenGL
+3.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.1

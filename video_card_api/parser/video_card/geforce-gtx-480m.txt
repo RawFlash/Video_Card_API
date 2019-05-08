@@ -1,0 +1,74 @@
+GPUName
+GF100
+GPUVariant
+N11E-GTX-A3
+Architecture
+Fermi
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+3,100 million
+DieSize
+529 mm^2
+ReleaseDate
+May 25th, 2010
+Generation
+GeForce 400M
+Production
+End-of-life
+BusInterface
+MXM-B (3.0)
+GPUClock
+425 MHz
+ShaderClock
+850 MHz
+MemoryClock
+600 MHz2400 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+76.80 GB/s
+ShadingUnits
+352
+TMUs
+44
+ROPs
+32
+SMCount
+11
+PixelRate
+9.350 GPixel/s
+TextureRate
+18.70 GTexel/s
+FP32(float)performance
+598.4 GFLOPS
+FP64(double)performance
+74.80 GFLOPS (1:8)
+SlotWidth
+MXM Module
+TDP
+100 W
+Outputs
+No outputs
+PowerConnectors
+None
+BoardNumber
+P1028
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+2.0
+ShaderModel
+5.1

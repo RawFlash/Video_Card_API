@@ -1,0 +1,72 @@
+GPUName
+GP104
+Architecture
+Pascal
+Foundry
+TSMC
+ProcessSize
+16 nm
+Transistors
+7,200 million
+DieSize
+314 mm^2
+ReleaseDate
+Feb 21st, 2018
+Generation
+Quadro(Px200 Mobile)
+Production
+Active
+BusInterface
+MXM-B (3.0)
+GPUClock
+1139 MHz
+BoostClock
+1404 MHz
+MemoryClock
+1753 MHz7012 MHz effective
+MemorySize
+6 GB
+MemoryType
+GDDR5
+MemoryBus
+192 bit
+Bandwidth
+168.3 GB/s
+ShadingUnits
+1792
+TMUs
+112
+ROPs
+64
+SMCount
+14
+PixelRate
+89.86 GPixel/s
+TextureRate
+157.2 GTexel/s
+FP16(half)performance
+78.62 GFLOPS (1:64)
+FP32(float)performance
+5,032 GFLOPS
+FP64(double)performance
+157.2 GFLOPS (1:32)
+SlotWidth
+MXM Module
+TDP
+75 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.1
+ShaderModel
+6.2

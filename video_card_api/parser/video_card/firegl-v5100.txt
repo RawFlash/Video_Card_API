@@ -1,0 +1,68 @@
+GPUName
+R423
+GPUVariant
+R423 GL-SE
+Architecture
+R400
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+160 million
+DieSize
+289 mm^2
+ReleaseDate
+May 1st, 2004
+Generation
+FireGL(Vx100)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+450 MHz
+MemoryClock
+350 MHz700 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+256 bit
+Bandwidth
+22.40 GB/s
+PixelShaders
+12
+VertexShaders
+6
+TMUs
+12
+ROPs
+12
+PixelRate
+5.400 GPixel/s
+VertexRate
+675.0 MVertices/s
+TextureRate
+5.400 GTexel/s
+SlotWidth
+Single-slot
+Length
+8.3 inches211 mm
+TDP
+unknown
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+None
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

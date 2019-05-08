@@ -1,0 +1,74 @@
+GPUName
+GP104
+GPUVariant
+N17E-Q1-A1
+Architecture
+Pascal
+Foundry
+TSMC
+ProcessSize
+16 nm
+Transistors
+7,200 million
+DieSize
+314 mm^2
+ReleaseDate
+Jan 11th, 2017
+Generation
+Quadro(Px000 Mobile)
+Production
+Active
+BusInterface
+MXM-B (3.0)
+GPUClock
+1088 MHz
+BoostClock
+1215 MHz
+MemoryClock
+1753 MHz7012 MHz effective
+MemorySize
+6 GB
+MemoryType
+GDDR5
+MemoryBus
+192 bit
+Bandwidth
+168.3 GB/s
+ShadingUnits
+1280
+TMUs
+80
+ROPs
+48
+SMCount
+10
+PixelRate
+58.32 GPixel/s
+TextureRate
+97.20 GTexel/s
+FP16(half)performance
+48.60 GFLOPS (1:64)
+FP32(float)performance
+3,110 GFLOPS
+FP64(double)performance
+97.20 GFLOPS (1:32)
+SlotWidth
+MXM Module
+TDP
+75 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.1
+ShaderModel
+6.2

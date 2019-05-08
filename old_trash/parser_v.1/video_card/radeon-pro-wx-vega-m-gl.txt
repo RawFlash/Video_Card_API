@@ -1,0 +1,72 @@
+GPUName
+Polaris 22
+GPUVariant
+VegaM MGL XL
+Architecture
+GCN 4.0
+Foundry
+TSMC
+ProcessSize
+14 nm
+Transistors
+unknown
+DieSize
+unknown
+ReleaseDate
+Feb 1st, 2018
+Generation
+Vega(Vega M)
+Production
+Active
+BusInterface
+IGP
+GPUClock
+931 MHz
+BoostClock
+1011 MHz
+MemoryClock
+700 MHz1400 MHz effective
+MemorySize
+4 GB
+MemoryType
+HBM2
+MemoryBus
+1024 bit
+Bandwidth
+179.2 GB/s
+ShadingUnits
+1280
+TMUs
+80
+ROPs
+32
+ComputeUnits
+20
+PixelRate
+32.35 GPixel/s
+TextureRate
+80.88 GTexel/s
+FP16(half)performance
+2,588 GFLOPS (1:1)
+FP32(float)performance
+2,588 GFLOPS
+FP64(double)performance
+161.8 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+65 W
+Outputs
+No outputs
+BoardNumber
+D136
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

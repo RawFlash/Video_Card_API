@@ -1,0 +1,84 @@
+GPUName
+TU106
+GPUVariant
+TU106-400A-A1
+Architecture
+Turing
+Foundry
+TSMC
+ProcessSize
+12 nm
+Transistors
+10,800 million
+DieSize
+445 mm^2
+ReleaseDate
+Oct 17th, 2018
+Generation
+GeForce 2000
+Production
+Active
+LaunchPrice
+499 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1410 MHz
+BoostClock
+1620 MHz
+MemoryClock
+1750 MHz14000 MHz effective
+MemorySize
+8 GB
+MemoryType
+GDDR6
+MemoryBus
+256 bit
+Bandwidth
+448.0 GB/s
+ShadingUnits
+2304
+TMUs
+144
+ROPs
+64
+SMCount
+36
+TensorCores
+288
+RTCores
+36
+PixelRate
+103.7 GPixel/s
+TextureRate
+233.3 GTexel/s
+FP16(half)performance
+14,930 GFLOPS (2:1)
+FP32(float)performance
+7,465 GFLOPS
+FP64(double)performance
+233.3 GFLOPS (1:32)
+SlotWidth
+Dual-slot
+Length
+9 inches229 mm
+TDP
+175 W
+Outputs
+1x DVI1x HDMI2x DisplayPort1x USB Type-C
+PowerConnectors
+1x 8-pin
+BoardNumber
+PG160 SKU 52
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+7.5
+ShaderModel
+6.3

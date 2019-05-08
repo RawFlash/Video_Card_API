@@ -1,0 +1,68 @@
+GPUName
+R360
+GPUVariant
+R360(215R9RBKA11F)
+Architecture
+Rage 9
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+117 million
+DieSize
+218 mm^2
+ReleaseDate
+Mar 4th, 2004
+Generation
+Radeon R300(9800)
+Production
+End-of-life
+BusInterface
+AGP Pro 8x
+GPUClock
+378 MHz
+MemoryClock
+338 MHz676 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+256 bit
+Bandwidth
+21.63 GB/s
+PixelShaders
+8
+VertexShaders
+4
+TMUs
+8
+ROPs
+8
+PixelRate
+3.024 GPixel/s
+VertexRate
+378.0 MVertices/s
+TextureRate
+3.024 GTexel/s
+SlotWidth
+Single-slot
+TDP
+60 W
+Outputs
+2x DVI
+PowerConnectors
+None
+DirectX
+9.0 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0
+VertexShader
+2.0

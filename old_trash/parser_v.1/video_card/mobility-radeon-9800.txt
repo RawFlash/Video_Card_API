@@ -1,0 +1,62 @@
+GPUName
+M18
+Architecture
+R400
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+160 million
+DieSize
+281 mm^2
+ReleaseDate
+Jul 1st, 2004
+Generation
+M1x(Mobility 9000)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+350 MHz
+MemoryClock
+300 MHz600 MHz effective
+MemorySize
+256 MB
+MemoryType
+DDR
+MemoryBus
+256 bit
+Bandwidth
+19.20 GB/s
+PixelShaders
+8
+VertexShaders
+4
+TMUs
+8
+ROPs
+8
+PixelRate
+2.800 GPixel/s
+VertexRate
+350.0 MVertices/s
+TextureRate
+2.800 GTexel/s
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+9.0 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0
+VertexShader
+2.0

@@ -1,0 +1,72 @@
+GPUName
+Baffin
+GPUVariant
+Baffin PRO(215-0895088)
+Architecture
+GCN 4.0
+Foundry
+TSMC
+ProcessSize
+14 nm
+Transistors
+3,000 million
+DieSize
+123 mm^2
+ReleaseDate
+Sep 27th, 2016
+Generation
+Embedded(9000)
+Production
+Active
+BusInterface
+PCIe 3.0 x8
+GPUClock
+1090 MHz
+BoostClock
+1200 MHz
+MemoryClock
+1750 MHz7000 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+112.0 GB/s
+ShadingUnits
+896
+TMUs
+48
+ROPs
+16
+ComputeUnits
+14
+PixelRate
+19.20 GPixel/s
+TextureRate
+57.60 GTexel/s
+FP16(half)performance
+2,150 GFLOPS (1:1)
+FP32(float)performance
+2,150 GFLOPS
+FP64(double)performance
+134.4 GFLOPS (1:16)
+SlotWidth
+Single-slot
+TDP
+80 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

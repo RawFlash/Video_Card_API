@@ -1,0 +1,64 @@
+GPUName
+Broadway
+GPUVariant
+Broadway XT(216-0769008)
+Architecture
+TeraScale 2
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+1,040 million
+DieSize
+166 mm^2
+ReleaseDate
+Jan 7th, 2010
+Generation
+Manhattan(Mobility HD 5800)
+Production
+End-of-life
+BusInterface
+MXM-B (3.0)
+GPUClock
+700 MHz
+MemoryClock
+1000 MHz4000 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+64.00 GB/s
+ShadingUnits
+800
+TMUs
+40
+ROPs
+16
+ComputeUnits
+10
+PixelRate
+11.20 GPixel/s
+TextureRate
+28.00 GTexel/s
+FP32(float)performance
+1,120 GFLOPS
+SlotWidth
+MXM Module
+TDP
+50 W
+Outputs
+No outputs
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

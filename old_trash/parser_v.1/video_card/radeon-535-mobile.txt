@@ -1,0 +1,72 @@
+GPUName
+Polaris 24
+GPUVariant
+Polaris 24 XT(216-0867030)
+Architecture
+GCN 3.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+3,100 million
+DieSize
+125 mm^2
+ReleaseDate
+Apr 18th, 2017
+Generation
+Mobility Radeon(M500)
+Production
+Active
+BusInterface
+PCIe 3.0 x8
+GPUClock
+730 MHz
+BoostClock
+1024 MHz
+MemoryClock
+1125 MHz4500 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+64 bit
+Bandwidth
+36.00 GB/s
+ShadingUnits
+384
+TMUs
+24
+ROPs
+8
+ComputeUnits
+6
+PixelRate
+8.192 GPixel/s
+TextureRate
+24.58 GTexel/s
+FP16(half)performance
+786.4 GFLOPS (1:1)
+FP32(float)performance
+786.4 GFLOPS
+FP64(double)performance
+49.15 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+50 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

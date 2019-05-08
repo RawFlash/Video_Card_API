@@ -1,0 +1,68 @@
+GPUName
+GT215
+GPUVariant
+N11E-GE1
+Architecture
+Tesla 2.0
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+727 million
+DieSize
+144 mm^2
+ReleaseDate
+Jan 7th, 2010
+Generation
+GeForce 300M
+Production
+End-of-life
+BusInterface
+MXM-II
+GPUClock
+500 MHz
+ShaderClock
+1250 MHz
+MemoryClock
+800 MHz3200 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+51.20 GB/s
+ShadingUnits
+96
+TMUs
+32
+ROPs
+8
+SMCount
+4
+PixelRate
+4.000 GPixel/s
+TextureRate
+16.00 GTexel/s
+FP32(float)performance
+240.0 GFLOPS
+SlotWidth
+MXM Module
+TDP
+28 W
+Outputs
+No outputs
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+1.2
+ShaderModel
+4.1

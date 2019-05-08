@@ -1,0 +1,70 @@
+GPUName
+GK107
+GPUVariant
+N13E-GE-A2
+Architecture
+Kepler
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+1,270 million
+DieSize
+118 mm^2
+ReleaseDate
+Mar 22nd, 2012
+Generation
+GeForce 600M
+Production
+End-of-life
+BusInterface
+MXM-B (3.0)
+GPUClock
+835 MHz
+BoostClock
+950 MHz
+MemoryClock
+1000 MHz4000 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+64.00 GB/s
+ShadingUnits
+384
+TMUs
+32
+ROPs
+16
+SMXCount
+2
+PixelRate
+7.600 GPixel/s
+TextureRate
+30.40 GTexel/s
+FP32(float)performance
+729.6 GFLOPS
+FP64(double)performance
+30.40 GFLOPS (1:24)
+SlotWidth
+MXM Module
+TDP
+50 W
+Outputs
+No outputs
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+3.0
+ShaderModel
+5.1

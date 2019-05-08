@@ -1,0 +1,62 @@
+GPUName
+Seymour
+GPUVariant
+Seymour XTX(216-0810005)
+Architecture
+TeraScale 2
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+370 million
+DieSize
+67 mm^2
+ReleaseDate
+May 2nd, 2011
+Generation
+Vancouver(HD 6400M)
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+750 MHz
+MemoryClock
+794 MHz3176 MHz effective
+MemorySize
+256 MB
+MemoryType
+GDDR5
+MemoryBus
+64 bit
+Bandwidth
+25.41 GB/s
+ShadingUnits
+160
+TMUs
+8
+ROPs
+4
+ComputeUnits
+2
+PixelRate
+3.000 GPixel/s
+TextureRate
+6.000 GTexel/s
+FP32(float)performance
+240.0 GFLOPS
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

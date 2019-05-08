@@ -1,0 +1,70 @@
+GPUName
+Topaz
+GPUVariant
+Topaz XT(216-0864030)
+Architecture
+GCN 3.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+3,100 million
+DieSize
+125 mm^2
+ReleaseDate
+Jun 11th, 2014
+Generation
+Crystal System(R7 M200)
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x8
+GPUClock
+940 MHz
+BoostClock
+980 MHz
+MemoryClock
+900 MHz1800 MHz effective
+MemorySize
+2 GB
+MemoryType
+DDR3
+MemoryBus
+64 bit
+Bandwidth
+14.40 GB/s
+ShadingUnits
+384
+TMUs
+24
+ROPs
+8
+ComputeUnits
+6
+PixelRate
+7.840 GPixel/s
+TextureRate
+23.52 GTexel/s
+FP16(half)performance
+752.6 GFLOPS (1:1)
+FP32(float)performance
+752.6 GFLOPS
+FP64(double)performance
+47.04 GFLOPS (1:16)
+TDP
+unknown
+Outputs
+No outputs
+BoardNumber
+C720
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

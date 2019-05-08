@@ -1,0 +1,66 @@
+GPUName
+Condor
+Architecture
+G400
+Foundry
+UMC
+ProcessSize
+180 nm
+Transistors
+10 million
+DieSize
+unknown
+ReleaseDate
+2001
+Generation
+G(Gxxx)
+Production
+End-of-life
+BusInterface
+PCI
+GPUClock
+125 MHz
+MemoryClock
+166 MHz332 MHz effective
+MemorySize
+32 MB
+MemoryType
+DDR
+MemoryBus
+64 bit
+Bandwidth
+2.656 GB/s
+PixelShaders
+2
+VertexShaders
+1
+TMUs
+2
+ROPs
+2
+PixelRate
+250.0 MPixel/s
+VertexRate
+31.25 MVertices/s
+TextureRate
+250.0 MTexel/s
+SlotWidth
+Single-slot
+Length
+6.6 inches168 mm
+TDP
+unknown
+Outputs
+2x DVI
+DirectX
+6.0 
+OpenGL
+None
+OpenCL
+None
+Vulkan
+N/A
+PixelShader
+None
+VertexShader
+None

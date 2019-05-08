@@ -1,0 +1,76 @@
+GPUName
+Tahiti
+GPUVariant
+Tahiti PRO3(215-0821330)
+Architecture
+GCN 1.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+4,313 million
+DieSize
+352 mm^2
+ReleaseDate
+Mar 4th, 2014
+Generation
+Volcanic Islands(R9 200)
+Production
+End-of-life
+LaunchPrice
+279 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+827 MHz
+BoostClock
+933 MHz
+MemoryClock
+1250 MHz5000 MHz effective
+MemorySize
+3 GB
+MemoryType
+GDDR5
+MemoryBus
+384 bit
+Bandwidth
+240.0 GB/s
+ShadingUnits
+1792
+TMUs
+112
+ROPs
+32
+ComputeUnits
+28
+PixelRate
+29.86 GPixel/s
+TextureRate
+104.5 GTexel/s
+FP32(float)performance
+3,344 GFLOPS
+FP64(double)performance
+836.0 GFLOPS (1:4)
+SlotWidth
+Dual-slot
+Length
+10.83 inches275 mm
+TDP
+200 W
+Outputs
+2x DVI1x HDMI2x mini-DisplayPort
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+C386
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.86
+ShaderModel
+5.1

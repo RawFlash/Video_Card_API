@@ -1,0 +1,68 @@
+GPUName
+NV15 A5
+GPUVariant
+Ti
+Architecture
+Celsius
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+25 million
+DieSize
+81 mm^2
+ReleaseDate
+Oct 1st, 2001
+Generation
+GeForce 2
+Production
+End-of-life
+BusInterface
+AGP 4x
+GPUClock
+250 MHz
+MemoryClock
+200 MHz400 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+6.400 GB/s
+PixelShaders
+4
+VertexShaders
+0
+TMUs
+8
+ROPs
+4
+PixelRate
+1.000 GPixel/s
+TextureRate
+2.000 GTexel/s
+SlotWidth
+Single-slot
+Length
+6.5 inches165 mm
+TDP
+unknown
+Outputs
+1x VGA2x S-Video
+PowerConnectors
+None
+DirectX
+7.0 
+OpenGL
+1.2
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+N/A
+VertexShader
+N/A

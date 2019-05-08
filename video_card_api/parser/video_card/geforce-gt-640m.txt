@@ -1,0 +1,66 @@
+GPUName
+GK107
+GPUVariant
+N13P-GS
+Architecture
+Kepler
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+1,270 million
+DieSize
+118 mm^2
+ReleaseDate
+Mar 22nd, 2012
+Generation
+GeForce 600M
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x16
+GPUClock
+625 MHz
+MemoryClock
+900 MHz1800 MHz effective
+MemorySize
+2 GB
+MemoryType
+DDR3
+MemoryBus
+128 bit
+Bandwidth
+28.80 GB/s
+ShadingUnits
+384
+TMUs
+32
+ROPs
+16
+SMXCount
+2
+PixelRate
+5.000 GPixel/s
+TextureRate
+20.00 GTexel/s
+FP32(float)performance
+480.0 GFLOPS
+FP64(double)performance
+20.00 GFLOPS (1:24)
+TDP
+32 W
+Outputs
+No outputs
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+3.0
+ShaderModel
+5.1

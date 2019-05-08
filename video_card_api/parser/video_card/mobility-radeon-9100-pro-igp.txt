@@ -1,0 +1,62 @@
+GPUName
+RS350
+Architecture
+Rage 7
+ProcessSize
+150 nm
+Transistors
+76 million
+DieSize
+92 mm^2
+ReleaseDate
+Jun 23rd, 2003
+Generation
+Radeon IGP(Mobility 9000)
+Production
+End-of-life
+BusInterface
+AGP 4x
+GPUClock
+300 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+PixelShaders
+2
+VertexShaders
+0
+TMUs
+2
+ROPs
+2
+PixelRate
+600.0 MPixel/s
+TextureRate
+600.0 MTexel/s
+SlotWidth
+IGP
+TDP
+unknown
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+8.1 
+OpenGL
+1.4
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+1.4
+VertexShader
+1.1

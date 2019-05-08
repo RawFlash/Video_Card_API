@@ -1,0 +1,68 @@
+GPUName
+RV515
+GPUVariant
+RV515 LE(215FAEAKA13FG)
+Architecture
+R500
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+107 million
+DieSize
+100 mm^2
+ReleaseDate
+Oct 5th, 2005
+Generation
+Radeon R500(X1300)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+450 MHz
+MemoryClock
+250 MHz500 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR
+MemoryBus
+64 bit
+Bandwidth
+4.000 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+1.800 GPixel/s
+VertexRate
+225.0 MVertices/s
+TextureRate
+1.800 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x VGA
+PowerConnectors
+None
+BoardNumber
+A676
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

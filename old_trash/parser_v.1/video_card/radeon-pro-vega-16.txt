@@ -1,0 +1,70 @@
+GPUName
+Vega 12
+GPUVariant
+Vega 12 XLA
+Architecture
+GCN 5.0
+Foundry
+GlobalFoundries
+ProcessSize
+14 nm
+Transistors
+unknown
+DieSize
+unknown
+ReleaseDate
+Nov 14th, 2018
+Generation
+Radeon Pro(Pro Vega)
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+300 MHz
+BoostClock
+1190 MHz
+MemoryClock
+1200 MHz2400 MHz effective
+MemorySize
+4 GB
+MemoryType
+HBM2
+MemoryBus
+1024 bit
+Bandwidth
+307.2 GB/s
+ShadingUnits
+1024
+TMUs
+64
+ROPs
+32
+ComputeUnits
+16
+PixelRate
+38.08 GPixel/s
+TextureRate
+76.16 GTexel/s
+FP16(half)performance
+4,874 GFLOPS (2:1)
+FP32(float)performance
+2,437 GFLOPS
+FP64(double)performance
+152.3 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+75 W
+Outputs
+No outputs
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.2

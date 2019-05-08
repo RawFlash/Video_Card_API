@@ -1,0 +1,64 @@
+GPUName
+RV516
+Architecture
+R500
+Foundry
+UMC
+ProcessSize
+80 nm
+Transistors
+107 million
+DieSize
+100 mm^2
+ReleaseDate
+2007
+Generation
+Radeon R500(X1600)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+635 MHz
+MemoryClock
+400 MHz800 MHz effective
+MemorySize
+512 MB
+MemoryType
+DDR2
+MemoryBus
+128 bit
+Bandwidth
+12.80 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+2.540 GPixel/s
+VertexRate
+317.5 MVertices/s
+TextureRate
+2.540 GTexel/s
+SlotWidth
+Single-slot
+TDP
+27 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+None
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

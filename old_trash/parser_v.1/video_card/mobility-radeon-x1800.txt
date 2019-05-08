@@ -1,0 +1,64 @@
+GPUName
+M58
+GPUVariant
+M58 P(216PQKCKA15FG)
+Architecture
+R500
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+321 million
+DieSize
+288 mm^2
+ReleaseDate
+Mar 1st, 2006
+Generation
+M5x(Mobility X1)
+Production
+End-of-life
+BusInterface
+MXM-III
+GPUClock
+450 MHz
+MemoryClock
+500 MHz1000 MHz effective
+MemorySize
+256 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+32.00 GB/s
+PixelShaders
+12
+VertexShaders
+8
+TMUs
+12
+ROPs
+12
+PixelRate
+5.400 GPixel/s
+VertexRate
+900.0 MVertices/s
+TextureRate
+5.400 GTexel/s
+SlotWidth
+MXM Module
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

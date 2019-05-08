@@ -1,0 +1,60 @@
+GPUName
+RS780
+Architecture
+TeraScale
+ProcessSize
+65 nm
+Transistors
+180 million
+DieSize
+85 mm^2
+ReleaseDate
+Mar 4th, 2008
+Generation
+Radeon IGP(2000)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+500 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+40
+TMUs
+4
+ROPs
+4
+ComputeUnits
+2
+PixelRate
+2.000 GPixel/s
+TextureRate
+2.000 GTexel/s
+FP32(float)performance
+40.00 GFLOPS
+SlotWidth
+IGP
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+1.0
+Vulkan
+N/A
+ShaderModel
+4.1

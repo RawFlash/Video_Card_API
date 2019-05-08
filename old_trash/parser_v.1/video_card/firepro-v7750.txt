@@ -1,0 +1,72 @@
+GPUName
+RV730
+GPUVariant
+RV730 GL XTX
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+514 million
+DieSize
+146 mm^2
+ReleaseDate
+Mar 27th, 2009
+Generation
+FirePro(Vx700)
+Production
+End-of-life
+LaunchPrice
+799 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+800 MHz
+MemoryClock
+900 MHz1800 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+28.80 GB/s
+ShadingUnits
+320
+TMUs
+32
+ROPs
+8
+ComputeUnits
+4
+PixelRate
+6.400 GPixel/s
+TextureRate
+25.60 GTexel/s
+FP32(float)performance
+512.0 GFLOPS
+SlotWidth
+Single-slot
+Length
+9.2 inches234 mm
+TDP
+76 W
+Outputs
+1x DVI2x DisplayPort
+PowerConnectors
+1x 6-pin
+BoardNumber
+B730-61
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+ShaderModel
+4.1

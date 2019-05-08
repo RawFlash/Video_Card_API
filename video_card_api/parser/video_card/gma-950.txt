@@ -1,0 +1,64 @@
+GPUName
+Lakeport
+GPUVariant
+Lakeport-GC
+Architecture
+Generation 3.5
+Foundry
+Intel
+ProcessSize
+90 nm
+Transistors
+unknown
+DieSize
+unknown
+ReleaseDate
+May 1st, 2005
+Generation
+GMA 950(Mobile IGP)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+166 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+PixelShaders
+4
+VertexShaders
+1
+TMUs
+4
+ROPs
+1
+PixelRate
+166.0 MPixel/s
+VertexRate
+41.50 MVertices/s
+TextureRate
+664.0 MTexel/s
+SlotWidth
+IGP
+TDP
+7 W
+Outputs
+No outputs
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

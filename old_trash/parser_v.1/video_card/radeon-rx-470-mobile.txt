@@ -1,0 +1,72 @@
+GPUName
+Ellesmere
+GPUVariant
+Ellesmere PRO
+Architecture
+GCN 4.0
+Foundry
+TSMC
+ProcessSize
+14 nm
+Transistors
+5,700 million
+DieSize
+232 mm^2
+ReleaseDate
+Aug 4th, 2016
+Generation
+Mobility Radeon(RX M400)
+Production
+Active
+BusInterface
+MXM-B (3.0)
+GPUClock
+926 MHz
+BoostClock
+1074 MHz
+MemoryClock
+1750 MHz7000 MHz effective
+MemorySize
+8 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+224.0 GB/s
+ShadingUnits
+2048
+TMUs
+128
+ROPs
+32
+ComputeUnits
+32
+PixelRate
+34.37 GPixel/s
+TextureRate
+137.5 GTexel/s
+FP16(half)performance
+4,399 GFLOPS (1:1)
+FP32(float)performance
+4,399 GFLOPS
+FP64(double)performance
+274.9 GFLOPS (1:16)
+SlotWidth
+MXM Module
+TDP
+85 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

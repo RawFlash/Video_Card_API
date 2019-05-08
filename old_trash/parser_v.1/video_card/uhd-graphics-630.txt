@@ -1,0 +1,66 @@
+GPUName
+Coffee Lake GT2
+Architecture
+Generation 9.5
+Foundry
+Intel
+ProcessSize
+14 nm
+Transistors
+189 million
+DieSize
+49 mm^2
+ReleaseDate
+Sep 1st, 2017
+Generation
+HD Graphics(Coffee Lake Mobile)
+Production
+Active
+BusInterface
+PCIe 3.0 x1
+GPUClock
+350 MHz
+BoostClock
+1200 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+192
+TMUs
+24
+ROPs
+3
+PixelRate
+3.600 GPixel/s
+TextureRate
+28.80 GTexel/s
+FP16(half)performance
+921.6 GFLOPS (2:1)
+FP32(float)performance
+460.8 GFLOPS
+FP64(double)performance
+115.2 GFLOPS (1:4)
+SlotWidth
+IGP
+TDP
+15 W
+Outputs
+No outputs
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+2.1
+Vulkan
+1.1.93
+ShaderModel
+6.4

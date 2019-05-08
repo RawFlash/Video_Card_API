@@ -1,0 +1,62 @@
+GPUName
+Sandy Bridge GT2
+Architecture
+Generation 6.0
+Foundry
+Intel
+ProcessSize
+32 nm
+Transistors
+995 million
+DieSize
+216 mm^2
+ReleaseDate
+Feb 1st, 2011
+Generation
+HD Graphics(Sandy Bridge Workstation)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+850 MHz
+BoostClock
+1350 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+96
+TMUs
+12
+ROPs
+1
+PixelRate
+1.350 GPixel/s
+TextureRate
+16.20 GTexel/s
+FP32(float)performance
+259.2 GFLOPS
+SlotWidth
+IGP
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+10.1 
+OpenGL
+3.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.1

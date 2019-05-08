@@ -1,0 +1,62 @@
+GPUName
+G72
+GPUVariant
+GF-GO7400-B-N-A3
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+112 million
+DieSize
+81 mm^2
+ReleaseDate
+Feb 1st, 2006
+Generation
+GeForce Go 7(Go 7000)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+450 MHz
+MemoryClock
+450 MHz900 MHz effective
+MemorySize
+128 MB
+MemoryType
+GDDR3
+MemoryBus
+32 bit
+Bandwidth
+3.600 GB/s
+PixelShaders
+4
+VertexShaders
+3
+TMUs
+4
+ROPs
+2
+PixelRate
+900.0 MPixel/s
+VertexRate
+337.5 MVertices/s
+TextureRate
+1.800 GTexel/s
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

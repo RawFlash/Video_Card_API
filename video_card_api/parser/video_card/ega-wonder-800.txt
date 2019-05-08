@@ -1,0 +1,74 @@
+GPUName
+16899-0
+Architecture
+Wonder
+Foundry
+NEC
+ProcessSize
+800 nm
+Transistors
+unknown
+DieSize
+90 mm^2
+GPUName
+CHIPS P82C435
+Architecture
+Wonder
+ProcessSize
+800 nm
+Transistors
+unknown
+DieSize
+unknown
+ReleaseDate
+1987
+Generation
+EGA
+Production
+End-of-life
+BusInterface
+PCI
+GPUClock
+10 MHz
+MemoryClock
+10 MHz10 MHz effective
+MemorySize
+0 MB
+MemoryType
+DRAM
+MemoryBus
+32 bit
+Bandwidth
+40.00 MB/s
+PixelShaders
+1
+VertexShaders
+0
+TMUs
+0
+ROPs
+1
+PixelRate
+10.00 MPixel/s
+TextureRate
+0 MTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+No outputs
+BoardNumber
+16900
+DirectX
+N/A 
+OpenGL
+N/A
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+N/A
+VertexShader
+N/A

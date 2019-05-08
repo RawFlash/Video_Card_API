@@ -1,0 +1,78 @@
+GPUName
+GP104
+GPUVariant
+GP104-140-KA-A1
+Architecture
+Pascal
+Foundry
+TSMC
+ProcessSize
+16 nm
+Transistors
+7,200 million
+DieSize
+314 mm^2
+ReleaseDate
+Dec 25th, 2016
+Generation
+GeForce 1000
+Production
+Active
+LaunchPrice
+199 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1506 MHz
+BoostClock
+1708 MHz
+MemoryClock
+2002 MHz8008 MHz effective
+MemorySize
+3 GB
+MemoryType
+GDDR5
+MemoryBus
+192 bit
+Bandwidth
+192.2 GB/s
+ShadingUnits
+1152
+TMUs
+72
+ROPs
+48
+SMCount
+9
+PixelRate
+81.98 GPixel/s
+TextureRate
+123.0 GTexel/s
+FP16(half)performance
+61.49 GFLOPS (1:64)
+FP32(float)performance
+3,935 GFLOPS
+FP64(double)performance
+123.0 GFLOPS (1:32)
+SlotWidth
+Dual-slot
+Length
+9.823 inches250 mm
+TDP
+120 W
+Outputs
+1x DVI1x HDMI3x DisplayPort
+PowerConnectors
+1x 6-pin
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.1
+ShaderModel
+6.2

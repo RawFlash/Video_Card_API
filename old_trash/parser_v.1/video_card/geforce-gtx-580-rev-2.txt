@@ -1,0 +1,78 @@
+GPUName
+GF110
+GPUVariant
+GF110-380-A1
+Architecture
+Fermi 2.0
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+3,000 million
+DieSize
+520 mm^2
+ReleaseDate
+Jun 6th, 2011
+Generation
+GeForce 500
+Production
+End-of-life
+LaunchPrice
+499 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+772 MHz
+ShaderClock
+1544 MHz
+MemoryClock
+1002 MHz4008 MHz effective
+MemorySize
+1536 MB
+MemoryType
+GDDR5
+MemoryBus
+384 bit
+Bandwidth
+192.4 GB/s
+ShadingUnits
+512
+TMUs
+64
+ROPs
+48
+SMCount
+16
+PixelRate
+24.70 GPixel/s
+TextureRate
+49.41 GTexel/s
+FP32(float)performance
+1,581 GFLOPS
+FP64(double)performance
+197.6 GFLOPS (1:8)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+244 W
+Outputs
+2x DVI1x mini-HDMI
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+P1261 SKU 12
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+2.0
+ShaderModel
+5.1

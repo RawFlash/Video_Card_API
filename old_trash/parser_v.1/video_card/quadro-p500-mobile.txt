@@ -1,0 +1,70 @@
+GPUName
+GP108
+Architecture
+Pascal
+Foundry
+Samsung
+ProcessSize
+14 nm
+Transistors
+1,800 million
+DieSize
+74 mm^2
+ReleaseDate
+Jan 5th, 2018
+Generation
+Quadro(Px000 Mobile)
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1228 MHz
+BoostClock
+1455 MHz
+MemoryClock
+1253 MHz5012 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+64 bit
+Bandwidth
+40.10 GB/s
+ShadingUnits
+256
+TMUs
+16
+ROPs
+16
+SMCount
+2
+PixelRate
+23.28 GPixel/s
+TextureRate
+23.28 GTexel/s
+FP16(half)performance
+11.64 GFLOPS (1:64)
+FP32(float)performance
+745.0 GFLOPS
+FP64(double)performance
+23.28 GFLOPS (1:32)
+TDP
+18 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.1
+ShaderModel
+6.2

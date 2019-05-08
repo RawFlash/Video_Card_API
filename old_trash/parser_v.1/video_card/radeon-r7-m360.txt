@@ -1,0 +1,68 @@
+GPUName
+Meso
+GPUVariant
+Meso XT(216-0867030)
+Architecture
+GCN 3.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+3,100 million
+DieSize
+125 mm^2
+ReleaseDate
+May 5th, 2015
+Generation
+Crystal System(R7 M300)
+Production
+Active
+BusInterface
+PCIe 3.0 x8
+GPUClock
+1100 MHz
+BoostClock
+1125 MHz
+MemoryClock
+900 MHz1800 MHz effective
+MemorySize
+2 GB
+MemoryType
+DDR3
+MemoryBus
+64 bit
+Bandwidth
+14.40 GB/s
+ShadingUnits
+384
+TMUs
+24
+ROPs
+8
+ComputeUnits
+6
+PixelRate
+9.000 GPixel/s
+TextureRate
+27.00 GTexel/s
+FP16(half)performance
+864.0 GFLOPS (1:1)
+FP32(float)performance
+864.0 GFLOPS
+FP64(double)performance
+54.00 GFLOPS (1:16)
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

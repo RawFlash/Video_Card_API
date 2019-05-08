@@ -1,0 +1,68 @@
+GPUName
+NV20 A5
+GPUVariant
+NV20GL A5
+Architecture
+Kelvin
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+57 million
+DieSize
+128 mm^2
+ReleaseDate
+May 14th, 2001
+Generation
+Quadro2
+Production
+End-of-life
+BusInterface
+AGP 4x
+GPUClock
+200 MHz
+MemoryClock
+230 MHz230 MHz effective
+MemorySize
+64 MB
+MemoryType
+SDR
+MemoryBus
+128 bit
+Bandwidth
+3.680 GB/s
+PixelShaders
+4
+VertexShaders
+1
+TMUs
+4
+ROPs
+4
+PixelRate
+800.0 MPixel/s
+VertexRate
+50.00 MVertices/s
+TextureRate
+800.0 MTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+DirectX
+8.0 
+OpenGL
+1.3
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+1.1
+VertexShader
+1.1

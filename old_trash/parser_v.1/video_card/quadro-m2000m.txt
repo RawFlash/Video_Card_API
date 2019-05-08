@@ -1,0 +1,72 @@
+GPUName
+GM107
+GPUVariant
+N16P-Q3-A2
+Architecture
+Maxwell
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+1,870 million
+DieSize
+148 mm^2
+ReleaseDate
+Dec 3rd, 2015
+Generation
+Quadro(Mx000M)
+Production
+Active
+BusInterface
+MXM-A (3.0)
+GPUClock
+1029 MHz
+BoostClock
+1098 MHz
+MemoryClock
+1253 MHz5012 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+80.19 GB/s
+ShadingUnits
+640
+TMUs
+40
+ROPs
+16
+SMMCount
+5
+PixelRate
+17.57 GPixel/s
+TextureRate
+43.92 GTexel/s
+FP32(float)performance
+1,405 GFLOPS
+FP64(double)performance
+43.92 GFLOPS (1:32)
+SlotWidth
+MXM Module
+TDP
+55 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+5.0
+ShaderModel
+5.1

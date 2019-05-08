@@ -1,0 +1,68 @@
+GPUName
+GK104
+GPUVariant
+N14E-Q1-A2
+Architecture
+Kepler
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+3,540 million
+DieSize
+294 mm^2
+ReleaseDate
+Jun 1st, 2012
+Generation
+Quadro(Kx000M)
+Production
+End-of-life
+BusInterface
+MXM-B (3.0)
+GPUClock
+654 MHz
+MemoryClock
+700 MHz2800 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+89.60 GB/s
+ShadingUnits
+576
+TMUs
+48
+ROPs
+32
+SMXCount
+3
+PixelRate
+7.848 GPixel/s
+TextureRate
+31.39 GTexel/s
+FP32(float)performance
+753.4 GFLOPS
+FP64(double)performance
+31.39 GFLOPS (1:24)
+SlotWidth
+MXM Module
+TDP
+75 W
+Outputs
+No outputs
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+3.0
+ShaderModel
+5.1

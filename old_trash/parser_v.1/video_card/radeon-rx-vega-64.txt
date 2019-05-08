@@ -1,0 +1,78 @@
+GPUName
+Vega 10
+GPUVariant
+Vega 10 XT(215-0894200)
+Architecture
+GCN 5.0
+Foundry
+GlobalFoundries
+ProcessSize
+14 nm
+Transistors
+12,500 million
+DieSize
+495 mm^2
+ReleaseDate
+Aug 7th, 2017
+Generation
+Vega(RX Vega)
+Production
+Active
+LaunchPrice
+499 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1200 MHz
+BoostClock
+1536 MHz
+MemoryClock
+945 MHz1890 MHz effective
+MemorySize
+8 GB
+MemoryType
+HBM2
+MemoryBus
+2048 bit
+Bandwidth
+483.8 GB/s
+ShadingUnits
+4096
+TMUs
+256
+ROPs
+64
+ComputeUnits
+64
+PixelRate
+98.30 GPixel/s
+TextureRate
+393.2 GTexel/s
+FP16(half)performance
+25,166 GFLOPS (2:1)
+FP32(float)performance
+12,583 GFLOPS
+FP64(double)performance
+786.4 GFLOPS (1:16)
+SlotWidth
+Dual-slot
+Length
+11 inches279 mm
+TDP
+295 W
+Outputs
+1x HDMI3x DisplayPort
+PowerConnectors
+2x 8-pin
+BoardNumber
+D050-57
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.2

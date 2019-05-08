@@ -1,0 +1,66 @@
+GPUName
+RV280
+Architecture
+Rage 7
+Foundry
+UMC
+ProcessSize
+150 nm
+Transistors
+36 million
+DieSize
+81 mm^2
+ReleaseDate
+Mar 1st, 2004
+Generation
+Radeon R200(9200)
+Production
+End-of-life
+BusInterface
+PCI
+GPUClock
+240 MHz
+MemoryClock
+200 MHz400 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+64 bit
+Bandwidth
+3.200 GB/s
+PixelShaders
+4
+VertexShaders
+1
+TMUs
+4
+ROPs
+4
+PixelRate
+960.0 MPixel/s
+VertexRate
+60.00 MVertices/s
+TextureRate
+960.0 MTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+DirectX
+8.1 
+OpenGL
+1.4
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+1.4
+VertexShader
+1.1

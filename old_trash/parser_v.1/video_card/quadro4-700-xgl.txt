@@ -1,0 +1,68 @@
+GPUName
+NV25 A2
+GPUVariant
+NV25 GL
+Architecture
+Kelvin
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+63 million
+DieSize
+142 mm^2
+ReleaseDate
+Feb 19th, 2002
+Generation
+Quadro4 XGL(x00)
+Production
+End-of-life
+BusInterface
+AGP 4x
+GPUClock
+275 MHz
+MemoryClock
+225 MHz450 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+7.200 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+8
+ROPs
+8
+PixelRate
+2.200 GPixel/s
+VertexRate
+137.5 MVertices/s
+TextureRate
+2.200 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+None
+DirectX
+8.1 
+OpenGL
+1.3
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+1.3
+VertexShader
+1.1

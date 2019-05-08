@@ -1,0 +1,66 @@
+GPUName
+G72
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+112 million
+DieSize
+81 mm^2
+ReleaseDate
+Mar 22nd, 2006
+Generation
+GeForce 7 PCIe(7500)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+475 MHz
+MemoryClock
+405 MHz810 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR2
+MemoryBus
+64 bit
+Bandwidth
+6.480 GB/s
+PixelShaders
+8
+VertexShaders
+5
+TMUs
+8
+ROPs
+4
+PixelRate
+1.900 GPixel/s
+VertexRate
+593.8 MVertices/s
+TextureRate
+3.800 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+BoardNumber
+P381
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

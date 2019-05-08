@@ -1,0 +1,72 @@
+GPUName
+Polaris 20
+GPUVariant
+Polaris 20 XTX(215-0910038)
+Architecture
+GCN 4.0
+Foundry
+GlobalFoundries
+ProcessSize
+14 nm
+Transistors
+5,700 million
+DieSize
+232 mm^2
+ReleaseDate
+Jun 5th, 2017
+Generation
+Radeon Pro(500)
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1100 MHz
+BoostClock
+1200 MHz
+MemoryClock
+1695 MHz6780 MHz effective
+MemorySize
+8 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+217.0 GB/s
+ShadingUnits
+2304
+TMUs
+144
+ROPs
+32
+ComputeUnits
+36
+PixelRate
+38.40 GPixel/s
+TextureRate
+172.8 GTexel/s
+FP16(half)performance
+5,530 GFLOPS (1:1)
+FP32(float)performance
+5,530 GFLOPS
+FP64(double)performance
+345.6 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+150 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

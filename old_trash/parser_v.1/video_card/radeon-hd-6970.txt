@@ -1,0 +1,74 @@
+GPUName
+Cayman
+GPUVariant
+Cayman XT(215-0807007)
+Architecture
+TeraScale 3
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+2,640 million
+DieSize
+389 mm^2
+ReleaseDate
+Dec 14th, 2010
+Generation
+Northern Islands(HD 6900)
+Production
+End-of-life
+LaunchPrice
+369 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+880 MHz
+MemoryClock
+1375 MHz5500 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+176.0 GB/s
+ShadingUnits
+1536
+TMUs
+96
+ROPs
+32
+ComputeUnits
+24
+PixelRate
+28.16 GPixel/s
+TextureRate
+84.48 GTexel/s
+FP32(float)performance
+2,703 GFLOPS
+FP64(double)performance
+675.8 GFLOPS (1:4)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+250 W
+Outputs
+2x DVI1x HDMI2x mini-DisplayPort
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+C200-47
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

@@ -1,0 +1,74 @@
+GPUName
+GP104
+GPUVariant
+N17E-G2-A1
+Architecture
+Pascal
+Foundry
+TSMC
+ProcessSize
+16 nm
+Transistors
+7,200 million
+DieSize
+314 mm^2
+ReleaseDate
+Aug 15th, 2016
+Generation
+GeForce 1000M
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1442 MHz
+BoostClock
+1645 MHz
+MemoryClock
+2002 MHz8008 MHz effective
+MemorySize
+8 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+256.3 GB/s
+ShadingUnits
+2048
+TMUs
+128
+ROPs
+64
+SMCount
+16
+PixelRate
+105.3 GPixel/s
+TextureRate
+210.6 GTexel/s
+FP16(half)performance
+105.3 GFLOPS (1:64)
+FP32(float)performance
+6,738 GFLOPS
+FP64(double)performance
+210.6 GFLOPS (1:32)
+SlotWidth
+MXM Module
+TDP
+120 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.1
+ShaderModel
+6.2

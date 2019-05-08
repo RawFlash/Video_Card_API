@@ -1,0 +1,78 @@
+GPUName
+GM200
+GPUVariant
+GM200-310-A1
+Architecture
+Maxwell 2.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+8,000 million
+DieSize
+601 mm^2
+ReleaseDate
+Jun 2nd, 2015
+Generation
+GeForce 900
+Production
+Active
+LaunchPrice
+649 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1000 MHz
+BoostClock
+1076 MHz
+MemoryClock
+1753 MHz7012 MHz effective
+MemorySize
+6 GB
+MemoryType
+GDDR5
+MemoryBus
+384 bit
+Bandwidth
+336.6 GB/s
+ShadingUnits
+2816
+TMUs
+176
+ROPs
+96
+SMMCount
+22
+PixelRate
+103.3 GPixel/s
+TextureRate
+189.4 GTexel/s
+FP32(float)performance
+6,060 GFLOPS
+FP64(double)performance
+189.4 GFLOPS (1:32)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+250 W
+Outputs
+1x DVI1x HDMI3x DisplayPort
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+PG600 SKU 30
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+5.2
+ShaderModel
+6.2

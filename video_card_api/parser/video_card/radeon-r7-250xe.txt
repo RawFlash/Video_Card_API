@@ -1,0 +1,68 @@
+GPUName
+Cape Verde
+GPUVariant
+Cape Verde XT(215-0825117)
+Architecture
+GCN 1.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+1,500 million
+DieSize
+123 mm^2
+ReleaseDate
+Aug 21st, 2014
+Generation
+Volcanic Islands(R7 200)
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x16
+GPUClock
+860 MHz
+MemoryClock
+1125 MHz4500 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+72.00 GB/s
+ShadingUnits
+640
+TMUs
+40
+ROPs
+16
+ComputeUnits
+10
+PixelRate
+13.76 GPixel/s
+TextureRate
+34.40 GTexel/s
+FP32(float)performance
+1,101 GFLOPS
+FP64(double)performance
+68.80 GFLOPS (1:16)
+SlotWidth
+Single-slot
+TDP
+80 W
+Outputs
+1x DVI1x HDMI1x VGA
+PowerConnectors
+None
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.86
+ShaderModel
+5.1

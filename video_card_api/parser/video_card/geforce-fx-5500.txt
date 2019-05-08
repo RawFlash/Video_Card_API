@@ -1,0 +1,70 @@
+GPUName
+NV34 B1
+GPUVariant
+FX 5500
+Architecture
+Rankine
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+45 million
+DieSize
+91 mm^2
+ReleaseDate
+Mar 17th, 2004
+Generation
+GeForce FX(5500)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+270 MHz
+MemoryClock
+166 MHz332 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+5.312 GB/s
+PixelShaders
+4
+VertexShaders
+1
+TMUs
+4
+ROPs
+4
+PixelRate
+1.080 GPixel/s
+VertexRate
+67.50 MVertices/s
+TextureRate
+1.080 GTexel/s
+SlotWidth
+Single-slot
+Length
+5.977 inches152 mm
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+DirectX
+9.0a 
+OpenGL
+1.5 (2.1)
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0a
+VertexShader
+2.0a

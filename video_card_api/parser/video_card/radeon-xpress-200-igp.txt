@@ -1,0 +1,62 @@
+GPUName
+RS480
+Architecture
+Rage 9
+ProcessSize
+110 nm
+Transistors
+107 million
+DieSize
+74 mm^2
+ReleaseDate
+Nov 8th, 2004
+Generation
+Radeon IGP(200)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+300 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+1.200 GPixel/s
+VertexRate
+150.0 MVertices/s
+TextureRate
+1.200 GTexel/s
+SlotWidth
+IGP
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+9.0 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0
+VertexShader
+2.0

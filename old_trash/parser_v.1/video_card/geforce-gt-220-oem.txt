@@ -1,0 +1,70 @@
+GPUName
+GT215
+GPUVariant
+GT215-450-A2
+Architecture
+Tesla 2.0
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+727 million
+DieSize
+144 mm^2
+ReleaseDate
+Oct 12th, 2009
+Generation
+GeForce 200
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+506 MHz
+ShaderClock
+1012 MHz
+MemoryClock
+700 MHz1400 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+22.40 GB/s
+ShadingUnits
+48
+TMUs
+16
+ROPs
+8
+SMCount
+2
+PixelRate
+4.048 GPixel/s
+TextureRate
+8.096 GTexel/s
+FP32(float)performance
+97.15 GFLOPS
+SlotWidth
+Single-slot
+Length
+6.6 inches168 mm
+TDP
+58 W
+Outputs
+1x DVI1x HDMI1x VGA
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+1.2
+ShaderModel
+4.1

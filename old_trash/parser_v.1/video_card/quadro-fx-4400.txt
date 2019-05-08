@@ -1,0 +1,70 @@
+GPUName
+NV45
+GPUVariant
+NV45 GL
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+222 million
+DieSize
+287 mm^2
+ReleaseDate
+Jul 28th, 2005
+Generation
+Quadro FX(x400)
+Production
+End-of-life
+LaunchPrice
+2,399 USD
+BusInterface
+PCIe 1.0 x16
+GPUClock
+375 MHz
+MemoryClock
+525 MHz1050 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+33.60 GB/s
+PixelShaders
+12
+VertexShaders
+5
+TMUs
+12
+ROPs
+12
+PixelRate
+4.500 GPixel/s
+VertexRate
+468.8 MVertices/s
+TextureRate
+4.500 GTexel/s
+SlotWidth
+Dual-slot
+TDP
+83 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+1x 6-pin
+BoardNumber
+P201, P214
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

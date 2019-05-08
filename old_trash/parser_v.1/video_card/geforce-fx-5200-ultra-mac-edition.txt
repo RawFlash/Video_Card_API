@@ -1,0 +1,70 @@
+GPUName
+NV34 A2
+GPUVariant
+5200 Ultra
+Architecture
+Rankine
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+45 million
+DieSize
+91 mm^2
+ReleaseDate
+Mar 6th, 2003
+Generation
+GeForce FX(5200)
+Production
+End-of-life
+BusInterface
+AGP Pro 8x
+GPUClock
+325 MHz
+MemoryClock
+325 MHz650 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+10.40 GB/s
+PixelShaders
+4
+VertexShaders
+1
+TMUs
+4
+ROPs
+4
+PixelRate
+1.300 GPixel/s
+VertexRate
+81.25 MVertices/s
+TextureRate
+1.300 GTexel/s
+SlotWidth
+Single-slot
+Length
+6.72 inches171 mm
+TDP
+unknown
+Outputs
+2x DVI
+PowerConnectors
+None
+DirectX
+9.0a 
+OpenGL
+1.5 (2.1)
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0a
+VertexShader
+2.0a

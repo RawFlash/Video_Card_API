@@ -1,0 +1,66 @@
+GPUName
+NV41
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+222 million
+DieSize
+225 mm^2
+ReleaseDate
+Sep 30th, 2005
+Generation
+GeForce 6 PCIe(6800)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+425 MHz
+MemoryClock
+500 MHz1000 MHz effective
+MemorySize
+256 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+32.00 GB/s
+PixelShaders
+8
+VertexShaders
+4
+TMUs
+8
+ROPs
+8
+PixelRate
+3.400 GPixel/s
+VertexRate
+425.0 MVertices/s
+TextureRate
+3.400 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+1x 6-pin
+BoardNumber
+P317
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

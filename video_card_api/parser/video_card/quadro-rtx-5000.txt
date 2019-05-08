@@ -1,0 +1,82 @@
+GPUName
+TU104
+GPUVariant
+TU104-875-A1
+Architecture
+Turing
+Foundry
+TSMC
+ProcessSize
+12 nm
+Transistors
+13,600 million
+DieSize
+545 mm^2
+ReleaseDate
+Aug 13th, 2018
+Generation
+Quadro RTX(x000)
+Production
+Active
+LaunchPrice
+2,299 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1620 MHz
+BoostClock
+1815 MHz
+MemoryClock
+1750 MHz14000 MHz effective
+MemorySize
+16 GB
+MemoryType
+GDDR6
+MemoryBus
+256 bit
+Bandwidth
+448.0 GB/s
+ShadingUnits
+3072
+TMUs
+192
+ROPs
+64
+SMCount
+48
+TensorCores
+384
+RTCores
+48
+PixelRate
+116.2 GPixel/s
+TextureRate
+348.5 GTexel/s
+FP16(half)performance
+22,303 GFLOPS (2:1)
+FP32(float)performance
+11,151 GFLOPS
+FP64(double)performance
+348.5 GFLOPS (1:32)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+200 W
+Outputs
+3x DisplayPort1x USB Type-C
+PowerConnectors
+1x 6-pin + 1x 8-pin
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+7.5
+ShaderModel
+6.3

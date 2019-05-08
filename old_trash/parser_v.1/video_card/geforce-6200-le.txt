@@ -1,0 +1,66 @@
+GPUName
+NV44 A2
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+110 nm
+Transistors
+75 million
+DieSize
+110 mm^2
+ReleaseDate
+Apr 4th, 2005
+Generation
+GeForce 6 PCIe(6200)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+350 MHz
+MemoryClock
+266 MHz532 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR2
+MemoryBus
+32 bit
+Bandwidth
+2.128 GB/s
+PixelShaders
+2
+VertexShaders
+1
+TMUs
+2
+ROPs
+2
+PixelRate
+700.0 MPixel/s
+VertexRate
+87.50 MVertices/s
+TextureRate
+700.0 MTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+BoardNumber
+P262, P280
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

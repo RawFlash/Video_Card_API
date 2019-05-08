@@ -1,0 +1,72 @@
+GPUName
+GT216
+Architecture
+Tesla 2.0
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+486 million
+DieSize
+100 mm^2
+ReleaseDate
+Oct 12th, 2009
+Generation
+GeForce 200
+Production
+End-of-life
+BusInterface
+PCI
+GPUClock
+475 MHz
+ShaderClock
+1100 MHz
+MemoryClock
+400 MHz800 MHz effective
+MemorySize
+512 MB
+MemoryType
+DDR2
+MemoryBus
+64 bit
+Bandwidth
+6.400 GB/s
+ShadingUnits
+16
+TMUs
+8
+ROPs
+4
+SMCount
+2
+PixelRate
+1.900 GPixel/s
+TextureRate
+3.800 GTexel/s
+FP32(float)performance
+35.20 GFLOPS
+SlotWidth
+Single-slot
+Length
+5.7 inches145 mm
+TDP
+31 W
+Outputs
+No outputs
+PowerConnectors
+None
+BoardNumber
+P623, P626
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+1.2
+ShaderModel
+4.1

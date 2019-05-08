@@ -1,0 +1,70 @@
+GPUName
+Meso
+GPUVariant
+Meso PRO(216-0864032)
+Architecture
+GCN 3.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+3,100 million
+DieSize
+125 mm^2
+ReleaseDate
+May 15th, 2016
+Generation
+Crystal System(R7 M400)
+Production
+Active
+BusInterface
+PCIe 3.0 x8
+GPUClock
+780 MHz
+BoostClock
+920 MHz
+MemoryClock
+1000 MHz4000 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+64 bit
+Bandwidth
+32.00 GB/s
+ShadingUnits
+320
+TMUs
+20
+ROPs
+8
+ComputeUnits
+5
+PixelRate
+7.360 GPixel/s
+TextureRate
+18.40 GTexel/s
+FP16(half)performance
+588.8 GFLOPS (1:1)
+FP32(float)performance
+588.8 GFLOPS
+FP64(double)performance
+36.80 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

@@ -1,0 +1,76 @@
+GPUName
+Antigua
+GPUVariant
+Antigua XT(215-0877016)
+Architecture
+GCN 3.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+5,000 million
+DieSize
+366 mm^2
+ReleaseDate
+Nov 19th, 2015
+Generation
+Pirate Islands(R9 300)
+Production
+Active
+LaunchPrice
+229 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+970 MHz
+MemoryClock
+1425 MHz5700 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+182.4 GB/s
+ShadingUnits
+2048
+TMUs
+128
+ROPs
+32
+ComputeUnits
+32
+PixelRate
+31.04 GPixel/s
+TextureRate
+124.2 GTexel/s
+FP16(half)performance
+3,973 GFLOPS (1:1)
+FP32(float)performance
+3,973 GFLOPS
+FP64(double)performance
+248.3 GFLOPS (1:16)
+SlotWidth
+Dual-slot
+Length
+8.7 inches221 mm
+TDP
+190 W
+Outputs
+2x DVI1x HDMI1x DisplayPort
+PowerConnectors
+2x 6-pin
+BoardNumber
+C766, C784
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

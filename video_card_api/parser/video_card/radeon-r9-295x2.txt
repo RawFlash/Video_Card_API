@@ -1,0 +1,74 @@
+GPUName
+Vesuvius
+GPUVariant
+Vesuvius XT(215-0852022)
+Architecture
+GCN 2.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+6,200 million
+DieSize
+438 mm^2
+ReleaseDate
+Apr 29th, 2014
+Generation
+Volcanic Islands(R9 200)
+Production
+End-of-life
+LaunchPrice
+1,499 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1018 MHz
+MemoryClock
+1250 MHz5000 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+512 bit
+Bandwidth
+320.0 GB/s
+ShadingUnits
+2816
+TMUs
+176
+ROPs
+64
+ComputeUnits
+44
+PixelRate
+65.15 GPixel/s
+TextureRate
+179.2 GTexel/s
+FP32(float)performance
+5,733 GFLOPS
+FP64(double)performance
+716.7 GFLOPS (1:8)
+SlotWidth
+Dual-slot
+Length
+12.08 inches307 mm
+TDP
+500 W
+Outputs
+1x DVI4x mini-DisplayPort
+PowerConnectors
+3x 8-pin
+BoardNumber
+C673-A7
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

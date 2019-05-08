@@ -1,0 +1,74 @@
+GPUName
+Tahiti
+GPUVariant
+Tahiti XT(215-0821060)
+Architecture
+GCN 1.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+4,313 million
+DieSize
+352 mm^2
+ReleaseDate
+Dec 22nd, 2011
+Generation
+Southern Islands(HD 7900)
+Production
+End-of-life
+LaunchPrice
+549 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+925 MHz
+MemoryClock
+1375 MHz5500 MHz effective
+MemorySize
+3 GB
+MemoryType
+GDDR5
+MemoryBus
+384 bit
+Bandwidth
+264.0 GB/s
+ShadingUnits
+2048
+TMUs
+128
+ROPs
+32
+ComputeUnits
+32
+PixelRate
+29.60 GPixel/s
+TextureRate
+118.4 GTexel/s
+FP32(float)performance
+3,789 GFLOPS
+FP64(double)performance
+947.2 GFLOPS (1:4)
+SlotWidth
+Dual-slot
+Length
+10.8 inches274 mm
+TDP
+250 W
+Outputs
+1x DVI1x HDMI2x mini-DisplayPort
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+C386-37
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.86
+ShaderModel
+5.1

@@ -1,0 +1,76 @@
+GPUName
+TU107
+GPUVariant
+TU107
+Architecture
+Turing
+ProcessSize
+12 nm
+Transistors
+unknown
+DieSize
+unknown
+ReleaseDate
+2019
+Generation
+GeForce 2000
+Production
+Unreleased
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1515 MHz
+BoostClock
+1695 MHz
+MemoryClock
+1750 MHz14000 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR6
+MemoryBus
+128 bit
+Bandwidth
+224.0 GB/s
+ShadingUnits
+896
+TMUs
+56
+ROPs
+32
+SMCount
+14
+TensorCores
+112
+RTCores
+14
+PixelRate
+54.24 GPixel/s
+TextureRate
+94.92 GTexel/s
+FP16(half)performance
+6,075 GFLOPS (2:1)
+FP32(float)performance
+3,037 GFLOPS
+FP64(double)performance
+94.92 GFLOPS (1:32)
+SlotWidth
+Dual-slot
+TDP
+unknown
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+7.5
+ShaderModel
+6.3

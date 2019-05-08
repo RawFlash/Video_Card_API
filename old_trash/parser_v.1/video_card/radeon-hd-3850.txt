@@ -1,0 +1,74 @@
+GPUName
+RV670
+GPUVariant
+RV670 PRO(215-0708003)
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+666 million
+DieSize
+192 mm^2
+ReleaseDate
+Nov 19th, 2007
+Generation
+Radeon R600(HD 3800)
+Production
+End-of-life
+LaunchPrice
+179 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+668 MHz
+MemoryClock
+830 MHz1660 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+53.12 GB/s
+ShadingUnits
+320
+TMUs
+16
+ROPs
+16
+ComputeUnits
+4
+PixelRate
+10.69 GPixel/s
+TextureRate
+10.69 GTexel/s
+FP32(float)performance
+427.5 GFLOPS
+FP64(double)performance
+85.50 GFLOPS (1:5)
+SlotWidth
+Single-slot
+Length
+8.2 inches208 mm
+TDP
+75 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+1x 6-pin
+BoardNumber
+B340, B400
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.1

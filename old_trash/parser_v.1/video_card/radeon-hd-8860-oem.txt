@@ -1,0 +1,72 @@
+GPUName
+Curacao
+GPUVariant
+Curacao PRO(215-0848000)
+Architecture
+GCN 1.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+2,800 million
+DieSize
+212 mm^2
+ReleaseDate
+Jan 8th, 2013
+Generation
+Sea Islands(HD 8800)
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x16
+GPUClock
+925 MHz
+MemoryClock
+1400 MHz5600 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+179.2 GB/s
+ShadingUnits
+1280
+TMUs
+80
+ROPs
+32
+ComputeUnits
+20
+PixelRate
+29.60 GPixel/s
+TextureRate
+74.00 GTexel/s
+FP32(float)performance
+2,368 GFLOPS
+FP64(double)performance
+148.0 GFLOPS (1:16)
+SlotWidth
+Dual-slot
+Length
+9.5 inches241 mm
+TDP
+175 W
+Outputs
+1x DVI1x HDMI2x mini-DisplayPort
+PowerConnectors
+1x 6-pin
+BoardNumber
+C632
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.86
+ShaderModel
+5.1

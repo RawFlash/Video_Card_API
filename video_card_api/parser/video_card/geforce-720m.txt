@@ -1,0 +1,70 @@
+GPUName
+GF117
+GPUVariant
+N14M-GE
+Architecture
+Fermi 2.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+585 million
+DieSize
+116 mm^2
+ReleaseDate
+Apr 1st, 2013
+Generation
+GeForce 700M
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+625 MHz
+ShaderClock
+1250 MHz
+MemoryClock
+800 MHz1600 MHz effective
+MemorySize
+2 GB
+MemoryType
+DDR3
+MemoryBus
+64 bit
+Bandwidth
+12.80 GB/s
+ShadingUnits
+96
+TMUs
+16
+ROPs
+8
+SMCount
+2
+PixelRate
+2.500 GPixel/s
+TextureRate
+10.00 GTexel/s
+FP32(float)performance
+240.0 GFLOPS
+FP64(double)performance
+20.00 GFLOPS (1:12)
+SlotWidth
+MXM Module
+TDP
+33 W
+Outputs
+No outputs
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+2.1
+ShaderModel
+5.1

@@ -1,0 +1,78 @@
+GPUName
+GF110
+GPUVariant
+GF110-275-A1
+Architecture
+Fermi 2.0
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+3,000 million
+DieSize
+520 mm^2
+ReleaseDate
+Dec 7th, 2010
+Generation
+GeForce 500
+Production
+End-of-life
+LaunchPrice
+349 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+732 MHz
+ShaderClock
+1464 MHz
+MemoryClock
+950 MHz3800 MHz effective
+MemorySize
+1280 MB
+MemoryType
+GDDR5
+MemoryBus
+320 bit
+Bandwidth
+152.0 GB/s
+ShadingUnits
+480
+TMUs
+60
+ROPs
+40
+SMCount
+15
+PixelRate
+21.96 GPixel/s
+TextureRate
+43.92 GTexel/s
+FP32(float)performance
+1,405 GFLOPS
+FP64(double)performance
+175.7 GFLOPS (1:8)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+219 W
+Outputs
+2x DVI1x mini-HDMI
+PowerConnectors
+2x 6-pin
+BoardNumber
+P1263
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+2.0
+ShaderModel
+5.1

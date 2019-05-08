@@ -1,0 +1,72 @@
+GPUName
+Redwood
+GPUVariant
+Redwood PRO GL
+Architecture
+TeraScale 2
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+627 million
+DieSize
+104 mm^2
+ReleaseDate
+Apr 26th, 2010
+Generation
+FirePro(Vx800)
+Production
+End-of-life
+LaunchPrice
+129 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+650 MHz
+MemoryClock
+900 MHz1800 MHz effective
+MemorySize
+512 MB
+MemoryType
+DDR3
+MemoryBus
+64 bit
+Bandwidth
+14.40 GB/s
+ShadingUnits
+400
+TMUs
+20
+ROPs
+8
+ComputeUnits
+5
+PixelRate
+5.200 GPixel/s
+TextureRate
+13.00 GTexel/s
+FP32(float)performance
+520.0 GFLOPS
+SlotWidth
+Single-slot
+Length
+6.61 inches168 mm
+TDP
+43 W
+Outputs
+1x DVI1x DisplayPort
+PowerConnectors
+None
+BoardNumber
+C021
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

@@ -1,0 +1,76 @@
+GPUName
+GT216
+GPUVariant
+GT216 GL
+Architecture
+Tesla 2.0
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+486 million
+DieSize
+100 mm^2
+ReleaseDate
+Apr 5th, 2011
+Generation
+Quadro(x000)
+Production
+End-of-life
+LaunchPrice
+169 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+450 MHz
+ShaderClock
+1125 MHz
+MemoryClock
+770 MHz1540 MHz effective
+MemorySize
+512 MB
+MemoryType
+DDR3
+MemoryBus
+64 bit
+Bandwidth
+12.32 GB/s
+ShadingUnits
+48
+TMUs
+16
+ROPs
+8
+SMCount
+2
+PixelRate
+3.600 GPixel/s
+TextureRate
+7.200 GTexel/s
+FP32(float)performance
+108.0 GFLOPS
+SlotWidth
+Single-slot
+Length
+6.4 inches163 mm
+TDP
+32 W
+Outputs
+1x DVI1x DisplayPort
+PowerConnectors
+None
+BoardNumber
+P1052
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+1.2
+ShaderModel
+4.1

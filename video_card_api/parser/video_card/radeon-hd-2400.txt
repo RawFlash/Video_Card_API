@@ -1,0 +1,66 @@
+GPUName
+RV610
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+65 nm
+Transistors
+180 million
+DieSize
+85 mm^2
+ReleaseDate
+Feb 19th, 2008
+Generation
+Radeon R600(HD 2400)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+398 MHz
+MemoryClock
+495 MHz990 MHz effective
+MemorySize
+256 MB
+MemoryType
+DDR2
+MemoryBus
+64 bit
+Bandwidth
+7.920 GB/s
+ShadingUnits
+40
+TMUs
+4
+ROPs
+4
+ComputeUnits
+2
+PixelRate
+1.592 GPixel/s
+TextureRate
+1.592 GTexel/s
+FP32(float)performance
+31.84 GFLOPS
+SlotWidth
+Single-slot
+TDP
+20 W
+Outputs
+1x DVI1x S-Video
+PowerConnectors
+None
+BoardNumber
+B170
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.0

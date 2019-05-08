@@ -1,0 +1,68 @@
+GPUName
+G71
+GPUVariant
+G71-GT2-H-N-A2
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+278 million
+DieSize
+196 mm^2
+ReleaseDate
+Apr 2nd, 2007
+Generation
+GeForce 7 AGP(7900)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+550 MHz
+MemoryClock
+700 MHz1400 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+44.80 GB/s
+PixelShaders
+24
+VertexShaders
+8
+TMUs
+24
+ROPs
+16
+PixelRate
+8.800 GPixel/s
+VertexRate
+1.100 GVertices/s
+TextureRate
+13.20 GTexel/s
+SlotWidth
+Single-slot
+TDP
+65 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+1x Molex
+BoardNumber
+P168
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

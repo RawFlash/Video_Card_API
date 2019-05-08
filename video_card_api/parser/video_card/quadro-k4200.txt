@@ -1,0 +1,76 @@
+GPUName
+GK104
+GPUVariant
+GK104-850-A2
+Architecture
+Kepler
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+3,540 million
+DieSize
+294 mm^2
+ReleaseDate
+Jul 22nd, 2014
+Generation
+Quadro(Kx200)
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+771 MHz
+BoostClock
+784 MHz
+MemoryClock
+1350 MHz5400 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+172.8 GB/s
+ShadingUnits
+1344
+TMUs
+112
+ROPs
+32
+SMXCount
+7
+PixelRate
+21.95 GPixel/s
+TextureRate
+87.81 GTexel/s
+FP32(float)performance
+2,107 GFLOPS
+FP64(double)performance
+87.81 GFLOPS (1:24)
+SlotWidth
+Single-slot
+Length
+9.5 inches241 mm
+TDP
+108 W
+Outputs
+1x DVI2x DisplayPort
+PowerConnectors
+1x 6-pin
+BoardNumber
+P2004
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+3.0
+ShaderModel
+5.1

@@ -1,0 +1,68 @@
+GPUName
+G72
+GPUVariant
+GF-7200GS-N-B1
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+112 million
+DieSize
+81 mm^2
+ReleaseDate
+Jan 18th, 2006
+Generation
+GeForce 7 PCIe(7200)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+450 MHz
+MemoryClock
+334 MHz668 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR2
+MemoryBus
+64 bit
+Bandwidth
+5.344 GB/s
+PixelShaders
+2
+VertexShaders
+2
+TMUs
+4
+ROPs
+2
+PixelRate
+900.0 MPixel/s
+VertexRate
+225.0 MVertices/s
+TextureRate
+1.800 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+BoardNumber
+P262, P381
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

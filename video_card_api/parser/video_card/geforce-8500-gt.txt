@@ -1,0 +1,76 @@
+GPUName
+G86
+GPUVariant
+G86-300-A2
+Architecture
+Tesla
+Foundry
+TSMC
+ProcessSize
+80 nm
+Transistors
+210 million
+DieSize
+127 mm^2
+ReleaseDate
+Apr 17th, 2007
+Generation
+GeForce 8(8500)
+Production
+End-of-life
+LaunchPrice
+129 USD
+BusInterface
+PCIe 1.0 x16
+GPUClock
+459 MHz
+ShaderClock
+918 MHz
+MemoryClock
+400 MHz800 MHz effective
+MemorySize
+256 MB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+12.80 GB/s
+ShadingUnits
+16
+TMUs
+8
+ROPs
+4
+SMCount
+2
+PixelRate
+1.836 GPixel/s
+TextureRate
+3.672 GTexel/s
+FP32(float)performance
+29.38 GFLOPS
+SlotWidth
+Single-slot
+Length
+9 inches229 mm
+TDP
+30 W
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+BoardNumber
+P403
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+1.1
+ShaderModel
+4.0

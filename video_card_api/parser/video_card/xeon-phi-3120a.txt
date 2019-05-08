@@ -1,0 +1,64 @@
+GPUName
+Knights Corner
+Architecture
+Knights
+Foundry
+Intel
+ProcessSize
+22 nm
+Transistors
+5,000 million
+DieSize
+350 mm^2
+ReleaseDate
+Nov 12th, 2012
+Generation
+Knights Corner(x100)
+Production
+End-of-life
+LaunchPrice
+1,695 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1100 MHz
+MemoryClock
+1250 MHz5000 MHz effective
+MemorySize
+6 GB
+MemoryType
+GDDR5
+MemoryBus
+384 bit
+Bandwidth
+240.0 GB/s
+ShadingUnits
+228
+TMUs
+57
+ROPs
+57
+PixelRate
+62.70 GPixel/s
+TextureRate
+62.70 GTexel/s
+FP32(float)performance
+501.6 GFLOPS
+SlotWidth
+Dual-slot
+Length
+9.76 inches248 mm
+TDP
+300 W
+Outputs
+No outputs
+DirectX
+11.1 
+OpenGL
+4.3
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

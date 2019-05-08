@@ -1,0 +1,74 @@
+GPUName
+Antilles
+GPUVariant
+Antilles XT(215-0807027)
+Architecture
+TeraScale 3
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+2,640 million
+DieSize
+389 mm^2
+ReleaseDate
+Mar 8th, 2011
+Generation
+Northern Islands(HD 6900)
+Production
+End-of-life
+LaunchPrice
+699 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+830 MHz
+MemoryClock
+1250 MHz5000 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+160.0 GB/s
+ShadingUnits
+1536
+TMUs
+96
+ROPs
+32
+ComputeUnits
+24
+PixelRate
+26.56 GPixel/s
+TextureRate
+79.68 GTexel/s
+FP32(float)performance
+2,550 GFLOPS
+FP64(double)performance
+637.4 GFLOPS (1:4)
+SlotWidth
+Dual-slot
+Length
+11.61 inches295 mm
+TDP
+375 W
+Outputs
+1x DVI4x mini-DisplayPort
+PowerConnectors
+2x 8-pin
+BoardNumber
+C206-47
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

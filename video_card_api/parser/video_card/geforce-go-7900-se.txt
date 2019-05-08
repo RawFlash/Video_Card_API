@@ -1,0 +1,60 @@
+GPUName
+G73
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+177 million
+DieSize
+125 mm^2
+ReleaseDate
+Apr 18th, 2006
+Generation
+GeForce Go 7(Go 7000)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+350 MHz
+MemoryClock
+333 MHz666 MHz effective
+MemorySize
+256 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+21.31 GB/s
+PixelShaders
+12
+VertexShaders
+5
+TMUs
+12
+ROPs
+8
+PixelRate
+2.800 GPixel/s
+VertexRate
+437.5 MVertices/s
+TextureRate
+4.200 GTexel/s
+TDP
+20 W
+Outputs
+No outputs
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

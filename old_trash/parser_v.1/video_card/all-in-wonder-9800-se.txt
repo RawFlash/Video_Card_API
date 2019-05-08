@@ -1,0 +1,70 @@
+GPUName
+R350
+GPUVariant
+R350 AIW
+Architecture
+Rage 8
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+117 million
+DieSize
+218 mm^2
+ReleaseDate
+Sep 10th, 2003
+Generation
+All-In-Wonder(9000)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+378 MHz
+MemoryClock
+297 MHz594 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+9.504 GB/s
+PixelShaders
+4
+VertexShaders
+4
+TMUs
+4
+ROPs
+8
+PixelRate
+3.024 GPixel/s
+VertexRate
+378.0 MVertices/s
+TextureRate
+1.512 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI2x S-Video
+PowerConnectors
+None
+BoardNumber
+957
+DirectX
+9.0 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0
+VertexShader
+2.0

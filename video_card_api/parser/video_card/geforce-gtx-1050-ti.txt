@@ -1,0 +1,80 @@
+GPUName
+GP107
+GPUVariant
+GP107-400-A1
+Architecture
+Pascal
+Foundry
+Samsung
+ProcessSize
+14 nm
+Transistors
+3,300 million
+DieSize
+132 mm^2
+ReleaseDate
+Oct 25th, 2016
+Generation
+GeForce 1000
+Production
+Active
+LaunchPrice
+139 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1291 MHz
+BoostClock
+1392 MHz
+MemoryClock
+1752 MHz7008 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+112.1 GB/s
+ShadingUnits
+768
+TMUs
+48
+ROPs
+32
+SMCount
+6
+PixelRate
+44.54 GPixel/s
+TextureRate
+66.82 GTexel/s
+FP16(half)performance
+33.41 GFLOPS (1:64)
+FP32(float)performance
+2,138 GFLOPS
+FP64(double)performance
+66.82 GFLOPS (1:32)
+SlotWidth
+Dual-slot
+Length
+5.7 inches145 mm
+TDP
+75 W
+Outputs
+1x DVI1x HDMI1x DisplayPort
+PowerConnectors
+None
+BoardNumber
+PG210
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.1
+ShaderModel
+6.2

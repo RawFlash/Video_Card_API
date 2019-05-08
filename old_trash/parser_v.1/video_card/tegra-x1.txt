@@ -1,0 +1,70 @@
+GPUName
+GM20B
+GPUVariant
+TM670D-A1
+Architecture
+Maxwell 2.0
+Foundry
+TSMC
+ProcessSize
+20 nm
+Transistors
+unknown
+DieSize
+118 mm^2
+ReleaseDate
+2015
+Generation
+Tegra
+Production
+End-of-life
+BusInterface
+IGP
+GPUClock
+1000 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+256
+TMUs
+16
+ROPs
+16
+SMMCount
+2
+PixelRate
+16.00 GPixel/s
+TextureRate
+16.00 GTexel/s
+FP16(half)performance
+1,024 GFLOPS (2:1)
+FP32(float)performance
+512.0 GFLOPS
+FP64(double)performance
+16.00 GFLOPS (1:32)
+SlotWidth
+IGP
+TDP
+15 W
+Outputs
+No outputs
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+5.3
+ShaderModel
+6.2

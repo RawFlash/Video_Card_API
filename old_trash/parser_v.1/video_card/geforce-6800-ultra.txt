@@ -1,0 +1,72 @@
+GPUName
+NV40
+GPUVariant
+6800 Ultra
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+222 million
+DieSize
+287 mm^2
+ReleaseDate
+Jul 26th, 2004
+Generation
+GeForce 6 PCIe(6800)
+Production
+End-of-life
+LaunchPrice
+499 USD
+BusInterface
+PCIe 1.0 x16
+GPUClock
+400 MHz
+MemoryClock
+550 MHz1100 MHz effective
+MemorySize
+256 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+35.20 GB/s
+PixelShaders
+16
+VertexShaders
+6
+TMUs
+16
+ROPs
+16
+PixelRate
+6.400 GPixel/s
+VertexRate
+600.0 MVertices/s
+TextureRate
+6.400 GTexel/s
+SlotWidth
+Dual-slot
+Length
+7.75 inches197 mm
+TDP
+81 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+1x 6-pin
+BoardNumber
+P211, P214
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

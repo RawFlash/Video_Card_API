@@ -1,0 +1,64 @@
+GPUName
+Hollywood
+Architecture
+R500
+Foundry
+NEC
+ProcessSize
+90 nm
+Transistors
+107 million
+DieSize
+95 mm^2
+ReleaseDate
+Nov 19th, 2006
+Generation
+Console GPU(Nintendo)
+Production
+End-of-life
+BusInterface
+IGP
+GPUClock
+243 MHz
+MemoryClock
+243 MHz486 MHz effective
+MemorySize
+64 MB
+MemoryType
+GDDR3
+MemoryBus
+64 bit
+Bandwidth
+3.888 GB/s
+PixelShaders
+4
+VertexShaders
+1
+TMUs
+4
+ROPs
+4
+PixelRate
+972.0 MPixel/s
+VertexRate
+60.75 MVertices/s
+TextureRate
+972.0 MTexel/s
+SlotWidth
+IGP
+TDP
+45 W
+Outputs
+No outputs
+DirectX
+N/A 
+OpenGL
+N/A
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+N/A
+VertexShader
+N/A

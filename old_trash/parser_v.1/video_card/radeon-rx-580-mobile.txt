@@ -1,0 +1,72 @@
+GPUName
+Polaris 20
+GPUVariant
+Polaris 20M XT
+Architecture
+GCN 4.0
+Foundry
+GlobalFoundries
+ProcessSize
+14 nm
+Transistors
+5,700 million
+DieSize
+232 mm^2
+ReleaseDate
+Apr 18th, 2017
+Generation
+Mobility Radeon(RX M500)
+Production
+Active
+BusInterface
+MXM-B (3.0)
+GPUClock
+1000 MHz
+BoostClock
+1077 MHz
+MemoryClock
+2000 MHz8000 MHz effective
+MemorySize
+8 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+256.0 GB/s
+ShadingUnits
+2304
+TMUs
+144
+ROPs
+32
+ComputeUnits
+36
+PixelRate
+34.46 GPixel/s
+TextureRate
+155.1 GTexel/s
+FP16(half)performance
+4,963 GFLOPS (1:1)
+FP32(float)performance
+4,963 GFLOPS
+FP64(double)performance
+310.2 GFLOPS (1:16)
+SlotWidth
+MXM Module
+TDP
+100 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

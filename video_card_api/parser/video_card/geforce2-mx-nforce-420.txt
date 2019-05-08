@@ -1,0 +1,60 @@
+GPUName
+Crush11
+Architecture
+Celsius
+ProcessSize
+180 nm
+Transistors
+20 million
+DieSize
+65 mm^2
+ReleaseDate
+Jun 4th, 2001
+Generation
+GeForce 2 MX IGP
+Production
+End-of-life
+BusInterface
+AGP 4x
+GPUClock
+175 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+PixelShaders
+2
+VertexShaders
+0
+TMUs
+4
+ROPs
+2
+PixelRate
+350.0 MPixel/s
+TextureRate
+700.0 MTexel/s
+SlotWidth
+IGP
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+7.0 
+OpenGL
+1.2
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+
+VertexShader
+

@@ -1,0 +1,72 @@
+GPUName
+RV410
+GPUVariant
+RV410 GL
+Architecture
+R400
+Foundry
+TSMC
+ProcessSize
+110 nm
+Transistors
+120 million
+DieSize
+156 mm^2
+ReleaseDate
+Sep 1st, 2004
+Generation
+FireGL(Vx000)
+Production
+End-of-life
+LaunchPrice
+699 USD
+BusInterface
+PCIe 1.0 x16
+GPUClock
+450 MHz
+MemoryClock
+350 MHz700 MHz effective
+MemorySize
+128 MB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+11.20 GB/s
+PixelShaders
+8
+VertexShaders
+6
+TMUs
+8
+ROPs
+8
+PixelRate
+3.600 GPixel/s
+VertexRate
+675.0 MVertices/s
+TextureRate
+3.600 GTexel/s
+SlotWidth
+Single-slot
+Length
+7.2 inches183 mm
+TDP
+unknown
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+None
+DirectX
+9.0b 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0b
+VertexShader
+2.0b

@@ -1,0 +1,64 @@
+GPUName
+M7
+GPUVariant
+M7-16CL
+Architecture
+Rage 7
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+60 million
+DieSize
+68 mm^2
+ReleaseDate
+Dec 1st, 2001
+Generation
+M7(Mobility 7500)
+Production
+End-of-life
+BusInterface
+AGP 4x
+GPUClock
+230 MHz
+MemoryClock
+183 MHz366 MHz effective
+MemorySize
+16 MB
+MemoryType
+DDR
+MemoryBus
+64 bit
+Bandwidth
+2.928 GB/s
+PixelShaders
+2
+VertexShaders
+1
+TMUs
+2
+ROPs
+1
+PixelRate
+230.0 MPixel/s
+VertexRate
+57.50 MVertices/s
+TextureRate
+460.0 MTexel/s
+TDP
+27 W
+Outputs
+No outputs
+DirectX
+7.0 
+OpenGL
+1.3
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+N/A
+VertexShader
+N/A

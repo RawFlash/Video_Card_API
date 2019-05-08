@@ -1,0 +1,60 @@
+GPUName
+G73
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+177 million
+DieSize
+125 mm^2
+ReleaseDate
+Mar 13th, 2006
+Generation
+Quadro FX(x500M)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+480 MHz
+MemoryClock
+500 MHz1000 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+16.00 GB/s
+PixelShaders
+12
+VertexShaders
+5
+TMUs
+12
+ROPs
+8
+PixelRate
+3.840 GPixel/s
+VertexRate
+600.0 MVertices/s
+TextureRate
+5.760 GTexel/s
+TDP
+35 W
+Outputs
+No outputs
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

@@ -1,0 +1,66 @@
+GPUName
+NV34 B1
+Architecture
+Rankine
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+45 million
+DieSize
+91 mm^2
+ReleaseDate
+May 31st, 2005
+Generation
+Quadro NVS
+Production
+End-of-life
+BusInterface
+PCI
+GPUClock
+250 MHz
+MemoryClock
+200 MHz400 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR
+MemoryBus
+64 bit
+Bandwidth
+3.200 GB/s
+PixelShaders
+2
+VertexShaders
+0
+TMUs
+4
+ROPs
+2
+PixelRate
+500.0 MPixel/s
+TextureRate
+1.000 GTexel/s
+SlotWidth
+Single-slot
+Length
+6.6 inches168 mm
+TDP
+10 W
+Outputs
+1x DVI1x S-Video
+PowerConnectors
+None
+DirectX
+9.0a 
+OpenGL
+1.5 (2.1)
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0a
+VertexShader
+2.0a

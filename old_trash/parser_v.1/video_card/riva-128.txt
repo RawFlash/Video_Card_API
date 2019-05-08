@@ -1,0 +1,62 @@
+GPUName
+NV3
+Foundry
+ST
+ProcessSize
+350 nm
+Transistors
+4 million
+DieSize
+90 mm^2
+ReleaseDate
+Apr 1st, 1997
+Generation
+Riva
+Production
+End-of-life
+BusInterface
+AGP 2x
+GPUClock
+100 MHz
+MemoryClock
+100 MHz100 MHz effective
+MemorySize
+4 MB
+MemoryType
+SDR
+MemoryBus
+128 bit
+Bandwidth
+1.600 GB/s
+PixelShaders
+1
+VertexShaders
+0
+TMUs
+1
+ROPs
+1
+PixelRate
+100.0 MPixel/s
+TextureRate
+100.0 MTexel/s
+SlotWidth
+Single-slot
+TDP
+4 W
+Outputs
+1x VGA1x DB13W3
+PowerConnectors
+None
+DirectX
+5.0 
+OpenGL
+1.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+N/A
+VertexShader
+N/A

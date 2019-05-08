@@ -1,0 +1,66 @@
+GPUName
+NV1
+Foundry
+ST
+ProcessSize
+500 nm
+Transistors
+1 million
+DieSize
+90 mm^2
+ReleaseDate
+Sep 30th, 1995
+Generation
+NV1
+Production
+End-of-life
+LaunchPrice
+299 USD
+BusInterface
+PCI
+GPUClock
+75 MHz
+MemoryClock
+60 MHz60 MHz effective
+MemorySize
+2 MB
+MemoryType
+EDO
+MemoryBus
+64 bit
+Bandwidth
+480.0 MB/s
+PixelShaders
+1
+VertexShaders
+0
+TMUs
+1
+ROPs
+1
+PixelRate
+75.00 MPixel/s
+TextureRate
+75.00 MTexel/s
+SlotWidth
+Single-slot
+Length
+7.5 inches191 mm
+TDP
+2 W
+Outputs
+1x VGA
+PowerConnectors
+None
+DirectX
+1.0 
+OpenGL
+N/A
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+N/A
+VertexShader
+N/A

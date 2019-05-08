@@ -1,0 +1,68 @@
+GPUName
+Blackcomb
+GPUVariant
+Blackcomb XT(216-0811000)
+Architecture
+TeraScale 2
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+1,700 million
+DieSize
+212 mm^2
+ReleaseDate
+Aug 25th, 2011
+Generation
+Vancouver(HD 6900M)
+Production
+End-of-life
+BusInterface
+MXM-B (3.0)
+GPUClock
+680 MHz
+MemoryClock
+900 MHz3600 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+115.2 GB/s
+ShadingUnits
+960
+TMUs
+48
+ROPs
+32
+ComputeUnits
+12
+PixelRate
+21.76 GPixel/s
+TextureRate
+32.64 GTexel/s
+FP32(float)performance
+1,306 GFLOPS
+SlotWidth
+MXM Module
+TDP
+75 W
+Outputs
+No outputs
+PowerConnectors
+None
+BoardNumber
+C296
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

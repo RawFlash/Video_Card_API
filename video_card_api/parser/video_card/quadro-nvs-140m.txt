@@ -1,0 +1,66 @@
+GPUName
+G86
+GPUVariant
+G86-740-A2
+Architecture
+Tesla
+Foundry
+TSMC
+ProcessSize
+80 nm
+Transistors
+210 million
+DieSize
+127 mm^2
+ReleaseDate
+May 9th, 2007
+Generation
+Quadro NVS Mobile
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+400 MHz
+ShaderClock
+800 MHz
+MemoryClock
+600 MHz1200 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+64 bit
+Bandwidth
+9.600 GB/s
+ShadingUnits
+16
+TMUs
+8
+ROPs
+4
+SMCount
+2
+PixelRate
+1.600 GPixel/s
+TextureRate
+3.200 GTexel/s
+FP32(float)performance
+25.60 GFLOPS
+TDP
+10 W
+Outputs
+No outputs
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+1.1
+ShaderModel
+4.0

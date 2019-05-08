@@ -1,0 +1,66 @@
+GPUName
+RV670
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+666 million
+DieSize
+192 mm^2
+ReleaseDate
+Nov 8th, 2007
+Generation
+FireStream
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+800 MHz
+MemoryClock
+800 MHz1600 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+51.20 GB/s
+ShadingUnits
+320
+TMUs
+16
+ROPs
+16
+ComputeUnits
+4
+PixelRate
+12.80 GPixel/s
+TextureRate
+12.80 GTexel/s
+FP32(float)performance
+512.0 GFLOPS
+FP64(double)performance
+102.4 GFLOPS (1:5)
+SlotWidth
+Dual-slot
+TDP
+105 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+1x 6-pin
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.1

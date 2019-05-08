@@ -1,0 +1,70 @@
+GPUName
+GP106B
+Architecture
+Pascal
+Foundry
+TSMC
+ProcessSize
+16 nm
+Transistors
+4,400 million
+DieSize
+200 mm^2
+ReleaseDate
+Feb 1st, 2017
+Generation
+GeForce 1000M
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1354 MHz
+BoostClock
+1493 MHz
+MemoryClock
+1752 MHz7008 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+112.1 GB/s
+ShadingUnits
+640
+TMUs
+40
+ROPs
+32
+SMCount
+5
+PixelRate
+47.78 GPixel/s
+TextureRate
+59.72 GTexel/s
+FP16(half)performance
+29.86 GFLOPS (1:64)
+FP32(float)performance
+1,911 GFLOPS
+FP64(double)performance
+59.72 GFLOPS (1:32)
+TDP
+75 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.1
+ShaderModel
+6.2

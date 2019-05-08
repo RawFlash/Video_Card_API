@@ -1,0 +1,68 @@
+GPUName
+GF108
+GPUVariant
+N11P-GV
+Architecture
+Fermi
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+585 million
+DieSize
+116 mm^2
+ReleaseDate
+Sep 3rd, 2010
+Generation
+GeForce 400M
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+500 MHz
+ShaderClock
+1000 MHz
+MemoryClock
+800 MHz1600 MHz effective
+MemorySize
+512 MB
+MemoryType
+DDR3
+MemoryBus
+128 bit
+Bandwidth
+25.60 GB/s
+ShadingUnits
+48
+TMUs
+8
+ROPs
+4
+SMCount
+1
+PixelRate
+1.000 GPixel/s
+TextureRate
+4.000 GTexel/s
+FP32(float)performance
+96.00 GFLOPS
+FP64(double)performance
+8.000 GFLOPS (1:12)
+TDP
+12 W
+Outputs
+No outputs
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+2.1
+ShaderModel
+5.1

@@ -1,0 +1,70 @@
+GPUName
+Exo
+GPUVariant
+Exo PRO
+Architecture
+GCN 1.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+1,040 million
+DieSize
+77 mm^2
+ReleaseDate
+May 5th, 2015
+Generation
+Crystal System(R5 M300)
+Production
+Active
+BusInterface
+PCIe 3.0 x8
+GPUClock
+955 MHz
+BoostClock
+1030 MHz
+MemoryClock
+900 MHz1800 MHz effective
+MemorySize
+2 GB
+MemoryType
+DDR3
+MemoryBus
+64 bit
+Bandwidth
+14.40 GB/s
+ShadingUnits
+320
+TMUs
+20
+ROPs
+8
+ComputeUnits
+5
+PixelRate
+8.240 GPixel/s
+TextureRate
+20.60 GTexel/s
+FP32(float)performance
+659.2 GFLOPS
+FP64(double)performance
+41.20 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+18 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.86
+ShaderModel
+5.0

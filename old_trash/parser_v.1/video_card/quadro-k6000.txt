@@ -1,0 +1,78 @@
+GPUName
+GK110B
+GPUVariant
+GK110-890-B1
+Architecture
+Kepler
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+7,080 million
+DieSize
+561 mm^2
+ReleaseDate
+Jul 23rd, 2013
+Generation
+Quadro(Kx000)
+Production
+End-of-life
+LaunchPrice
+5,265 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+797 MHz
+BoostClock
+902 MHz
+MemoryClock
+1502 MHz6008 MHz effective
+MemorySize
+12 GB
+MemoryType
+GDDR5
+MemoryBus
+384 bit
+Bandwidth
+288.4 GB/s
+ShadingUnits
+2880
+TMUs
+240
+ROPs
+48
+SMXCount
+15
+PixelRate
+54.12 GPixel/s
+TextureRate
+216.5 GTexel/s
+FP32(float)performance
+5,196 GFLOPS
+FP64(double)performance
+1,732 GFLOPS (1:3)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+225 W
+Outputs
+2x DVI2x DisplayPort
+PowerConnectors
+2x 6-pin
+BoardNumber
+P2081 SKU 500
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+3.5
+ShaderModel
+5.1

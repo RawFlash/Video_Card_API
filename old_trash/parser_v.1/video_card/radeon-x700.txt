@@ -1,0 +1,68 @@
+GPUName
+RV410
+GPUVariant
+RV410 LE(215LCAAKA13FL)
+Architecture
+R400
+Foundry
+TSMC
+ProcessSize
+110 nm
+Transistors
+120 million
+DieSize
+156 mm^2
+ReleaseDate
+Sep 1st, 2004
+Generation
+Radeon R400(X700)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+400 MHz
+MemoryClock
+250 MHz500 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+8.000 GB/s
+PixelShaders
+8
+VertexShaders
+6
+TMUs
+8
+ROPs
+8
+PixelRate
+3.200 GPixel/s
+VertexRate
+600.0 MVertices/s
+TextureRate
+3.200 GTexel/s
+SlotWidth
+Single-slot
+TDP
+44 W
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+DirectX
+9.0b 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0b
+VertexShader
+2.0b

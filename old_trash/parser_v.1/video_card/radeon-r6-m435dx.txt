@@ -1,0 +1,68 @@
+GPUName
+Jet
+GPUVariant
+Jet XT
+Architecture
+GCN 1.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+1,040 million
+DieSize
+77 mm^2
+ReleaseDate
+Dec 12th, 2016
+Generation
+Crystal System(Rx M400)
+Production
+Active
+BusInterface
+IGP
+GPUClock
+955 MHz
+BoostClock
+1030 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+384
+TMUs
+24
+ROPs
+8
+ComputeUnits
+6
+PixelRate
+8.240 GPixel/s
+TextureRate
+24.72 GTexel/s
+FP32(float)performance
+791.0 GFLOPS
+FP64(double)performance
+49.44 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.86
+ShaderModel
+5.1

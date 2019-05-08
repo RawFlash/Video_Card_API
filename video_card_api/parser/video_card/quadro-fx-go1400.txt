@@ -1,0 +1,62 @@
+GPUName
+NV41
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+222 million
+DieSize
+225 mm^2
+ReleaseDate
+Feb 25th, 2005
+Generation
+Quadro FX Go
+Production
+End-of-life
+BusInterface
+MXM-III
+GPUClock
+275 MHz
+MemoryClock
+295 MHz590 MHz effective
+MemorySize
+256 MB
+MemoryType
+DDR
+MemoryBus
+256 bit
+Bandwidth
+18.88 GB/s
+PixelShaders
+8
+VertexShaders
+5
+TMUs
+8
+ROPs
+8
+PixelRate
+2.200 GPixel/s
+VertexRate
+343.8 MVertices/s
+TextureRate
+2.200 GTexel/s
+SlotWidth
+MXM Module
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

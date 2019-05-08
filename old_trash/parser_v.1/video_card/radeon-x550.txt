@@ -1,0 +1,68 @@
+GPUName
+RV370
+GPUVariant
+RV370 LE(215S8DAKA23F)
+Architecture
+Rage 9
+Foundry
+TSMC
+ProcessSize
+110 nm
+Transistors
+107 million
+DieSize
+74 mm^2
+ReleaseDate
+Jul 1st, 2005
+Generation
+Radeon R300(X550)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+400 MHz
+MemoryClock
+250 MHz500 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+8.000 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+1.600 GPixel/s
+VertexRate
+200.0 MVertices/s
+TextureRate
+1.600 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+DirectX
+9.0 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0
+VertexShader
+2.0

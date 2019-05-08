@@ -1,0 +1,72 @@
+GPUName
+GP108B
+Architecture
+Pascal
+Foundry
+Samsung
+ProcessSize
+14 nm
+Transistors
+1,800 million
+DieSize
+74 mm^2
+ReleaseDate
+Unknown
+Generation
+GeForce MX
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+937 MHz
+BoostClock
+1038 MHz
+MemoryClock
+1502 MHz6008 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+64 bit
+Bandwidth
+48.06 GB/s
+ShadingUnits
+384
+TMUs
+24
+ROPs
+8
+SMCount
+3
+PixelRate
+8.304 GPixel/s
+TextureRate
+24.91 GTexel/s
+FP16(half)performance
+12.46 GFLOPS (1:64)
+FP32(float)performance
+797.2 GFLOPS
+FP64(double)performance
+24.91 GFLOPS (1:32)
+SlotWidth
+IGP
+TDP
+10 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.1
+ShaderModel
+6.2

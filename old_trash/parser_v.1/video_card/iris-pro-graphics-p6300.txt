@@ -1,0 +1,64 @@
+GPUName
+Broadwell GT3e
+Architecture
+Generation 8.0
+Foundry
+Intel
+ProcessSize
+14 nm
+Transistors
+189 million
+DieSize
+49 mm^2
+ReleaseDate
+Sep 5th, 2014
+Generation
+HD Graphics(Broadwell Workstation)
+Production
+End-of-life
+BusInterface
+IGP
+GPUClock
+800 MHz
+BoostClock
+1000 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+384
+TMUs
+48
+ROPs
+6
+PixelRate
+6.000 GPixel/s
+TextureRate
+48.00 GTexel/s
+FP32(float)performance
+768.0 GFLOPS
+FP64(double)performance
+192.0 GFLOPS (1:4)
+SlotWidth
+IGP
+TDP
+15 W
+Outputs
+No outputs
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+2.1
+Vulkan
+1.1.80
+ShaderModel
+5.1

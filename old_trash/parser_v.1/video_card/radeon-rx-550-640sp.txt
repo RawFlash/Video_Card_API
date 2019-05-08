@@ -1,0 +1,76 @@
+GPUName
+Baffin
+GPUVariant
+Baffin LE
+Architecture
+GCN 4.0
+Foundry
+TSMC
+ProcessSize
+14 nm
+Transistors
+3,000 million
+DieSize
+123 mm^2
+ReleaseDate
+Oct 13th, 2017
+Generation
+Polaris(RX 500)
+Production
+Active
+BusInterface
+PCIe 3.0 x8
+GPUClock
+1019 MHz
+BoostClock
+1071 MHz
+MemoryClock
+1500 MHz6000 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+96.00 GB/s
+ShadingUnits
+640
+TMUs
+40
+ROPs
+16
+ComputeUnits
+10
+PixelRate
+17.14 GPixel/s
+TextureRate
+42.84 GTexel/s
+FP16(half)performance
+1,371 GFLOPS (1:1)
+FP32(float)performance
+1,371 GFLOPS
+FP64(double)performance
+85.68 GFLOPS (1:16)
+SlotWidth
+Dual-slot
+Length
+5.7 inches145 mm
+TDP
+60 W
+Outputs
+1x DVI1x HDMI1x DisplayPort
+PowerConnectors
+None
+BoardNumber
+D090-21
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

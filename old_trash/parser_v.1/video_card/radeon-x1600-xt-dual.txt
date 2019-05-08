@@ -1,0 +1,64 @@
+GPUName
+RV530
+Architecture
+R500
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+157 million
+DieSize
+150 mm^2
+ReleaseDate
+Never Released
+Generation
+Radeon R500(X1600)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+590 MHz
+MemoryClock
+690 MHz1380 MHz effective
+MemorySize
+256 MB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+22.08 GB/s
+PixelShaders
+12
+VertexShaders
+5
+TMUs
+4
+ROPs
+4
+PixelRate
+2.360 GPixel/s
+VertexRate
+737.5 MVertices/s
+TextureRate
+2.360 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+2x DVI
+PowerConnectors
+1x Molex
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

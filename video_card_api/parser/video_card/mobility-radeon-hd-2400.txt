@@ -1,0 +1,62 @@
+GPUName
+M72
+GPUVariant
+M72-S
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+65 nm
+Transistors
+180 million
+DieSize
+85 mm^2
+ReleaseDate
+May 14th, 2007
+Generation
+M7x(Mobility HD 2000)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+450 MHz
+MemoryClock
+400 MHz800 MHz effective
+MemorySize
+256 MB
+MemoryType
+DDR2
+MemoryBus
+64 bit
+Bandwidth
+6.400 GB/s
+ShadingUnits
+40
+TMUs
+4
+ROPs
+4
+ComputeUnits
+2
+PixelRate
+1.800 GPixel/s
+TextureRate
+1.800 GTexel/s
+FP32(float)performance
+36.00 GFLOPS
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.0

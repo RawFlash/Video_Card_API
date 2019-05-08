@@ -1,0 +1,70 @@
+GPUName
+Picasso
+Architecture
+GCN 5.0
+Foundry
+GlobalFoundries
+ProcessSize
+14 nm
+Transistors
+4,940 million
+DieSize
+210 mm^2
+ReleaseDate
+2019
+Generation
+Picasso(Vega)
+Production
+Unreleased
+BusInterface
+IGP
+GPUClock
+300 MHz
+BoostClock
+1301 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+640
+TMUs
+40
+ROPs
+8
+ComputeUnits
+10
+PixelRate
+10.41 GPixel/s
+TextureRate
+52.04 GTexel/s
+FP16(half)performance
+3,331 GFLOPS (2:1)
+FP32(float)performance
+1,665 GFLOPS
+FP64(double)performance
+104.1 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+10 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.2

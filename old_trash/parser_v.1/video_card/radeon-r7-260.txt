@@ -1,0 +1,74 @@
+GPUName
+Bonaire
+GPUVariant
+Bonaire PRO
+Architecture
+GCN 2.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+2,080 million
+DieSize
+160 mm^2
+ReleaseDate
+Dec 17th, 2013
+Generation
+Volcanic Islands(R7 200)
+Production
+End-of-life
+LaunchPrice
+109 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1000 MHz
+MemoryClock
+1500 MHz6000 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+96.00 GB/s
+ShadingUnits
+768
+TMUs
+48
+ROPs
+16
+ComputeUnits
+12
+PixelRate
+16.00 GPixel/s
+TextureRate
+48.00 GTexel/s
+FP32(float)performance
+1,536 GFLOPS
+FP64(double)performance
+109.7 GFLOPS (1:14)
+SlotWidth
+Dual-slot
+Length
+6.7 inches170 mm
+TDP
+95 W
+Outputs
+1x DVI1x HDMI1x DisplayPort
+PowerConnectors
+1x 6-pin
+BoardNumber
+C582
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

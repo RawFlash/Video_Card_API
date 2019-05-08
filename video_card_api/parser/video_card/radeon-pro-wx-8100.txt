@@ -1,0 +1,76 @@
+GPUName
+Vega 10
+GPUVariant
+Vega 10 XL(215-0894216)
+Architecture
+GCN 5.0
+Foundry
+GlobalFoundries
+ProcessSize
+14 nm
+Transistors
+12,500 million
+DieSize
+495 mm^2
+ReleaseDate
+Dec 3rd, 2017
+Generation
+Radeon Pro(WX x100)
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1200 MHz
+BoostClock
+1500 MHz
+MemoryClock
+945 MHz1890 MHz effective
+MemorySize
+8 GB
+MemoryType
+HBM2
+MemoryBus
+2048 bit
+Bandwidth
+483.8 GB/s
+ShadingUnits
+3584
+TMUs
+224
+ROPs
+64
+ComputeUnits
+56
+PixelRate
+96.00 GPixel/s
+TextureRate
+336.0 GTexel/s
+FP16(half)performance
+21,504 GFLOPS (2:1)
+FP32(float)performance
+10,752 GFLOPS
+FP64(double)performance
+672.0 GFLOPS (1:16)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+230 W
+Outputs
+6x mini-DisplayPort
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+D051
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.2

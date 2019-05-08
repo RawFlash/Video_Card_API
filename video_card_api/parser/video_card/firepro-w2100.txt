@@ -1,0 +1,70 @@
+GPUName
+Oland
+Architecture
+GCN 1.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+1,040 million
+DieSize
+90 mm^2
+ReleaseDate
+Aug 12th, 2014
+Generation
+FirePro(Wx100)
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x8
+GPUClock
+630 MHz
+BoostClock
+680 MHz
+MemoryClock
+900 MHz1800 MHz effective
+MemorySize
+2 GB
+MemoryType
+DDR3
+MemoryBus
+128 bit
+Bandwidth
+28.80 GB/s
+ShadingUnits
+320
+TMUs
+20
+ROPs
+8
+ComputeUnits
+5
+PixelRate
+5.440 GPixel/s
+TextureRate
+13.60 GTexel/s
+FP32(float)performance
+435.2 GFLOPS
+FP64(double)performance
+27.20 GFLOPS (1:16)
+SlotWidth
+Single-slot
+TDP
+26 W
+Outputs
+2x DisplayPort
+PowerConnectors
+None
+BoardNumber
+C579
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.86
+ShaderModel
+5.1

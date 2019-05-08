@@ -1,0 +1,60 @@
+GPUName
+M86
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+378 million
+DieSize
+135 mm^2
+ReleaseDate
+Jan 7th, 2008
+Generation
+M8x(Mobility HD 3600)
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+680 MHz
+MemoryClock
+800 MHz1600 MHz effective
+MemorySize
+256 MB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+25.60 GB/s
+ShadingUnits
+120
+TMUs
+8
+ROPs
+4
+ComputeUnits
+3
+PixelRate
+2.720 GPixel/s
+TextureRate
+5.440 GTexel/s
+FP32(float)performance
+163.2 GFLOPS
+TDP
+30 W
+Outputs
+No outputs
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.1

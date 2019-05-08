@@ -1,0 +1,88 @@
+GPUName
+GT200B
+GPUVariant
+G200-105-B3
+Architecture
+Tesla 2.0
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+1,400 million
+DieSize
+470 mm^2
+GPUName
+G92B
+GPUVariant
+G92-421-B1
+Architecture
+Tesla
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+754 million
+DieSize
+260 mm^2
+ReleaseDate
+Feb 16th, 2010
+Generation
+GeForce 200
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+633 MHz
+ShaderClock
+1296 MHz
+MemoryClock
+1134 MHz2268 MHz effective
+MemorySize
+896 MB
+MemoryType
+GDDR3
+MemoryBus
+448 bit
+Bandwidth
+127.0 GB/s
+ShadingUnits
+240
+TMUs
+80
+ROPs
+28
+SMCount
+10
+PixelRate
+17.72 GPixel/s
+TextureRate
+50.64 GTexel/s
+FP32(float)performance
+622.1 GFLOPS
+FP64(double)performance
+77.76 GFLOPS (1:8)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+219 W
+Outputs
+2x DVI
+PowerConnectors
+1x 6-pin + 1x 8-pin
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+1.3
+ShaderModel
+4.0

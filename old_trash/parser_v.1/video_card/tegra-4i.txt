@@ -1,0 +1,66 @@
+GPUName
+Tegra 4
+GPUVariant
+Tegra 4i
+Architecture
+GeForce ULP
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+11 million
+DieSize
+85 mm^2
+ReleaseDate
+Feb 19th, 2013
+Generation
+Tegra
+Production
+End-of-life
+BusInterface
+IGP
+GPUClock
+660 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+PixelShaders
+48
+VertexShaders
+12
+TMUs
+2
+ROPs
+2
+PixelRate
+1.320 GPixel/s
+VertexRate
+1.980 GVertices/s
+TextureRate
+1.320 GTexel/s
+SlotWidth
+IGP
+TDP
+20 W
+Outputs
+No outputs
+DirectX
+N/A 
+OpenGL
+ES 3.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+N/A
+VertexShader
+N/A

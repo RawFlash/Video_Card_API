@@ -1,0 +1,74 @@
+GPUName
+R680
+GPUVariant
+R680 XT(215-0708017)
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+666 million
+DieSize
+192 mm^2
+ReleaseDate
+Jan 26th, 2008
+Generation
+Radeon R600(HD 3800)
+Production
+End-of-life
+LaunchPrice
+449 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+825 MHz
+MemoryClock
+901 MHz1802 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+57.66 GB/s
+ShadingUnits
+320
+TMUs
+16
+ROPs
+16
+ComputeUnits
+4
+PixelRate
+13.20 GPixel/s
+TextureRate
+13.20 GTexel/s
+FP32(float)performance
+528.0 GFLOPS
+FP64(double)performance
+105.6 GFLOPS (1:5)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+165 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+B400
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.1

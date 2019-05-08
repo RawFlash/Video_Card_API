@@ -1,0 +1,74 @@
+GPUName
+Vega 20
+GPUVariant
+Vega 20 GL
+Architecture
+GCN 5.1
+Foundry
+TSMC
+ProcessSize
+7 nm
+Transistors
+13,230 million
+DieSize
+331 mm^2
+ReleaseDate
+Nov 18th, 2018
+Generation
+Radeon Instinct(MIx)
+Production
+Active
+BusInterface
+PCIe 4.0 x16
+GPUClock
+1200 MHz
+BoostClock
+1746 MHz
+MemoryClock
+1000 MHz2000 MHz effective
+MemorySize
+16 GB
+MemoryType
+HBM2
+MemoryBus
+4096 bit
+Bandwidth
+1,024 GB/s
+ShadingUnits
+3840
+TMUs
+240
+ROPs
+64
+ComputeUnits
+60
+PixelRate
+111.7 GPixel/s
+TextureRate
+419.0 GTexel/s
+FP16(half)performance
+26,819 GFLOPS (2:1)
+FP32(float)performance
+13,409 GFLOPS
+FP64(double)performance
+6,705 GFLOPS (1:2)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+300 W
+Outputs
+No outputs
+PowerConnectors
+1x 6-pin + 1x 8-pin
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.2

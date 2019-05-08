@@ -1,0 +1,74 @@
+GPUName
+Fiji
+GPUVariant
+Fiji PRO CB(215-0862046)
+Architecture
+GCN 3.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+8,900 million
+DieSize
+596 mm^2
+ReleaseDate
+Jul 10th, 2015
+Generation
+Pirate Islands(R9 300)
+Production
+Active
+LaunchPrice
+549 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1000 MHz
+MemoryClock
+500 MHz1000 MHz effective
+MemorySize
+4 GB
+MemoryType
+HBM
+MemoryBus
+4096 bit
+Bandwidth
+512.0 GB/s
+ShadingUnits
+3584
+TMUs
+224
+ROPs
+64
+ComputeUnits
+56
+PixelRate
+64.00 GPixel/s
+TextureRate
+224.0 GTexel/s
+FP16(half)performance
+7,168 GFLOPS (1:1)
+FP32(float)performance
+7,168 GFLOPS
+FP64(double)performance
+448.0 GFLOPS (1:16)
+SlotWidth
+Dual-slot
+TDP
+275 W
+Outputs
+1x HDMI3x DisplayPort
+PowerConnectors
+2x 8-pin
+BoardNumber
+C88003
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

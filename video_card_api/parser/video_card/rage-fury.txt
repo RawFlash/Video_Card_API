@@ -1,0 +1,66 @@
+GPUName
+Rage 4
+GPUVariant
+215R4GAUC21
+Architecture
+Rage 4
+Foundry
+TSMC
+ProcessSize
+250 nm
+Transistors
+8 million
+DieSize
+89 mm^2
+ReleaseDate
+Aug 1st, 1999
+Generation
+Rage 4
+Production
+End-of-life
+BusInterface
+AGP 4x
+GPUClock
+80 MHz
+MemoryClock
+120 MHz120 MHz effective
+MemorySize
+32 MB
+MemoryType
+SDR
+MemoryBus
+64 bit
+Bandwidth
+960.0 MB/s
+PixelShaders
+2
+VertexShaders
+0
+TMUs
+2
+ROPs
+2
+PixelRate
+160.0 MPixel/s
+TextureRate
+160.0 MTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x VGA1x S-Video
+PowerConnectors
+None
+DirectX
+6.0 
+OpenGL
+1.2
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+N/A
+VertexShader
+N/A

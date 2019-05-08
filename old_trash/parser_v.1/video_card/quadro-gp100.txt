@@ -1,0 +1,74 @@
+GPUName
+GP100
+Architecture
+Pascal
+Foundry
+TSMC
+ProcessSize
+16 nm
+Transistors
+15,300 million
+DieSize
+610 mm^2
+ReleaseDate
+Oct 1st, 2016
+Generation
+Quadro(Px000)
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1304 MHz
+BoostClock
+1442 MHz
+MemoryClock
+715 MHz1430 MHz effective
+MemorySize
+16 GB
+MemoryType
+HBM2
+MemoryBus
+4096 bit
+Bandwidth
+732.2 GB/s
+ShadingUnits
+3584
+TMUs
+224
+ROPs
+96
+SMCount
+56
+PixelRate
+138.4 GPixel/s
+TextureRate
+323.0 GTexel/s
+FP16(half)performance
+20,673 GFLOPS (2:1)
+FP32(float)performance
+10,336 GFLOPS
+FP64(double)performance
+5,168 GFLOPS (1:2)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+235 W
+Outputs
+1x DVI4x DisplayPort
+PowerConnectors
+1x 8-pin
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.0
+ShaderModel
+6.2

@@ -1,0 +1,78 @@
+GPUName
+GM204
+GPUVariant
+GM204-400-A1
+Architecture
+Maxwell 2.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+5,200 million
+DieSize
+398 mm^2
+ReleaseDate
+Sep 19th, 2014
+Generation
+GeForce 900
+Production
+End-of-life
+LaunchPrice
+549 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1127 MHz
+BoostClock
+1216 MHz
+MemoryClock
+1753 MHz7012 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+224.4 GB/s
+ShadingUnits
+2048
+TMUs
+128
+ROPs
+64
+SMMCount
+16
+PixelRate
+77.82 GPixel/s
+TextureRate
+155.6 GTexel/s
+FP32(float)performance
+4,981 GFLOPS
+FP64(double)performance
+155.6 GFLOPS (1:32)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+165 W
+Outputs
+1x DVI1x HDMI3x DisplayPort
+PowerConnectors
+2x 6-pin
+BoardNumber
+PG401
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+5.2
+ShaderModel
+6.2

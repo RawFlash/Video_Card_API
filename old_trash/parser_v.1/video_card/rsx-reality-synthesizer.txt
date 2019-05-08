@@ -1,0 +1,64 @@
+GPUName
+RSX-CXD2991
+Architecture
+Curie
+Foundry
+Sony
+ProcessSize
+65 nm
+Transistors
+300 million
+DieSize
+186 mm^2
+ReleaseDate
+Nov 11th, 2006
+Generation
+Console GPU(Sony)
+Production
+End-of-life
+BusInterface
+IGP
+GPUClock
+550 MHz
+MemoryClock
+700 MHz1400 MHz effective
+MemorySize
+256 MB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+22.40 GB/s
+PixelShaders
+24
+VertexShaders
+8
+TMUs
+24
+ROPs
+8
+PixelRate
+4.400 GPixel/s
+VertexRate
+1.100 GVertices/s
+TextureRate
+13.20 GTexel/s
+SlotWidth
+IGP
+TDP
+81 W
+Outputs
+No outputs
+DirectX
+N/A 
+OpenGL
+ES 1.1
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+3.0
+VertexShader
+3.0

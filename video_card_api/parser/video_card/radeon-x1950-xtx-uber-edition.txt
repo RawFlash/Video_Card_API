@@ -1,0 +1,72 @@
+GPUName
+R580+
+GPUVariant
+R580+ XT(215BAABKA31FG)
+Architecture
+R500
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+384 million
+DieSize
+352 mm^2
+ReleaseDate
+Jan 19th, 2007
+Generation
+Radeon R500(X1950)
+Production
+End-of-life
+LaunchPrice
+788 USD
+BusInterface
+PCIe 1.0 x16
+GPUClock
+670 MHz
+MemoryClock
+1050 MHz2100 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR4
+MemoryBus
+256 bit
+Bandwidth
+67.20 GB/s
+PixelShaders
+48
+VertexShaders
+8
+TMUs
+16
+ROPs
+16
+PixelRate
+10.72 GPixel/s
+VertexRate
+1.340 GVertices/s
+TextureRate
+10.72 GTexel/s
+SlotWidth
+Dual-slot
+Length
+9.055 inches230 mm
+TDP
+125 W
+Outputs
+1x DVI1x VHDCI
+PowerConnectors
+1x 6-pin
+BoardNumber
+A915
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

@@ -1,0 +1,74 @@
+GPUName
+GF104
+GPUVariant
+N11E-GT
+Architecture
+Fermi
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+1,950 million
+DieSize
+332 mm^2
+ReleaseDate
+Sep 3rd, 2010
+Generation
+GeForce 400M
+Production
+End-of-life
+BusInterface
+MXM-B (3.0)
+GPUClock
+535 MHz
+ShaderClock
+1070 MHz
+MemoryClock
+750 MHz3000 MHz effective
+MemorySize
+1536 MB
+MemoryType
+GDDR5
+MemoryBus
+192 bit
+Bandwidth
+72.00 GB/s
+ShadingUnits
+288
+TMUs
+48
+ROPs
+24
+SMCount
+6
+PixelRate
+6.420 GPixel/s
+TextureRate
+25.68 GTexel/s
+FP32(float)performance
+616.3 GFLOPS
+FP64(double)performance
+51.36 GFLOPS (1:12)
+SlotWidth
+MXM Module
+TDP
+75 W
+Outputs
+No outputs
+PowerConnectors
+None
+BoardNumber
+P1044
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+2.1
+ShaderModel
+5.1

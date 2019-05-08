@@ -1,0 +1,68 @@
+GPUName
+G84
+GPUVariant
+NB9P-GE
+Architecture
+Tesla
+Foundry
+TSMC
+ProcessSize
+80 nm
+Transistors
+289 million
+DieSize
+169 mm^2
+ReleaseDate
+Dec 31st, 2007
+Generation
+GeForce 8M(8000M)
+Production
+End-of-life
+BusInterface
+MXM-II
+GPUClock
+475 MHz
+ShaderClock
+950 MHz
+MemoryClock
+400 MHz800 MHz effective
+MemorySize
+512 MB
+MemoryType
+DDR2
+MemoryBus
+128 bit
+Bandwidth
+12.80 GB/s
+ShadingUnits
+32
+TMUs
+16
+ROPs
+16
+SMCount
+2
+PixelRate
+7.600 GPixel/s
+TextureRate
+7.600 GTexel/s
+FP32(float)performance
+60.80 GFLOPS
+SlotWidth
+MXM Module
+TDP
+20 W
+Outputs
+No outputs
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+1.1
+ShaderModel
+4.0

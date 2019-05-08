@@ -1,0 +1,68 @@
+GPUName
+G73
+GPUVariant
+G73-VZ-N-B1
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+177 million
+DieSize
+125 mm^2
+ReleaseDate
+Jul 1st, 2006
+Generation
+GeForce 7 AGP(7600)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+400 MHz
+MemoryClock
+400 MHz800 MHz effective
+MemorySize
+256 MB
+MemoryType
+DDR2
+MemoryBus
+128 bit
+Bandwidth
+12.80 GB/s
+PixelShaders
+12
+VertexShaders
+5
+TMUs
+12
+ROPs
+8
+PixelRate
+3.200 GPixel/s
+VertexRate
+500.0 MVertices/s
+TextureRate
+4.800 GTexel/s
+SlotWidth
+Single-slot
+TDP
+27 W
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+1x Molex
+BoardNumber
+P508
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

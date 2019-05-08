@@ -1,0 +1,74 @@
+GPUName
+Cypress
+GPUVariant
+Cypress XT GL
+Architecture
+TeraScale 2
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+2,154 million
+DieSize
+334 mm^2
+ReleaseDate
+Sep 9th, 2010
+Generation
+FirePro(Vx800)
+Production
+End-of-life
+LaunchPrice
+3,499 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+850 MHz
+MemoryClock
+1150 MHz4600 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+147.2 GB/s
+ShadingUnits
+1600
+TMUs
+80
+ROPs
+32
+ComputeUnits
+20
+PixelRate
+27.20 GPixel/s
+TextureRate
+68.00 GTexel/s
+FP32(float)performance
+2,720 GFLOPS
+FP64(double)performance
+544.0 GFLOPS (1:5)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+250 W
+Outputs
+6x mini-DisplayPort1x S-Video
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+C100-01
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

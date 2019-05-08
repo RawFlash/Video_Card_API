@@ -1,0 +1,72 @@
+GPUName
+Bonaire
+GPUVariant
+Bonaire PRO GL
+Architecture
+GCN 2.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+2,080 million
+DieSize
+160 mm^2
+ReleaseDate
+Dec 1st, 2015
+Generation
+FirePro(Wx300)
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+930 MHz
+MemoryClock
+1500 MHz6000 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+96.00 GB/s
+ShadingUnits
+768
+TMUs
+48
+ROPs
+16
+ComputeUnits
+12
+PixelRate
+14.88 GPixel/s
+TextureRate
+44.64 GTexel/s
+FP32(float)performance
+1,428 GFLOPS
+FP64(double)performance
+102.0 GFLOPS (1:14)
+SlotWidth
+Single-slot
+Length
+6.75 inches171 mm
+TDP
+50 W
+Outputs
+4x mini-DisplayPort
+PowerConnectors
+None
+BoardNumber
+C935
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

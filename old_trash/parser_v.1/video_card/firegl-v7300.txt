@@ -1,0 +1,70 @@
+GPUName
+R520
+GPUVariant
+R520 GL
+Architecture
+R500
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+321 million
+DieSize
+288 mm^2
+ReleaseDate
+Oct 1st, 2005
+Generation
+FireGL(Vx300)
+Production
+End-of-life
+LaunchPrice
+1,599 USD
+BusInterface
+PCIe 1.0 x16
+GPUClock
+594 MHz
+MemoryClock
+648 MHz1296 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+256 bit
+Bandwidth
+41.47 GB/s
+PixelShaders
+16
+VertexShaders
+8
+TMUs
+16
+ROPs
+16
+PixelRate
+9.504 GPixel/s
+VertexRate
+1.188 GVertices/s
+TextureRate
+9.504 GTexel/s
+SlotWidth
+Dual-slot
+Length
+9 inches229 mm
+TDP
+97 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+1x 6-pin
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

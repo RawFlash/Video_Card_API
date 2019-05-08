@@ -1,0 +1,72 @@
+GPUName
+R600
+GPUVariant
+R600 XT(215RGMDKA13FG)
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+80 nm
+Transistors
+720 million
+DieSize
+420 mm^2
+ReleaseDate
+May 14th, 2007
+Generation
+Radeon R600(HD 2900)
+Production
+End-of-life
+LaunchPrice
+399 USD
+BusInterface
+PCIe 1.0 x16
+GPUClock
+743 MHz
+MemoryClock
+828 MHz1656 MHz effective
+MemorySize
+512 MB
+MemoryType
+GDDR3
+MemoryBus
+512 bit
+Bandwidth
+106.0 GB/s
+ShadingUnits
+320
+TMUs
+16
+ROPs
+16
+ComputeUnits
+4
+PixelRate
+11.89 GPixel/s
+TextureRate
+11.89 GTexel/s
+FP32(float)performance
+475.5 GFLOPS
+SlotWidth
+Dual-slot
+Length
+9.5 inches241 mm
+TDP
+215 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+B006-01
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.0

@@ -1,0 +1,72 @@
+GPUName
+Lexa
+GPUVariant
+E9170
+Architecture
+GCN 4.0
+Foundry
+TSMC
+ProcessSize
+14 nm
+Transistors
+2,200 million
+DieSize
+103 mm^2
+ReleaseDate
+Oct 3rd, 2017
+Generation
+Embedded(9000)
+Production
+Active
+BusInterface
+PCIe 3.0 x8
+GPUClock
+1124 MHz
+BoostClock
+1219 MHz
+MemoryClock
+1500 MHz6000 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+96.00 GB/s
+ShadingUnits
+512
+TMUs
+32
+ROPs
+16
+ComputeUnits
+8
+PixelRate
+19.50 GPixel/s
+TextureRate
+39.01 GTexel/s
+FP16(half)performance
+1,248 GFLOPS (1:1)
+FP32(float)performance
+1,248 GFLOPS
+FP64(double)performance
+78.02 GFLOPS (1:16)
+SlotWidth
+Single-slot
+TDP
+50 W
+Outputs
+5x mini-DisplayPort
+PowerConnectors
+None
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

@@ -1,0 +1,60 @@
+GPUName
+M71
+Architecture
+R500
+Foundry
+TSMC
+ProcessSize
+80 nm
+Transistors
+107 million
+DieSize
+100 mm^2
+ReleaseDate
+Mar 1st, 2007
+Generation
+M7x(Mobility HD 2000)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+480 MHz
+MemoryClock
+400 MHz800 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR2
+MemoryBus
+128 bit
+Bandwidth
+12.80 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+1.920 GPixel/s
+VertexRate
+240.0 MVertices/s
+TextureRate
+1.920 GTexel/s
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

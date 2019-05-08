@@ -1,0 +1,70 @@
+GPUName
+NV15 A5
+GPUVariant
+PRO
+Architecture
+Celsius
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+25 million
+DieSize
+81 mm^2
+ReleaseDate
+Dec 5th, 2000
+Generation
+GeForce 2
+Production
+End-of-life
+LaunchPrice
+329 USD
+BusInterface
+AGP 4x
+GPUClock
+200 MHz
+MemoryClock
+200 MHz400 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+6.400 GB/s
+PixelShaders
+4
+VertexShaders
+0
+TMUs
+8
+ROPs
+4
+PixelRate
+800.0 MPixel/s
+TextureRate
+1.600 GTexel/s
+SlotWidth
+Single-slot
+Length
+7.2 inches183 mm
+TDP
+unknown
+Outputs
+1x VGA
+PowerConnectors
+None
+DirectX
+7.0 
+OpenGL
+1.2
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+N/A
+VertexShader
+N/A

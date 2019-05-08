@@ -1,0 +1,76 @@
+GPUName
+Vega 20
+GPUVariant
+Vega 20 XT
+Architecture
+GCN 5.1
+Foundry
+TSMC
+ProcessSize
+7 nm
+Transistors
+13,230 million
+DieSize
+331 mm^2
+ReleaseDate
+Feb 7th, 2019
+Generation
+Vega II(Radeon VII)
+Production
+Unreleased
+LaunchPrice
+699 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1450 MHz
+BoostClock
+1800 MHz
+MemoryClock
+1000 MHz2000 MHz effective
+MemorySize
+16 GB
+MemoryType
+HBM2
+MemoryBus
+4096 bit
+Bandwidth
+1,024 GB/s
+ShadingUnits
+3840
+TMUs
+240
+ROPs
+64
+ComputeUnits
+60
+PixelRate
+115.2 GPixel/s
+TextureRate
+432.0 GTexel/s
+FP16(half)performance
+27,648 GFLOPS (2:1)
+FP32(float)performance
+13,824 GFLOPS
+FP64(double)performance
+1,728 GFLOPS (1:8)
+SlotWidth
+Dual-slot
+Length
+12 inches305 mm
+TDP
+295 W
+Outputs
+1x HDMI3x DisplayPort
+PowerConnectors
+2x 8-pin
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.2

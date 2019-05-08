@@ -1,0 +1,64 @@
+GPUName
+Bearlake
+GPUVariant
+Bearlake (G35)
+Architecture
+Generation 4.0
+Foundry
+Intel
+ProcessSize
+90 nm
+Transistors
+unknown
+DieSize
+unknown
+ReleaseDate
+Aug 1st, 2007
+Generation
+GMA 3500(Mobile IGP)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+667 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+PixelShaders
+8
+VertexShaders
+1
+TMUs
+8
+ROPs
+1
+PixelRate
+667.0 MPixel/s
+VertexRate
+166.8 MVertices/s
+TextureRate
+5.336 GTexel/s
+SlotWidth
+IGP
+TDP
+13 W
+Outputs
+No outputs
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

@@ -1,0 +1,76 @@
+GPUName
+GM200
+GPUVariant
+GM200-895-A1
+Architecture
+Maxwell 2.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+8,000 million
+DieSize
+601 mm^2
+ReleaseDate
+Nov 10th, 2015
+Generation
+Tesla(Mxx)
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+948 MHz
+BoostClock
+1114 MHz
+MemoryClock
+1502 MHz6008 MHz effective
+MemorySize
+12 GB
+MemoryType
+GDDR5
+MemoryBus
+384 bit
+Bandwidth
+288.4 GB/s
+ShadingUnits
+3072
+TMUs
+192
+ROPs
+96
+SMMCount
+24
+PixelRate
+106.9 GPixel/s
+TextureRate
+213.9 GTexel/s
+FP32(float)performance
+6,844 GFLOPS
+FP64(double)performance
+213.9 GFLOPS (1:32)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+250 W
+Outputs
+No outputs
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+PG600 SKU 202
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+5.2
+ShaderModel
+6.2

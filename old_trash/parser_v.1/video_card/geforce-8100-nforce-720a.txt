@@ -1,0 +1,64 @@
+GPUName
+C78
+GPUVariant
+GF-8100-720a-A2
+Architecture
+Tesla
+ProcessSize
+80 nm
+Transistors
+210 million
+DieSize
+127 mm^2
+ReleaseDate
+Apr 17th, 2007
+Generation
+GeForce 8 IGP
+Production
+End-of-life
+BusInterface
+PCI
+GPUClock
+500 MHz
+ShaderClock
+1200 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+16
+TMUs
+8
+ROPs
+4
+SMCount
+2
+PixelRate
+2.000 GPixel/s
+TextureRate
+4.000 GTexel/s
+FP32(float)performance
+38.40 GFLOPS
+SlotWidth
+IGP
+TDP
+40 W
+Outputs
+1x DVI1x VGA1x S-Video
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.0

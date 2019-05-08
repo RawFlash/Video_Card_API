@@ -1,0 +1,66 @@
+GPUName
+NV44 B2
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+110 nm
+Transistors
+75 million
+DieSize
+110 mm^2
+ReleaseDate
+Aug 8th, 2006
+Generation
+GeForce 7 PCIe(7100)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+350 MHz
+MemoryClock
+350 MHz700 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR2
+MemoryBus
+64 bit
+Bandwidth
+5.600 GB/s
+PixelShaders
+4
+VertexShaders
+3
+TMUs
+4
+ROPs
+2
+PixelRate
+700.0 MPixel/s
+VertexRate
+262.5 MVertices/s
+TextureRate
+1.400 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+BoardNumber
+P262, P280
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

@@ -1,0 +1,72 @@
+GPUName
+GM108
+GPUVariant
+N16S-GTR-A1
+Architecture
+Maxwell
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+unknown
+DieSize
+unknown
+ReleaseDate
+Nov 17th, 2017
+Generation
+GeForce MX
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1122 MHz
+BoostClock
+1242 MHz
+MemoryClock
+1253 MHz5012 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+64 bit
+Bandwidth
+40.10 GB/s
+ShadingUnits
+384
+TMUs
+24
+ROPs
+8
+SMMCount
+3
+PixelRate
+9.936 GPixel/s
+TextureRate
+29.81 GTexel/s
+FP32(float)performance
+953.9 GFLOPS
+FP64(double)performance
+29.81 GFLOPS (1:32)
+SlotWidth
+IGP
+TDP
+30 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.92
+CUDA
+5.0
+ShaderModel
+5.1

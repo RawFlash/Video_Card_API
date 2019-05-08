@@ -1,0 +1,64 @@
+GPUName
+XG42
+Architecture
+XG4
+Foundry
+UMC
+ProcessSize
+130 nm
+Transistors
+25 million
+DieSize
+unknown
+ReleaseDate
+Sep 15th, 2003
+Generation
+XG40(Volari)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+200 MHz
+MemoryClock
+200 MHz400 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+6.400 GB/s
+PixelShaders
+2
+VertexShaders
+1
+TMUs
+4
+ROPs
+2
+PixelRate
+400.0 MPixel/s
+VertexRate
+50.00 MVertices/s
+TextureRate
+800.0 MTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+DirectX
+8.1 
+OpenGL
+1.3
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+1.3
+VertexShader
+1.1

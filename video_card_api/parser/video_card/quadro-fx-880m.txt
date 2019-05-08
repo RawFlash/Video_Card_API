@@ -1,0 +1,68 @@
+GPUName
+GT216
+GPUVariant
+N10P-GLM
+Architecture
+Tesla 2.0
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+486 million
+DieSize
+100 mm^2
+ReleaseDate
+Jan 7th, 2010
+Generation
+Quadro FX(x800M)
+Production
+End-of-life
+BusInterface
+MXM-A (3.0)
+GPUClock
+550 MHz
+ShaderClock
+1210 MHz
+MemoryClock
+790 MHz1580 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+25.28 GB/s
+ShadingUnits
+48
+TMUs
+16
+ROPs
+8
+SMCount
+2
+PixelRate
+4.400 GPixel/s
+TextureRate
+8.800 GTexel/s
+FP32(float)performance
+116.2 GFLOPS
+SlotWidth
+MXM Module
+TDP
+35 W
+Outputs
+No outputs
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+1.2
+ShaderModel
+4.1

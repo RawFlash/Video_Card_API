@@ -1,0 +1,66 @@
+GPUName
+R300
+Architecture
+Rage 8
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+110 million
+DieSize
+218 mm^2
+ReleaseDate
+Jul 1st, 2002
+Generation
+All-In-Wonder(9000)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+277 MHz
+MemoryClock
+270 MHz540 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+8.640 GB/s
+PixelShaders
+4
+VertexShaders
+4
+TMUs
+4
+ROPs
+4
+PixelRate
+1.108 GPixel/s
+VertexRate
+277.0 MVertices/s
+TextureRate
+1.108 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+9.0 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0
+VertexShader
+2.0

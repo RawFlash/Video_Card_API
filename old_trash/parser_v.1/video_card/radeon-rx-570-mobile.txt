@@ -1,0 +1,72 @@
+GPUName
+Ellesmere
+GPUVariant
+Ellesmere PRO
+Architecture
+GCN 4.0
+Foundry
+TSMC
+ProcessSize
+14 nm
+Transistors
+5,700 million
+DieSize
+232 mm^2
+ReleaseDate
+Dec 10th, 2017
+Generation
+Mobility Radeon(RX M500)
+Production
+Active
+BusInterface
+MXM-B (3.0)
+GPUClock
+926 MHz
+BoostClock
+1206 MHz
+MemoryClock
+1650 MHz6600 MHz effective
+MemorySize
+8 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+211.2 GB/s
+ShadingUnits
+2048
+TMUs
+128
+ROPs
+32
+ComputeUnits
+32
+PixelRate
+38.59 GPixel/s
+TextureRate
+154.4 GTexel/s
+FP16(half)performance
+4,940 GFLOPS (1:1)
+FP32(float)performance
+4,940 GFLOPS
+FP64(double)performance
+308.7 GFLOPS (1:16)
+SlotWidth
+MXM Module
+TDP
+85 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

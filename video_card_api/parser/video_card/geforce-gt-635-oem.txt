@@ -1,0 +1,74 @@
+GPUName
+GK208
+GPUVariant
+GK208-301-A1
+Architecture
+Kepler 2.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+unknown
+DieSize
+87 mm^2
+ReleaseDate
+Oct 1st, 2013
+Generation
+GeForce 600
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x8
+GPUClock
+967 MHz
+MemoryClock
+900 MHz1800 MHz effective
+MemorySize
+1024 MB
+MemoryType
+DDR3
+MemoryBus
+64 bit
+Bandwidth
+14.40 GB/s
+ShadingUnits
+384
+TMUs
+16
+ROPs
+8
+SMXCount
+2
+PixelRate
+7.736 GPixel/s
+TextureRate
+15.47 GTexel/s
+FP32(float)performance
+742.7 GFLOPS
+FP64(double)performance
+247.6 GFLOPS (1:3)
+SlotWidth
+Single-slot
+Length
+5.7 inches145 mm
+TDP
+35 W
+Outputs
+1x DVI1x HDMI1x VGA
+PowerConnectors
+None
+BoardNumber
+P2130
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+3.5
+ShaderModel
+5.1

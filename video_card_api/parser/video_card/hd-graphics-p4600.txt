@@ -1,0 +1,64 @@
+GPUName
+Haswell GT2
+Architecture
+Generation 7.5
+Foundry
+Intel
+ProcessSize
+22 nm
+Transistors
+392 million
+DieSize
+177 mm^2
+ReleaseDate
+Jun 1st, 2013
+Generation
+HD Graphics(Haswell Workstation)
+Production
+End-of-life
+BusInterface
+IGP
+GPUClock
+350 MHz
+BoostClock
+1250 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+160
+TMUs
+20
+ROPs
+2
+PixelRate
+2.500 GPixel/s
+TextureRate
+25.00 GTexel/s
+FP32(float)performance
+400.0 GFLOPS
+FP64(double)performance
+100.0 GFLOPS (1:4)
+SlotWidth
+IGP
+TDP
+84 W
+Outputs
+No outputs
+DirectX
+12.0 (11_1)
+OpenGL
+4.3
+OpenCL
+1.2
+Vulkan
+1.1.80
+ShaderModel
+5.1

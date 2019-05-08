@@ -1,0 +1,64 @@
+GPUName
+MCP89
+GPUVariant
+MCP89
+Architecture
+Tesla 2.0
+ProcessSize
+40 nm
+Transistors
+486 million
+DieSize
+100 mm^2
+ReleaseDate
+Apr 1st, 2010
+Generation
+GeForce 300M
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+450 MHz
+ShaderClock
+950 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+48
+TMUs
+16
+ROPs
+8
+SMCount
+4
+PixelRate
+3.600 GPixel/s
+TextureRate
+7.200 GTexel/s
+FP32(float)performance
+91.20 GFLOPS
+SlotWidth
+IGP
+TDP
+23 W
+Outputs
+No outputs
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.1

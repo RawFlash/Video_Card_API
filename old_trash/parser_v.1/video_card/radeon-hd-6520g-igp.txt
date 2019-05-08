@@ -1,0 +1,62 @@
+GPUName
+BeaverCreek
+Architecture
+TeraScale 2
+Foundry
+TSMC
+ProcessSize
+32 nm
+Transistors
+1,450 million
+DieSize
+228 mm^2
+ReleaseDate
+Dec 7th, 2011
+Generation
+Llano [Sumo](HD 6000 Mobile)
+Production
+End-of-life
+BusInterface
+IGP
+GPUClock
+400 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+320
+TMUs
+16
+ROPs
+8
+ComputeUnits
+4
+PixelRate
+3.200 GPixel/s
+TextureRate
+6.400 GTexel/s
+FP32(float)performance
+256.0 GFLOPS
+SlotWidth
+IGP
+TDP
+35 W
+Outputs
+No outputs
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

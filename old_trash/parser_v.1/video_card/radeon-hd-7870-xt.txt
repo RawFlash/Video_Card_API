@@ -1,0 +1,76 @@
+GPUName
+Tahiti
+GPUVariant
+Tahiti LE(215-0821122)
+Architecture
+GCN 1.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+4,313 million
+DieSize
+352 mm^2
+ReleaseDate
+Nov 19th, 2012
+Generation
+Southern Islands(HD 7800)
+Production
+End-of-life
+LaunchPrice
+270 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+925 MHz
+BoostClock
+975 MHz
+MemoryClock
+1500 MHz6000 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+192.0 GB/s
+ShadingUnits
+1536
+TMUs
+96
+ROPs
+32
+ComputeUnits
+24
+PixelRate
+31.20 GPixel/s
+TextureRate
+93.60 GTexel/s
+FP32(float)performance
+2,995 GFLOPS
+FP64(double)performance
+748.8 GFLOPS (1:4)
+SlotWidth
+Dual-slot
+Length
+10.5 inches267 mm
+TDP
+185 W
+Outputs
+1x DVI1x HDMI2x mini-DisplayPort
+PowerConnectors
+2x 6-pin
+BoardNumber
+C474
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.86
+ShaderModel
+5.1

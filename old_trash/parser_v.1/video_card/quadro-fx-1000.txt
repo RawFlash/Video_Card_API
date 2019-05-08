@@ -1,0 +1,68 @@
+GPUName
+NV30
+GPUVariant
+NV30GL
+Architecture
+Rankine
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+125 million
+DieSize
+200 mm^2
+ReleaseDate
+Jan 21st, 2003
+Generation
+Quadro FX(x000)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+300 MHz
+MemoryClock
+300 MHz600 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR2
+MemoryBus
+128 bit
+Bandwidth
+9.600 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+8
+ROPs
+8
+PixelRate
+2.400 GPixel/s
+VertexRate
+150.0 MVertices/s
+TextureRate
+2.400 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+1x Molex
+DirectX
+9.0a 
+OpenGL
+1.5 (2.1)
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0a
+VertexShader
+2.0a

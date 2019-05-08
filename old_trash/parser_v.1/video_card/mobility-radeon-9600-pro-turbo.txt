@@ -1,0 +1,62 @@
+GPUName
+M10
+Architecture
+Rage 8
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+76 million
+DieSize
+92 mm^2
+ReleaseDate
+Feb 13th, 2004
+Generation
+M1x(Mobility 9000)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+337 MHz
+MemoryClock
+243 MHz486 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+7.776 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+1.348 GPixel/s
+VertexRate
+168.5 MVertices/s
+TextureRate
+1.348 GTexel/s
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+9.0 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0
+VertexShader
+2.0

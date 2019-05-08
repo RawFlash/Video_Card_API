@@ -1,0 +1,70 @@
+GPUName
+RV250
+GPUVariant
+RV250 9000 PRO(215R7BCGA12H)
+Architecture
+Rage 7
+Foundry
+TSMC
+ProcessSize
+150 nm
+Transistors
+36 million
+DieSize
+81 mm^2
+ReleaseDate
+Jul 1st, 2002
+Generation
+Radeon R200(9000)
+Production
+End-of-life
+BusInterface
+AGP 4x
+GPUClock
+275 MHz
+MemoryClock
+275 MHz550 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+8.800 GB/s
+PixelShaders
+4
+VertexShaders
+1
+TMUs
+4
+ROPs
+4
+PixelRate
+1.100 GPixel/s
+VertexRate
+68.75 MVertices/s
+TextureRate
+1.100 GTexel/s
+SlotWidth
+Single-slot
+TDP
+28 W
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+BoardNumber
+964
+DirectX
+8.1 
+OpenGL
+1.4
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+1.4
+VertexShader
+1.1

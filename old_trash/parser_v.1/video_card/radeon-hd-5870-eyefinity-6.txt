@@ -1,0 +1,74 @@
+GPUName
+Cypress
+GPUVariant
+Cypress XT(215-0735033)
+Architecture
+TeraScale 2
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+2,154 million
+DieSize
+334 mm^2
+ReleaseDate
+Mar 11th, 2010
+Generation
+Evergreen(HD 5800)
+Production
+End-of-life
+LaunchPrice
+479 USD
+BusInterface
+PCIe 2.0 x16
+GPUClock
+850 MHz
+MemoryClock
+1200 MHz4800 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+153.6 GB/s
+ShadingUnits
+1600
+TMUs
+80
+ROPs
+32
+ComputeUnits
+20
+PixelRate
+27.20 GPixel/s
+TextureRate
+68.00 GTexel/s
+FP32(float)performance
+2,720 GFLOPS
+FP64(double)performance
+544.0 GFLOPS (1:5)
+SlotWidth
+Dual-slot
+Length
+11 inches279 mm
+TDP
+228 W
+Outputs
+6x mini-DisplayPort
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+C001
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

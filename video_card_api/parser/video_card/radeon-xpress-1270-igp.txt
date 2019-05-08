@@ -1,0 +1,66 @@
+GPUName
+RS690
+GPUVariant
+RS690M
+Architecture
+R400
+ProcessSize
+80 nm
+Transistors
+120 million
+DieSize
+73 mm^2
+ReleaseDate
+Feb 28th, 2007
+Generation
+Radeon IGP(1200)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+300 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+1.200 GPixel/s
+VertexRate
+150.0 MVertices/s
+TextureRate
+1.200 GTexel/s
+SlotWidth
+IGP
+TDP
+unknown
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+9.0b 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0b
+VertexShader
+2.0b

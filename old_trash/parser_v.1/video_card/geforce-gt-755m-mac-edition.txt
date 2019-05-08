@@ -1,0 +1,68 @@
+GPUName
+GK107
+GPUVariant
+GT 755M
+Architecture
+Kepler
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+1,270 million
+DieSize
+118 mm^2
+ReleaseDate
+Nov 8th, 2013
+Generation
+GeForce 700M
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1085 MHz
+MemoryClock
+1250 MHz5000 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+80.00 GB/s
+ShadingUnits
+384
+TMUs
+32
+ROPs
+16
+SMXCount
+2
+PixelRate
+8.680 GPixel/s
+TextureRate
+34.72 GTexel/s
+FP32(float)performance
+833.3 GFLOPS
+FP64(double)performance
+34.72 GFLOPS (1:24)
+SlotWidth
+MXM Module
+TDP
+50 W
+Outputs
+No outputs
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+3.0
+ShaderModel
+5.1

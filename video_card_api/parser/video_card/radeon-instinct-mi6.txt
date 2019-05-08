@@ -1,0 +1,76 @@
+GPUName
+Ellesmere
+GPUVariant
+Ellesmere XT
+Architecture
+GCN 4.0
+Foundry
+TSMC
+ProcessSize
+14 nm
+Transistors
+5,700 million
+DieSize
+232 mm^2
+ReleaseDate
+Dec 12th, 2016
+Generation
+Radeon Instinct(MIx)
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1120 MHz
+BoostClock
+1233 MHz
+MemoryClock
+1750 MHz7000 MHz effective
+MemorySize
+8 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+224.0 GB/s
+ShadingUnits
+2304
+TMUs
+144
+ROPs
+32
+ComputeUnits
+36
+PixelRate
+39.46 GPixel/s
+TextureRate
+177.6 GTexel/s
+FP16(half)performance
+5,682 GFLOPS (1:1)
+FP32(float)performance
+5,682 GFLOPS
+FP64(double)performance
+355.1 GFLOPS (1:16)
+SlotWidth
+Single-slot
+Length
+9.5 inches241 mm
+TDP
+150 W
+Outputs
+No outputs
+PowerConnectors
+1x 6-pin
+BoardNumber
+D122
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

@@ -1,0 +1,64 @@
+GPUName
+Spectre
+Architecture
+GCN 2.0
+Foundry
+GlobalFoundries
+ProcessSize
+28 nm
+Transistors
+2,410 million
+DieSize
+245 mm^2
+ReleaseDate
+Feb 17th, 2014
+Generation
+Kaveri(Rx 200 Mobile)
+Production
+End-of-life
+BusInterface
+IGP
+GPUClock
+554 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+384
+TMUs
+24
+ROPs
+8
+ComputeUnits
+6
+PixelRate
+4.432 GPixel/s
+TextureRate
+13.30 GTexel/s
+FP32(float)performance
+425.5 GFLOPS
+FP64(double)performance
+26.59 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+90 W
+Outputs
+No outputs
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

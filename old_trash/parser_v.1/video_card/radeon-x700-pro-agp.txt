@@ -1,0 +1,66 @@
+GPUName
+RV410
+Architecture
+R400
+Foundry
+TSMC
+ProcessSize
+110 nm
+Transistors
+120 million
+DieSize
+156 mm^2
+ReleaseDate
+Sep 1st, 2004
+Generation
+Radeon R400(X700)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+425 MHz
+MemoryClock
+472 MHz944 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+15.10 GB/s
+PixelShaders
+8
+VertexShaders
+6
+TMUs
+8
+ROPs
+8
+PixelRate
+3.400 GPixel/s
+VertexRate
+637.5 MVertices/s
+TextureRate
+3.400 GTexel/s
+SlotWidth
+Single-slot
+TDP
+33 W
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+DirectX
+9.0b 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0b
+VertexShader
+2.0b

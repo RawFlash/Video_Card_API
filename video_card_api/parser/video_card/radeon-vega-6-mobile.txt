@@ -1,0 +1,68 @@
+GPUName
+Raven
+Architecture
+GCN 5.0
+Foundry
+GlobalFoundries
+ProcessSize
+14 nm
+Transistors
+4,940 million
+DieSize
+210 mm^2
+ReleaseDate
+Feb 1st, 2018
+Generation
+Raven Ridge(Vega Mobile)
+Production
+Active
+BusInterface
+IGP
+GPUClock
+300 MHz
+BoostClock
+1011 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+384
+TMUs
+24
+ROPs
+8
+ComputeUnits
+6
+PixelRate
+8.088 GPixel/s
+TextureRate
+24.26 GTexel/s
+FP16(half)performance
+1,553 GFLOPS (2:1)
+FP32(float)performance
+776.4 GFLOPS
+FP64(double)performance
+48.53 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+15 W
+Outputs
+No outputs
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.2

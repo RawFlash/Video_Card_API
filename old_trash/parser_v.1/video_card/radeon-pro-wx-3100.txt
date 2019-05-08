@@ -1,0 +1,78 @@
+GPUName
+Lexa
+GPUVariant
+Lexa XT
+Architecture
+GCN 4.0
+Foundry
+TSMC
+ProcessSize
+14 nm
+Transistors
+2,200 million
+DieSize
+103 mm^2
+ReleaseDate
+Jun 12th, 2017
+Generation
+Radeon Pro(WX x100)
+Production
+Active
+LaunchPrice
+199 USD
+BusInterface
+PCIe 3.0 x8
+GPUClock
+925 MHz
+BoostClock
+1219 MHz
+MemoryClock
+1500 MHz6000 MHz effective
+MemorySize
+4 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+96.00 GB/s
+ShadingUnits
+512
+TMUs
+32
+ROPs
+16
+ComputeUnits
+8
+PixelRate
+19.50 GPixel/s
+TextureRate
+39.01 GTexel/s
+FP16(half)performance
+1,248 GFLOPS (1:1)
+FP32(float)performance
+1,248 GFLOPS
+FP64(double)performance
+78.02 GFLOPS (1:16)
+SlotWidth
+Single-slot
+Length
+5.7 inches145 mm
+TDP
+65 W
+Outputs
+1x DisplayPort2x mini-DisplayPort
+PowerConnectors
+None
+BoardNumber
+D091
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

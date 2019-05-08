@@ -1,0 +1,74 @@
+GPUName
+GM204
+GPUVariant
+N16E-GT-A2
+Architecture
+Maxwell 2.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+5,200 million
+DieSize
+398 mm^2
+ReleaseDate
+Oct 7th, 2014
+Generation
+GeForce 900M
+Production
+End-of-life
+BusInterface
+MXM-B (3.0)
+GPUClock
+924 MHz
+BoostClock
+1038 MHz
+MemoryClock
+1253 MHz5012 MHz effective
+MemorySize
+6 GB
+MemoryType
+GDDR5
+MemoryBus
+192 bit
+Bandwidth
+120.3 GB/s
+ShadingUnits
+1280
+TMUs
+80
+ROPs
+48
+SMMCount
+10
+PixelRate
+49.82 GPixel/s
+TextureRate
+83.04 GTexel/s
+FP32(float)performance
+2,657 GFLOPS
+FP64(double)performance
+83.04 GFLOPS (1:32)
+SlotWidth
+MXM Module
+TDP
+unknown
+Outputs
+No outputs
+PowerConnectors
+None
+BoardNumber
+P2754 SKU 2 / 5
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+5.2
+ShaderModel
+6.2

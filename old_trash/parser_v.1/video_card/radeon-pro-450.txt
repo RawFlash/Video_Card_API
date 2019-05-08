@@ -1,0 +1,68 @@
+GPUName
+Baffin
+GPUVariant
+Baffin LE
+Architecture
+GCN 4.0
+Foundry
+TSMC
+ProcessSize
+14 nm
+Transistors
+3,000 million
+DieSize
+123 mm^2
+ReleaseDate
+Oct 30th, 2016
+Generation
+Radeon Pro(400)
+Production
+Active
+BusInterface
+PCIe 3.0 x8
+GPUClock
+800 MHz
+MemoryClock
+1270 MHz5080 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+81.28 GB/s
+ShadingUnits
+640
+TMUs
+40
+ROPs
+16
+ComputeUnits
+10
+PixelRate
+12.80 GPixel/s
+TextureRate
+32.00 GTexel/s
+FP16(half)performance
+1,024 GFLOPS (1:1)
+FP32(float)performance
+1,024 GFLOPS
+FP64(double)performance
+64.00 GFLOPS (1:16)
+SlotWidth
+MXM Module
+TDP
+35 W
+Outputs
+No outputs
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

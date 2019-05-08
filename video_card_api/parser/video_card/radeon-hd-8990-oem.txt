@@ -1,0 +1,72 @@
+GPUName
+Malta
+GPUVariant
+Malta XT(215-0849026)
+Architecture
+GCN 1.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+4,313 million
+DieSize
+365 mm^2
+ReleaseDate
+Apr 24th, 2013
+Generation
+Sea Islands(HD 8900)
+Production
+End-of-life
+LaunchPrice
+999 USD
+BusInterface
+PCIe 3.0 x16
+GPUClock
+950 MHz
+BoostClock
+1000 MHz
+MemoryClock
+1500 MHz6000 MHz effective
+MemorySize
+3 GB
+MemoryType
+GDDR5
+MemoryBus
+384 bit
+Bandwidth
+288.0 GB/s
+ShadingUnits
+2048
+TMUs
+128
+ROPs
+32
+ComputeUnits
+32
+PixelRate
+32.00 GPixel/s
+TextureRate
+128.0 GTexel/s
+FP32(float)performance
+4,096 GFLOPS
+FP64(double)performance
+1,024 GFLOPS (1:4)
+SlotWidth
+Dual-slot
+Length
+12.1 inches307 mm
+TDP
+375 W
+Outputs
+1x DVI4x mini-DisplayPort
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.86
+ShaderModel
+5.1

@@ -1,0 +1,64 @@
+GPUName
+M62
+GPUVariant
+M62-S
+Architecture
+R500
+Foundry
+UMC
+ProcessSize
+80 nm
+Transistors
+107 million
+DieSize
+100 mm^2
+ReleaseDate
+Sep 18th, 2006
+Generation
+M6x(Mobility X1)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+419 MHz
+MemoryClock
+392 MHz784 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR2
+MemoryBus
+64 bit
+Bandwidth
+6.272 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+1.676 GPixel/s
+VertexRate
+209.5 MVertices/s
+TextureRate
+1.676 GTexel/s
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+3.0
+VertexShader
+3.0

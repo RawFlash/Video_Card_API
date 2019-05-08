@@ -1,0 +1,62 @@
+GPUName
+NV11 B2
+Architecture
+Celsius
+Foundry
+TSMC
+ProcessSize
+180 nm
+Transistors
+20 million
+DieSize
+65 mm^2
+ReleaseDate
+Nov 11th, 2000
+Generation
+GeForce2 Go
+Production
+End-of-life
+BusInterface
+AGP 4x
+GPUClock
+143 MHz
+MemoryClock
+166 MHz332 MHz effective
+MemorySize
+64 MB
+MemoryType
+DDR
+MemoryBus
+128 bit
+Bandwidth
+5.312 GB/s
+PixelShaders
+2
+VertexShaders
+0
+TMUs
+4
+ROPs
+2
+PixelRate
+286.0 MPixel/s
+TextureRate
+572.0 MTexel/s
+SlotWidth
+IGP
+TDP
+2 W
+Outputs
+No outputs
+DirectX
+7.0 
+OpenGL
+1.2
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+N/A
+VertexShader
+N/A

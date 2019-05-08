@@ -1,0 +1,66 @@
+GPUName
+Trinity GL
+GPUVariant
+A320
+Architecture
+TeraScale 3
+Foundry
+TSMC
+ProcessSize
+32 nm
+Transistors
+1,303 million
+DieSize
+246 mm^2
+ReleaseDate
+Jun 6th, 2012
+Generation
+Trinity(HD 7000 Mobile)
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+800 MHz
+BoostClock
+955 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+384
+TMUs
+24
+ROPs
+8
+ComputeUnits
+6
+PixelRate
+7.640 GPixel/s
+TextureRate
+22.92 GTexel/s
+FP32(float)performance
+733.4 GFLOPS
+SlotWidth
+IGP
+TDP
+100 W
+Outputs
+No outputs
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

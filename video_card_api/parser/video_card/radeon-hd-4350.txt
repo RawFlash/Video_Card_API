@@ -1,0 +1,68 @@
+GPUName
+RV710
+GPUVariant
+RV710(215-0725016)
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+242 million
+DieSize
+73 mm^2
+ReleaseDate
+Sep 30th, 2008
+Generation
+Radeon R700(HD 4300)
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+600 MHz
+MemoryClock
+400 MHz800 MHz effective
+MemorySize
+512 MB
+MemoryType
+DDR3
+MemoryBus
+64 bit
+Bandwidth
+6.400 GB/s
+ShadingUnits
+80
+TMUs
+8
+ROPs
+4
+ComputeUnits
+1
+PixelRate
+2.400 GPixel/s
+TextureRate
+4.800 GTexel/s
+FP32(float)performance
+96.00 GFLOPS
+SlotWidth
+Single-slot
+TDP
+20 W
+Outputs
+2x DisplayPort
+PowerConnectors
+None
+BoardNumber
+B750
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+ShaderModel
+4.1

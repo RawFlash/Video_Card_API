@@ -1,0 +1,70 @@
+GPUName
+G73
+GPUVariant
+G73-GT-N-A2
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+177 million
+DieSize
+125 mm^2
+ReleaseDate
+Mar 9th, 2006
+Generation
+GeForce 7 PCIe(7600)
+Production
+End-of-life
+LaunchPrice
+199 USD
+BusInterface
+PCIe 1.0 x16
+GPUClock
+560 MHz
+MemoryClock
+700 MHz1400 MHz effective
+MemorySize
+256 MB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+22.40 GB/s
+PixelShaders
+12
+VertexShaders
+5
+TMUs
+12
+ROPs
+8
+PixelRate
+4.480 GPixel/s
+VertexRate
+700.0 MVertices/s
+TextureRate
+6.720 GTexel/s
+SlotWidth
+Single-slot
+TDP
+40 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+None
+BoardNumber
+P456
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

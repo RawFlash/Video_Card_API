@@ -1,0 +1,64 @@
+GPUName
+Pinewood
+GPUVariant
+Pinewood PRO
+Architecture
+TeraScale 2
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+627 million
+DieSize
+104 mm^2
+ReleaseDate
+Feb 7th, 2011
+Generation
+All-In-One(HD 6000)
+Production
+End-of-life
+BusInterface
+MXM-A (3.0)
+GPUClock
+550 MHz
+MemoryClock
+800 MHz1600 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR3
+MemoryBus
+128 bit
+Bandwidth
+25.60 GB/s
+ShadingUnits
+480
+TMUs
+24
+ROPs
+8
+ComputeUnits
+6
+PixelRate
+4.400 GPixel/s
+TextureRate
+13.20 GTexel/s
+FP32(float)performance
+528.0 GFLOPS
+SlotWidth
+MXM Module
+TDP
+35 W
+Outputs
+No outputs
+DirectX
+11.2 (11_0)
+OpenGL
+4.4
+OpenCL
+1.2
+Vulkan
+N/A
+ShaderModel
+5.0

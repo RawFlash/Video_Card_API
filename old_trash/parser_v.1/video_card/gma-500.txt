@@ -1,0 +1,60 @@
+GPUName
+Poulsbo
+Architecture
+PowerVR SGX535
+Foundry
+Intel
+ProcessSize
+130 nm
+Transistors
+unknown
+DieSize
+unknown
+ReleaseDate
+Mar 2nd, 2008
+Generation
+GMA 500(Mobile IGP)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+200 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+32
+TMUs
+4
+ROPs
+1
+PixelRate
+200.0 MPixel/s
+TextureRate
+800.0 MTexel/s
+FP32(float)performance
+12.80 GFLOPS
+SlotWidth
+IGP
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+10.1 
+OpenGL
+ES 2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.1

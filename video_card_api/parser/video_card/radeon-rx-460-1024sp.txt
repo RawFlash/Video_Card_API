@@ -1,0 +1,76 @@
+GPUName
+Baffin
+GPUVariant
+Baffin XT
+Architecture
+GCN 4.0
+Foundry
+TSMC
+ProcessSize
+14 nm
+Transistors
+3,000 million
+DieSize
+123 mm^2
+ReleaseDate
+Jan 17th, 2017
+Generation
+Arctic Islands(RX 400)
+Production
+Active
+BusInterface
+PCIe 3.0 x8
+GPUClock
+1090 MHz
+BoostClock
+1200 MHz
+MemoryClock
+1750 MHz7000 MHz effective
+MemorySize
+2 GB
+MemoryType
+GDDR5
+MemoryBus
+128 bit
+Bandwidth
+112.0 GB/s
+ShadingUnits
+1024
+TMUs
+64
+ROPs
+16
+ComputeUnits
+16
+PixelRate
+19.20 GPixel/s
+TextureRate
+76.80 GTexel/s
+FP16(half)performance
+2,458 GFLOPS (1:1)
+FP32(float)performance
+2,458 GFLOPS
+FP64(double)performance
+153.6 GFLOPS (1:16)
+SlotWidth
+Dual-slot
+Length
+6.7 inches170 mm
+TDP
+75 W
+Outputs
+1x DVI1x HDMI1x DisplayPort
+PowerConnectors
+None
+BoardNumber
+C994
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

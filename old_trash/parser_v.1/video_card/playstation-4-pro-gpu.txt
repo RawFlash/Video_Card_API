@@ -1,0 +1,70 @@
+GPUName
+Neo
+GPUVariant
+CXD90044GB
+Architecture
+GCN 4.0
+Foundry
+TSMC
+ProcessSize
+16 nm
+Transistors
+5,700 million
+DieSize
+232 mm^2
+ReleaseDate
+Nov 10th, 2016
+Generation
+Console GPU(Sony)
+Production
+Active
+LaunchPrice
+399 USD
+BusInterface
+IGP
+GPUClock
+911 MHz
+MemoryClock
+1700 MHz6800 MHz effective
+MemorySize
+8 GB
+MemoryType
+GDDR5
+MemoryBus
+256 bit
+Bandwidth
+217.6 GB/s
+ShadingUnits
+2304
+TMUs
+144
+ROPs
+64
+ComputeUnits
+36
+PixelRate
+58.30 GPixel/s
+TextureRate
+131.2 GTexel/s
+FP16(half)performance
+8,396 GFLOPS (2:1)
+FP32(float)performance
+4,198 GFLOPS
+SlotWidth
+IGP
+TDP
+150 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+N/A 
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

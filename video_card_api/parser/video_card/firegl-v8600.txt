@@ -1,0 +1,72 @@
+GPUName
+R600
+GPUVariant
+R600 V8600
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+80 nm
+Transistors
+720 million
+DieSize
+420 mm^2
+ReleaseDate
+May 14th, 2007
+Generation
+FireGL(Vx600)
+Production
+End-of-life
+LaunchPrice
+1,899 USD
+BusInterface
+PCIe 1.0 x16
+GPUClock
+688 MHz
+MemoryClock
+868 MHz1736 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR4
+MemoryBus
+512 bit
+Bandwidth
+111.1 GB/s
+ShadingUnits
+320
+TMUs
+16
+ROPs
+16
+ComputeUnits
+4
+PixelRate
+11.01 GPixel/s
+TextureRate
+11.01 GTexel/s
+FP32(float)performance
+440.3 GFLOPS
+SlotWidth
+Dual-slot
+Length
+10 inches254 mm
+TDP
+159 W
+Outputs
+1x DVI1x DisplayPort1x S-Video
+PowerConnectors
+1x 6-pin + 1x 8-pin
+BoardNumber
+B313
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.0

@@ -1,0 +1,74 @@
+GPUName
+Tahiti
+GPUVariant
+Orthrus
+Architecture
+GCN 1.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+4,313 million
+DieSize
+352 mm^2
+ReleaseDate
+Mar 27th, 2013
+Generation
+Radeon Sky(x00)
+Production
+End-of-life
+BusInterface
+PCIe 3.0 x16
+GPUClock
+825 MHz
+BoostClock
+950 MHz
+MemoryClock
+1250 MHz5000 MHz effective
+MemorySize
+3 GB
+MemoryType
+GDDR5
+MemoryBus
+384 bit
+Bandwidth
+240.0 GB/s
+ShadingUnits
+1792
+TMUs
+112
+ROPs
+32
+ComputeUnits
+28
+PixelRate
+30.40 GPixel/s
+TextureRate
+106.4 GTexel/s
+FP32(float)performance
+3,405 GFLOPS
+FP64(double)performance
+851.2 GFLOPS (1:4)
+SlotWidth
+Dual-slot
+Length
+12 inches305 mm
+TDP
+300 W
+Outputs
+1x DVI1x mini-DisplayPort
+PowerConnectors
+2x 8-pin
+BoardNumber
+C476
+DirectX
+12.0 (11_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.86
+ShaderModel
+5.1

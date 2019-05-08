@@ -1,0 +1,68 @@
+GPUName
+RV635
+GPUVariant
+RV635 PRO(215-0682008)
+Architecture
+TeraScale
+Foundry
+TSMC
+ProcessSize
+55 nm
+Transistors
+378 million
+DieSize
+135 mm^2
+ReleaseDate
+Jan 23rd, 2008
+Generation
+Radeon R600(HD 3600)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+725 MHz
+MemoryClock
+500 MHz1000 MHz effective
+MemorySize
+512 MB
+MemoryType
+DDR2
+MemoryBus
+128 bit
+Bandwidth
+16.00 GB/s
+ShadingUnits
+120
+TMUs
+8
+ROPs
+4
+ComputeUnits
+3
+PixelRate
+2.900 GPixel/s
+TextureRate
+5.800 GTexel/s
+FP32(float)performance
+174.0 GFLOPS
+SlotWidth
+Single-slot
+TDP
+65 W
+Outputs
+2x DVI1x S-Video
+PowerConnectors
+None
+BoardNumber
+B381
+DirectX
+10.1 
+OpenGL
+3.3
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+4.1

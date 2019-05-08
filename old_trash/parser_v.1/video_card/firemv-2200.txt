@@ -1,0 +1,70 @@
+GPUName
+RV370
+Architecture
+Rage 9
+Foundry
+TSMC
+ProcessSize
+110 nm
+Transistors
+107 million
+DieSize
+74 mm^2
+ReleaseDate
+2006
+Generation
+FireMV Multi-View(2000)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+324 MHz
+MemoryClock
+196 MHz392 MHz effective
+MemorySize
+128 MB
+MemoryType
+DDR
+MemoryBus
+64 bit
+Bandwidth
+3.136 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+1.296 GPixel/s
+VertexRate
+162.0 MVertices/s
+TextureRate
+1.296 GTexel/s
+SlotWidth
+Single-slot
+Length
+6.7 inches170 mm
+TDP
+15 W
+Outputs
+1x DMS-59
+PowerConnectors
+None
+BoardNumber
+B403
+DirectX
+9.0 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+PixelShader
+2.0
+VertexShader
+2.0

@@ -1,0 +1,72 @@
+GPUName
+GP100
+GPUVariant
+GP100-890-A1
+Architecture
+Pascal
+Foundry
+TSMC
+ProcessSize
+16 nm
+Transistors
+15,300 million
+DieSize
+610 mm^2
+ReleaseDate
+Apr 5th, 2016
+Generation
+Tesla(Pxx)
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1328 MHz
+BoostClock
+1480 MHz
+MemoryClock
+704 MHz1408 MHz effective
+MemorySize
+16 GB
+MemoryType
+HBM2
+MemoryBus
+4096 bit
+Bandwidth
+720.9 GB/s
+ShadingUnits
+3584
+TMUs
+224
+ROPs
+96
+SMCount
+56
+PixelRate
+142.1 GPixel/s
+TextureRate
+331.5 GTexel/s
+FP16(half)performance
+21,217 GFLOPS (2:1)
+FP32(float)performance
+10,609 GFLOPS
+FP64(double)performance
+5,304 GFLOPS (1:2)
+TDP
+300 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.0
+ShaderModel
+6.2

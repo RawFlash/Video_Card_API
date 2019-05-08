@@ -1,0 +1,78 @@
+GPUName
+GP107
+GPUVariant
+GP107-301-K1-A1
+Architecture
+Pascal
+Foundry
+Samsung
+ProcessSize
+14 nm
+Transistors
+3,300 million
+DieSize
+132 mm^2
+ReleaseDate
+May 21st, 2018
+Generation
+GeForce 1000
+Production
+Active
+BusInterface
+PCIe 3.0 x16
+GPUClock
+1392 MHz
+BoostClock
+1518 MHz
+MemoryClock
+1752 MHz7008 MHz effective
+MemorySize
+3 GB
+MemoryType
+GDDR5
+MemoryBus
+96 bit
+Bandwidth
+84.10 GB/s
+ShadingUnits
+768
+TMUs
+48
+ROPs
+24
+SMCount
+6
+PixelRate
+36.43 GPixel/s
+TextureRate
+72.86 GTexel/s
+FP16(half)performance
+36.43 GFLOPS (1:64)
+FP32(float)performance
+2,332 GFLOPS
+FP64(double)performance
+72.86 GFLOPS (1:32)
+SlotWidth
+Dual-slot
+Length
+5.7 inches145 mm
+TDP
+75 W
+Outputs
+1x DVI1x HDMI1x DisplayPort
+PowerConnectors
+None
+BoardNumber
+PG210
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+1.2
+Vulkan
+1.1.95
+CUDA
+6.1
+ShaderModel
+6.2

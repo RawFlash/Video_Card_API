@@ -1,0 +1,66 @@
+GPUName
+RV515
+GPUVariant
+RV515 GL
+Architecture
+R500
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+107 million
+DieSize
+100 mm^2
+ReleaseDate
+Oct 1st, 2005
+Generation
+FireGL(Vx300)
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+600 MHz
+MemoryClock
+400 MHz800 MHz effective
+MemorySize
+256 MB
+MemoryType
+DDR2
+MemoryBus
+64 bit
+Bandwidth
+6.400 GB/s
+PixelShaders
+4
+VertexShaders
+2
+TMUs
+4
+ROPs
+4
+PixelRate
+2.400 GPixel/s
+VertexRate
+300.0 MVertices/s
+TextureRate
+2.400 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+9.0c 
+OpenGL
+2.0
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

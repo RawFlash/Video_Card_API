@@ -1,0 +1,70 @@
+GPUName
+GF108
+GPUVariant
+GF108-300-A1
+Architecture
+Fermi
+Foundry
+TSMC
+ProcessSize
+40 nm
+Transistors
+585 million
+DieSize
+116 mm^2
+ReleaseDate
+Sep 17th, 2012
+Generation
+NVS(x200M)
+Production
+End-of-life
+BusInterface
+MXM
+GPUClock
+672 MHz
+ShaderClock
+1344 MHz
+MemoryClock
+785 MHz3140 MHz effective
+MemorySize
+1024 MB
+MemoryType
+GDDR5
+MemoryBus
+64 bit
+Bandwidth
+25.12 GB/s
+ShadingUnits
+96
+TMUs
+16
+ROPs
+4
+SMCount
+2
+PixelRate
+2.688 GPixel/s
+TextureRate
+10.75 GTexel/s
+FP32(float)performance
+258.0 GFLOPS
+FP64(double)performance
+21.50 GFLOPS (1:12)
+SlotWidth
+MXM Module
+TDP
+25 W
+Outputs
+No outputs
+DirectX
+12.0 (11_0)
+OpenGL
+4.6
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+2.1
+ShaderModel
+5.1

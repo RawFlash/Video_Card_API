@@ -1,0 +1,66 @@
+GPUName
+G72
+GPUVariant
+QD-NVS-110M-N-A3
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+90 nm
+Transistors
+112 million
+DieSize
+81 mm^2
+ReleaseDate
+Jun 1st, 2006
+Generation
+Quadro NVS Mobile
+Production
+End-of-life
+BusInterface
+PCIe 1.0 x16
+GPUClock
+300 MHz
+MemoryClock
+300 MHz600 MHz effective
+MemorySize
+512 MB
+MemoryType
+DDR
+MemoryBus
+64 bit
+Bandwidth
+4.800 GB/s
+PixelShaders
+4
+VertexShaders
+3
+TMUs
+4
+ROPs
+2
+PixelRate
+600.0 MPixel/s
+VertexRate
+225.0 MVertices/s
+TextureRate
+1.200 GTexel/s
+SlotWidth
+IGP
+TDP
+10 W
+Outputs
+No outputs
+PowerConnectors
+None
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

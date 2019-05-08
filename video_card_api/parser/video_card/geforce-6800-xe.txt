@@ -1,0 +1,66 @@
+GPUName
+NV40
+Architecture
+Curie
+Foundry
+TSMC
+ProcessSize
+130 nm
+Transistors
+222 million
+DieSize
+287 mm^2
+ReleaseDate
+Sep 30th, 2005
+Generation
+GeForce 6 AGP(6800)
+Production
+End-of-life
+BusInterface
+AGP 8x
+GPUClock
+275 MHz
+MemoryClock
+266 MHz532 MHz effective
+MemorySize
+256 MB
+MemoryType
+DDR2
+MemoryBus
+128 bit
+Bandwidth
+8.512 GB/s
+PixelShaders
+8
+VertexShaders
+3
+TMUs
+8
+ROPs
+8
+PixelRate
+2.200 GPixel/s
+VertexRate
+206.3 MVertices/s
+TextureRate
+2.200 GTexel/s
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI1x VGA1x S-Video
+PowerConnectors
+None
+BoardNumber
+P212
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

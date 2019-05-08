@@ -1,0 +1,70 @@
+GPUName
+G98
+Architecture
+Tesla
+Foundry
+TSMC
+ProcessSize
+65 nm
+Transistors
+210 million
+DieSize
+86 mm^2
+ReleaseDate
+Jun 1st, 2008
+Generation
+GeForce 9(9300)
+Production
+End-of-life
+BusInterface
+PCIe 2.0 x16
+GPUClock
+540 MHz
+ShaderClock
+1300 MHz
+MemoryClock
+400 MHz800 MHz effective
+MemorySize
+256 MB
+MemoryType
+DDR2
+MemoryBus
+64 bit
+Bandwidth
+6.400 GB/s
+ShadingUnits
+8
+TMUs
+8
+ROPs
+4
+SMCount
+1
+PixelRate
+2.160 GPixel/s
+TextureRate
+4.320 GTexel/s
+FP32(float)performance
+20.80 GFLOPS
+SlotWidth
+Single-slot
+TDP
+unknown
+Outputs
+1x DVI1x HDMI1x VGA
+PowerConnectors
+None
+BoardNumber
+P561, P805
+DirectX
+10.0 
+OpenGL
+3.3
+OpenCL
+1.1
+Vulkan
+N/A
+CUDA
+1.1
+ShaderModel
+4.0

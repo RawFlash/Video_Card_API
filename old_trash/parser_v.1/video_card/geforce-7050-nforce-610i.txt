@@ -1,0 +1,62 @@
+GPUName
+C73
+GPUVariant
+NF-7050-610i-A2
+Architecture
+Curie
+ProcessSize
+90 nm
+Transistors
+112 million
+DieSize
+81 mm^2
+ReleaseDate
+Jan 13th, 2008
+Generation
+GeForce 7 IGP
+Production
+End-of-life
+BusInterface
+PCI
+GPUClock
+500 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+PixelShaders
+2
+VertexShaders
+1
+TMUs
+2
+ROPs
+2
+PixelRate
+1.000 GPixel/s
+VertexRate
+125.0 MVertices/s
+TextureRate
+1.000 GTexel/s
+SlotWidth
+IGP
+TDP
+unknown
+Outputs
+No outputs
+DirectX
+9.0c 
+OpenGL
+2.1
+OpenCL
+N/A
+Vulkan
+N/A
+ShaderModel
+3.0

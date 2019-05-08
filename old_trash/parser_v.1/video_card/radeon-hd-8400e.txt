@@ -1,0 +1,64 @@
+GPUName
+Kalindi
+Architecture
+GCN 2.0
+Foundry
+TSMC
+ProcessSize
+28 nm
+Transistors
+1,178 million
+DieSize
+110 mm^2
+ReleaseDate
+Apr 23rd, 2013
+Generation
+Kabini(HD 8000 Mobile)
+Production
+End-of-life
+BusInterface
+IGP
+GPUClock
+600 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+160
+TMUs
+8
+ROPs
+4
+ComputeUnits
+2
+PixelRate
+2.400 GPixel/s
+TextureRate
+4.800 GTexel/s
+FP32(float)performance
+192.0 GFLOPS
+FP64(double)performance
+12.00 GFLOPS (1:16)
+SlotWidth
+IGP
+TDP
+25 W
+Outputs
+No outputs
+DirectX
+12.0 (12_0)
+OpenGL
+4.6
+OpenCL
+2.0
+Vulkan
+1.1.86
+ShaderModel
+6.0

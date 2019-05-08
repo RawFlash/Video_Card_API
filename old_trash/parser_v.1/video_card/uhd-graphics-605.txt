@@ -1,0 +1,66 @@
+GPUName
+Gemini Lake GT1
+Architecture
+Generation 9.5
+Foundry
+Intel
+ProcessSize
+14 nm
+Transistors
+189 million
+DieSize
+49 mm^2
+ReleaseDate
+Dec 11th, 2017
+Generation
+HD Graphics(Goldmont Plus)
+Production
+Active
+BusInterface
+PCIe 3.0 x1
+GPUClock
+200 MHz
+BoostClock
+800 MHz
+MemoryClock
+System Shared
+MemorySize
+System Shared
+MemoryType
+System Shared
+MemoryBus
+System Shared
+Bandwidth
+System Dependent
+ShadingUnits
+144
+TMUs
+18
+ROPs
+3
+PixelRate
+2.400 GPixel/s
+TextureRate
+14.40 GTexel/s
+FP16(half)performance
+460.8 GFLOPS (2:1)
+FP32(float)performance
+230.4 GFLOPS
+FP64(double)performance
+57.60 GFLOPS (1:4)
+SlotWidth
+IGP
+TDP
+5 W
+Outputs
+No outputs
+DirectX
+12.0 (12_1)
+OpenGL
+4.6
+OpenCL
+2.1
+Vulkan
+1.1.93
+ShaderModel
+6.4
