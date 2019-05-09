@@ -23,7 +23,8 @@ from . import  views
 
 
 urlpatterns = [
+    url('test',views.main2),
     path(MAIN_URL,include('api.urls')),
-    url('test',views.main2)
+
 ]
 

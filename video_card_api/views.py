@@ -1,5 +1,5 @@
 from django.http import HttpResponse
 
 def main2(request):
-    print('!!')
+    #print('!!')
     return HttpResponse("Here's the text of the Web page.")
