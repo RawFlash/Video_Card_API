@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY','w%r+g^3u64a(^yb2o6uk$!sbny%9)9z
 DEBUG = bool( os.environ.get('DJANGO_DEBUG', True) )
 
 
-ALLOWED_HOSTS = ['video-card-api.herokuapp.com']
+ALLOWED_HOSTS = ['video-card-api.herokuapp.com','127.0.0.1']
 
 
 # Application definition

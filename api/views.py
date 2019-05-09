@@ -191,7 +191,7 @@ def json(request):
         for vc in VC:
             print(vc)
             data = vc.return_all()
-        print(data)
+        #print(data)
         return JsonResponse(data)
     else:
         print("more parameters")
