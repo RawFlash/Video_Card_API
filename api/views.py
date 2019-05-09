@@ -4,6 +4,7 @@ from django.http.response import HttpResponse
 from .models import VideoCard
 from django.http import request as req
 #from video_card_api.api.models import *
+from django.http import HttpResponse
 
 import sys
 import os
@@ -580,7 +581,7 @@ def list_VC_update(first_list,second_list):
 
 def main(request):
     print('!!')
-    return render(request, 'test.html')
+    return HttpResponse("Here's the text of the Web page.")
 
 def test(request):
     try:

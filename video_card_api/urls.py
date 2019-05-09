@@ -17,8 +17,13 @@ from django.contrib import admin
 from django.urls import path
 from  django.conf.urls import include
 from .settings import MAIN_URL
+from django.conf.urls import url
+from . import  views
+
 
 
 urlpatterns = [
     path(MAIN_URL,include('api.urls')),
+    url('test',views.main2)
 ]
+
