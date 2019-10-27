@@ -22,14 +22,15 @@ def bots(request):
         "ftp": ftp_proxy
     }
 
-    s = requests.get("https://video-card-api.herokuapp.com/test", proxies = proxyDict)
+    s = requests.get("https://video-card-api.herokuapp.com/test" )#,proxies = proxyDict)
     i=0
+    print('!!')
     while i<5:
 
         i=i+1
-        s = requests.get("https://video-card-api.herokuapp.com/test", proxies=proxyDict)
+        s = requests.get("https://video-card-api.herokuapp.com/test") #,proxies=proxyDict)
 
     return HttpResponse("Боты сработали")
 
-    # print('!!')
+
     #return HttpResponse("Тестовая страница)")
