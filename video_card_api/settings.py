@@ -35,6 +35,7 @@ ALLOWED_HOSTS = ['video-card-api.herokuapp.com','127.0.0.1']
 
 INSTALLED_APPS = [
     'api',
+    'templates',
     #'video_card_api.api',
 
     #'api.apps.PollsConfig',
