@@ -2,4 +2,4 @@ from django.http import HttpResponse
 
 def main2(request):
     #print('!!')
-    return HttpResponse("Любэ извращенка")
+    return HttpResponse("Тестовая страница")
