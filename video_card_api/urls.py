@@ -24,6 +24,7 @@ from . import  views
 
 urlpatterns = [
     url('test',views.main2),
+    url('bot',views.bots),
     path(MAIN_URL,include('api.urls')),
 
 ]
