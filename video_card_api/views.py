@@ -29,6 +29,7 @@ def bots(request):
         i=i+1
         s = requests.get("https://video-card-api.herokuapp.com/test", proxies=proxyDict)
 
+    return HttpResponse("Боты сработали")
 
     # print('!!')
     #return HttpResponse("Тестовая страница)")
