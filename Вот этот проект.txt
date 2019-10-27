@@ -1,0 +1,6 @@
+add
+commit
+push
+
+git push VCA master
+git push heroku master
