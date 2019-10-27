@@ -7,7 +7,7 @@ import sys
 import os
 import random
 import http.client
-import tor.tor
+#import tor.tor
 import time
 
 user_agent_list = [
