@@ -60,12 +60,12 @@ def bots(request):
 
 
     print('!!')
-    for i in range(1, 1000):
+    for i in range(1, 10):
         user_agent = random.choice(user_agent_list)
         headers = {'User-Agent': user_agent}
 
         s= requests.get(url,headers = headers) #,proxies=proxiesD)
-        t = random.randint(0,200)
+        t = random.randint(0,3)
         print('request: Number:'+ str(i) +', break:'+ str(t) )
         time.sleep(t)
 

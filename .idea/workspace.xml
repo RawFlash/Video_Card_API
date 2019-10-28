@@ -43,26 +43,27 @@
     <session id="655223736">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="31" />
-          <entry key="py" value="650" />
-          <entry key="txt" value="38" />
+          <entry key="py" value="656" />
+          <entry key="txt" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="31" />
-          <entry key="PLAIN_TEXT" value="38" />
-          <entry key="Python" value="650" />
+          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="Python" value="656" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -97,12 +98,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/video_card_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
               <folding>
-                <element signature="e#220#2474#0" />
-                <marker date="1572187349081" expanded="true" signature="2547:2548" ph="..." />
-                <marker date="1572187349081" expanded="true" signature="3220:3221" ph="..." />
+                <element signature="e#0#36#0" expanded="true" />
+                <marker date="1572253715589" expanded="true" signature="2547:2548" ph="..." />
+                <marker date="1572253715589" expanded="true" signature="3216:3217" ph="..." />
               </folding>
             </state>
           </provider>
@@ -151,6 +152,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,7 +174,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572186998915</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="1000 bots">
+      <created>1572187379726</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572187379727</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -309,7 +317,8 @@
     <MESSAGE value="fixed new test page" />
     <MESSAGE value="fixed test" />
     <MESSAGE value="first bot" />
-    <option name="LAST_COMMIT_MESSAGE" value="first bot" />
+    <MESSAGE value="1000 bots" />
+    <option name="LAST_COMMIT_MESSAGE" value="1000 bots" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../!video_card_api/manage.py">
@@ -424,12 +433,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/video_card_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
           <folding>
-            <element signature="e#220#2474#0" />
-            <marker date="1572187349081" expanded="true" signature="2547:2548" ph="..." />
-            <marker date="1572187349081" expanded="true" signature="3220:3221" ph="..." />
+            <element signature="e#0#36#0" expanded="true" />
+            <marker date="1572253715589" expanded="true" signature="2547:2548" ph="..." />
+            <marker date="1572253715589" expanded="true" signature="3216:3217" ph="..." />
           </folding>
         </state>
       </provider>
