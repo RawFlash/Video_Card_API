@@ -1,6 +1,6 @@
-add
-commit
-push
+git add
+git commit -m''
+git push
 
 git push VCA master
 git push heroku master

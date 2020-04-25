@@ -19,13 +19,21 @@ from  django.conf.urls import include
 from .settings import MAIN_URL
 from django.conf.urls import url
 from . import  views
+from update_db import views as update_db_biews
+import api.views
+from django.conf.urls.static import static
+from django.conf import settings
 
 
 
 urlpatterns = [
-    url('test',views.main2),
-    url('bot',views.bots),
+    #url('update_db',update_db_biews.main),
+    url('',views.main),
+    #url('json',api.views.request_db),
     path(MAIN_URL,include('api.urls')),
 
 ]
+              #+ static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
+#url('Torbot',views.Torbots),
+#url('bot',views.bots),

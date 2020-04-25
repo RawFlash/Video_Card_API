@@ -14,6 +14,7 @@ class Migration(migrations.Migration):
         migrations.CreateModel(
             name='VideoCard',
             fields=[
+
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('Title', models.CharField(blank=True, max_length=35)),
                 ('GPUName', models.CharField(blank=True, max_length=35)),
@@ -67,6 +68,7 @@ class Migration(migrations.Migration):
                 ('SMMCount', models.CharField(blank=True, max_length=35)),
                 ('TensorCores', models.CharField(blank=True, max_length=35)),
                 ('RTCores', models.CharField(blank=True, max_length=35)),
+                ('Manufacturer', models.CharField(blank=True, max_length=35))
             ],
         ),
     ]

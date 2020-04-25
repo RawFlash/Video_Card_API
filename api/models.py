@@ -5,7 +5,8 @@ from django.db import models
 
 # from .views import Conv_VideoCard
 
-class Conv_VideoCard(models.Model):
+class Conv_VC(models.Model):
+    Id = str
     Title = str
     GPUName = str
     GPUVariant = str
@@ -58,16 +59,18 @@ class Conv_VideoCard(models.Model):
     SMMCount = str
     TensorCores = str
     RTCores = str
+    Manufacturer = str
 
-    def __init__(self, Title='', GPUName='', GPUVariant='', Architecture='', ProcessSize='', Transistors='', DieSize='',
-                 ReleaseDate='', Generation='', Production='', BusInterface='', GPUClock='', MemoryClock='',
-                 MemorySize='', MemoryType='', MemoryBus='', Bandwidth='', PixelShaders='', VertexShaders='', TMUs='',
-                 ROPs='', PixelRate='', TextureRate='', SlotWidth='', TDP='', Outputs='', BoardNumber='', DirectX='',
-                 OpenGL='', OpenCL='', Vulkan='', PixelShader='', VertexShader='', LaunchPrice='', Foundry='',
-                 PowerConnectors='', VertexRate='', Length='', ShaderModel='', ShadingUnits='', ComputeUnits='',
-                 FP32performance='', BoostClock='', FP64performance='', FP16performance='', ShaderClock='', SMCount='',
-                 CUDA='', SMXCount='', SMMCount='', TensorCores='', RTCores='', *args, **kwargs):
-        super().__init__(*args, **kwargs)
+    def __init__(self, Id, Title, GPUName, GPUVariant, Architecture, ProcessSize, Transistors, DieSize,
+                 ReleaseDate, Generation, Production, BusInterface, GPUClock, MemoryClock,
+                 MemorySize, MemoryType, MemoryBus, Bandwidth, PixelShaders, VertexShaders, TMUs,
+                 ROPs, PixelRate, TextureRate, SlotWidth, TDP, Outputs, BoardNumber, DirectX,
+                 OpenGL, OpenCL, Vulkan, PixelShader, VertexShader, LaunchPrice, Foundry,
+                 PowerConnectors, VertexRate, Length, ShaderModel, ShadingUnits, ComputeUnits,
+                 FP32performance, BoostClock, FP64performance, FP16performance, ShaderClock, SMCount,
+                 CUDA, SMXCount, SMMCount, TensorCores, RTCores, Manufacturer):
+        #super().__init__(*args, **kwargs)
+        self.Id = Id
         self.Title = Title
         self.GPUName = GPUName
         self.GPUVariant = GPUVariant
@@ -120,6 +123,7 @@ class Conv_VideoCard(models.Model):
         self.SMMCount = SMMCount
         self.TensorCores = TensorCores
         self.RTCores = RTCores
+        self.Manufacturer = Manufacturer
 
 
 class VideoCard(models.Model):
@@ -182,10 +186,11 @@ class VideoCard(models.Model):
     #С конструктором json не работает
     #Без него не работает создание базы данных
 
-    '''def __init__(self, CVC, *args, **kwargs):
+
+    def __init__(self, CVC, *args, **kwargs):
 
         print(type(CVC))
-        if CVC == Conv_VideoCard:
+        if CVC == Conv_VC:
             super().__init__(*args, **kwargs)
             self.Title = CVC.Title
             self.GPUName = CVC.GPUName
@@ -242,11 +247,9 @@ class VideoCard(models.Model):
         else:
             super().__init__(*args, **kwargs)
             print("NONE")
-            #self.Title="DICH"
-        
-        '''
 
-    def create(self, CVC=Conv_VideoCard):
+
+    def create(self, CVC=Conv_VC):
         self.Title = CVC.Title
         self.GPUName = CVC.GPUName
         self.GPUVariant = CVC.GPUVariant
@@ -301,58 +304,124 @@ class VideoCard(models.Model):
         self.RTCores = CVC.RTCores
 
 
-    def return_all(self):
-        data = {}
-        data.update({'Title': self.Title})
-        data.update({'GPUName': self.GPUName})
-        data.update({'GPUVariant': self.GPUVariant})
-        data.update({'Architecture': self.Architecture})
-        data.update({'ProcessSize': self.ProcessSize})
-        data.update({'Transistors': self.Transistors})
-        data.update({'DieSize': self.DieSize})
-        data.update({'ReleaseDate': self.ReleaseDate})
-        data.update({'Generation': self.Generation})
-        data.update({'Production': self.Production})
-        data.update({'BusInterface': self.BusInterface})
-        data.update({'GPUClock': self.GPUClock})
-        data.update({'MemoryClock': self.MemoryClock})
-        data.update({'MemorySize': self.MemorySize})
-        data.update({'MemoryType': self.MemoryType})
-        data.update({'MemoryBus': self.MemoryBus})
-        data.update({'Bandwidth': self.Bandwidth})
-        data.update({'PixelShaders': self.PixelShaders})
-        data.update({'VertexShaders': self.VertexShaders})
-        data.update({'TMUs': self.TMUs})
-        data.update({'ROPs': self.ROPs})
-        data.update({'PixelRate': self.PixelRate})
-        data.update({'TextureRate': self.TextureRate})
-        data.update({'SlotWidth': self.SlotWidth})
-        data.update({'TDP': self.TDP})
-        data.update({'Outputs': self.Outputs})
-        data.update({'BoardNumber': self.BoardNumber})
-        data.update({'DirectX': self.DirectX})
-        data.update({'OpenGL': self.OpenGL})
-        data.update({'OpenCL': self.OpenCL})
-        data.update({'Vulkan': self.Vulkan})
-        data.update({'PixelShader': self.PixelShader})
-        data.update({'VertexShader': self.VertexShader})
-        data.update({'LaunchPrice': self.LaunchPrice})
-        data.update({'Foundry': self.Foundry})
-        data.update({'PowerConnectors': self.PowerConnectors})
-        data.update({'VertexRate': self.VertexRate})
-        data.update({'Length': self.Length})
-        data.update({'ShaderModel': self.ShaderModel})
-        data.update({'ShadingUnits': self.ShadingUnits})
-        data.update({'ComputeUnits': self.ComputeUnits})
-        data.update({'FP32performance': self.FP32performance})
-        data.update({'BoostClock': self.BoostClock})
-        data.update({'FP64performance': self.FP64performance})
-        data.update({'FP16performance': self.FP16performance})
-        data.update({'ShaderClock': self.ShaderClock})
-        data.update({'SMCount': self.SMCount})
-        data.update({'CUDA': self.CUDA})
-        data.update({'SMXCount': self.SMXCount})
-        data.update({'SMMCount': self.SMMCount})
-        data.update({'TensorCores': self.TensorCores})
-        data.update({'RTCores': self.RTCores})
-        return data
+
+
+def return_all(self):
+    data = {}
+    data.update({'Id': str(self.Id).rstrip()})
+    data.update({'Title': str(self.Title).rstrip()})
+    data.update({'GPUName': str(self.GPUName).rstrip()})
+    data.update({'GPUVariant': str(self.GPUVariant).rstrip()})
+    data.update({'Architecture': str(self.Architecture).rstrip()})
+    data.update({'ProcessSize': str(self.ProcessSize).rstrip()})
+    data.update({'Transistors': str(self.Transistors).rstrip()})
+    data.update({'DieSize': str(self.DieSize).rstrip()})
+    data.update({'ReleaseDate': str(self.ReleaseDate).rstrip()})
+    data.update({'Generation': str(self.Generation).rstrip()})
+    data.update({'Production': str(self.Production).rstrip()})
+    data.update({'BusInterface': str(self.BusInterface).rstrip()})
+    data.update({'GPUClock': str(self.GPUClock).rstrip()})
+    data.update({'MemoryClock': str(self.MemoryClock).rstrip()})
+    data.update({'MemorySize': str(self.MemorySize).rstrip()})
+    data.update({'MemoryType': str(self.MemoryType).rstrip()})
+    data.update({'MemoryBus': str(self.MemoryBus).rstrip()})
+    data.update({'Bandwidth': str(self.Bandwidth).rstrip()})
+    data.update({'PixelShaders': str(self.PixelShaders).rstrip()})
+    data.update({'VertexShaders': str(self.VertexShaders).rstrip()})
+    data.update({'TMUs': str(self.TMUs).rstrip()})
+    data.update({'ROPs': str(self.ROPs).rstrip()})
+    data.update({'PixelRate': str(self.PixelRate).rstrip()})
+    data.update({'TextureRate': str(self.TextureRate).rstrip()})
+    data.update({'SlotWidth': str(self.SlotWidth).rstrip()})
+    data.update({'TDP': str(self.TDP).rstrip()})
+    data.update({'Outputs': str(self.Outputs).rstrip()})
+    data.update({'BoardNumber': str(self.BoardNumber).rstrip()})
+    data.update({'DirectX': str(self.DirectX).rstrip()})
+    data.update({'OpenGL': str(self.OpenGL).rstrip()})
+    data.update({'OpenCL': str(self.OpenCL).rstrip()})
+    data.update({'Vulkan': str(self.Vulkan).rstrip()})
+    data.update({'PixelShader': str(self.PixelShader).rstrip()})
+    data.update({'VertexShader': str(self.VertexShader).rstrip()})
+    data.update({'LaunchPrice': str(self.LaunchPrice).rstrip()})
+    data.update({'Foundry': str(self.Foundry).rstrip()})
+    data.update({'PowerConnectors': str(self.PowerConnectors).rstrip()})
+    data.update({'VertexRate': str(self.VertexRate).rstrip()})
+    data.update({'Length': str(self.Length).rstrip()})
+    data.update({'ShaderModel': str(self.ShaderModel).rstrip()})
+    data.update({'ShadingUnits': str(self.ShadingUnits).rstrip()})
+    data.update({'ComputeUnits': str(self.ComputeUnits).rstrip()})
+    data.update({'FP32performance': str(self.FP32performance).rstrip()})
+    data.update({'BoostClock': str(self.BoostClock).rstrip()})
+    data.update({'FP64performance': str(self.FP64performance).rstrip()})
+    data.update({'FP16performance': str(self.FP16performance).rstrip()})
+    data.update({'ShaderClock': str(self.ShaderClock).rstrip()})
+    data.update({'SMCount': str(self.SMCount).rstrip()})
+    data.update({'CUDA': str(self.CUDA).rstrip()})
+    data.update({'SMXCount': str(self.SMXCount).rstrip()})
+    data.update({'SMMCount': str(self.SMMCount).rstrip()})
+    data.update({'TensorCores': str(self.TensorCores).rstrip()})
+    data.update({'RTCores': str(self.RTCores).rstrip()})
+    data.update({'Manufacturer': str(self.Manufacturer).rstrip()})
+    return data
+
+
+
+#Конвертирование видеокарты с сырыми данными, тоесть нельзя обратиться к полю по названию
+def rawVC_to_ConvVC(rawVC):
+    newConv_VC = Conv_VC(
+        rawVC[0],
+        rawVC[1],
+        rawVC[2],
+        rawVC[3],
+        rawVC[4],
+        rawVC[5],
+        rawVC[6],
+        rawVC[7],
+        rawVC[8],
+        rawVC[9],
+        rawVC[10],
+        rawVC[11],
+        rawVC[12],
+        rawVC[13],
+        rawVC[14],
+        rawVC[15],
+        rawVC[16],
+        rawVC[17],
+        rawVC[18],
+        rawVC[19],
+        rawVC[20],
+        rawVC[21],
+        rawVC[22],
+        rawVC[23],
+        rawVC[24],
+        rawVC[25],
+        rawVC[26],
+        rawVC[27],
+        rawVC[28],
+        rawVC[29],
+        rawVC[30],
+        rawVC[31],
+        rawVC[32],
+        rawVC[33],
+        rawVC[34],
+        rawVC[35],
+        rawVC[36],
+        rawVC[37],
+        rawVC[38],
+        rawVC[39],
+        rawVC[40],
+        rawVC[41],
+        rawVC[42],
+        rawVC[43],
+        rawVC[44],
+        rawVC[45],
+        rawVC[46],
+        rawVC[47],
+        rawVC[48],
+        rawVC[49],
+        rawVC[50],
+        rawVC[51],
+        rawVC[52],
+        rawVC[53]
+    )
+    return newConv_VC

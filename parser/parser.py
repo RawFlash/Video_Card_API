@@ -17,7 +17,7 @@ from datetime import  datetime
 
 
 #Импортирует стандартную модель видеокарт
-from  Video_Card_API.video_card_api.api.models import VideoCard
+from api.models import VideoCard
 
 def Parsing_Url_Videocard_Main():
 
@@ -261,6 +261,10 @@ def Max_length():
     print("!!MAX_LENGTH!!"+max_length)
     print(len(max_length))
 
+#Тестовая функция
+def test ():
+    print("Work")
+
 #def UpdateDB():
     #VideoCard.
 
@@ -270,6 +274,6 @@ def Max_length():
 
 #Print_parametrs()
 
-Parsing_Url_Videocard_Main()
+#Parsing_Url_Videocard_Main()
 
 #Parsing_Url_Videocard("http://www.techpowerup.com/gpu-specs/geforce-mx230.c3350")
