@@ -28,9 +28,10 @@ from django.conf import settings
 
 urlpatterns = [
     #url('update_db',update_db_biews.main),
-    url('',views.main),
+    
     #url('json',api.views.request_db),
     path(MAIN_URL,include('api.urls')),
+    url('',views.main),
 
 ]
               #+ static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
